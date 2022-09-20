@@ -1,0 +1,5 @@
+doc_name,categoria,batch,giudizio
+DEM_LIE_doc5,correct false,1,-0.4
+DEM_LIE_doc5,wrong false,2,0.384615385
+REP_LIE_doc5,correct false,1,-0.8
+REP_LIE_doc5,wrong false,2,0.454545455

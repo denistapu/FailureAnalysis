@@ -1,0 +1,216 @@
+col,value,url_speaksabout_mean,url_speaksabout_median,fre_mean,size_speak,size_fre
+current_try,2,-0.5,-0.5,40.52,2.0,2.0
+current_try,1,0.18,1.0,56.57,398.0,40.0
+q_0_age_answer,50-80,0.03,0.0,56.36,37.0,25.0
+q_0_age_answer,36-50,0.13,1.0,58.25,99.0,36.0
+q_0_age_answer,19-25,0.18,1.0,55.02,82.0,37.0
+q_0_age_answer,26-35,0.23,1.0,56.23,182.0,40.0
+q_0_school_answer,"Postgrad. or professional schooling, no degree",-0.24,-1.0,54.72,21.0,18.0
+q_0_school_answer,Postgrad. or professional degree (etc.),0.08,0.0,54.63,75.0,33.0
+q_0_school_answer,4 year college/bachelor degree,0.14,1.0,56.06,200.0,40.0
+q_0_school_answer,Some college (etc.),0.38,1.0,60.5,76.0,35.0
+q_0_school_answer,High school graduate or GED (etc.),0.46,1.0,54.96,28.0,21.0
+q_0_taxes_answer,"10,000 to less than 20,000",-0.12,-0.5,57.58,26.0,23.0
+q_0_taxes_answer,"75,000 to less than 100,000",0.03,0.0,54.83,73.0,34.0
+q_0_taxes_answer,"30,000 to less than 40,000",0.14,1.0,56.14,56.0,29.0
+q_0_taxes_answer,"40,000 to less than 50,000",0.18,0.0,56.47,60.0,33.0
+q_0_taxes_answer,"50,000 to less than 75,000",0.21,1.0,55.23,95.0,38.0
+q_0_taxes_answer,"150,000 or more",0.24,1.0,61.43,21.0,16.0
+q_0_taxes_answer,"Less than 10,000",0.25,1.0,57.23,16.0,11.0
+q_0_taxes_answer,"20,000 to less than 30,000",0.28,1.0,64.75,25.0,18.0
+q_0_taxes_answer,"100,000 to less than 150,000",0.57,1.0,53.32,28.0,20.0
+q_0_political_views_answer,Very conservative,-0.35,-1.0,55.71,49.0,29.0
+q_0_political_views_answer,Conservative,0.05,0.5,58.34,64.0,32.0
+q_0_political_views_answer,Moderate,0.23,1.0,57.21,93.0,40.0
+q_0_political_views_answer,Liberal,0.32,1.0,55.93,127.0,40.0
+q_0_political_views_answer,Very liberal,0.33,1.0,55.37,67.0,29.0
+q_0_consideration_answer,Republican,-0.11,-1.0,56.04,112.0,40.0
+q_0_consideration_answer,Democrat,0.25,1.0,56.78,184.0,40.0
+q_0_consideration_answer,Independent,0.33,1.0,56.75,96.0,40.0
+q_0_consideration_answer,Something else,0.5,1.0,53.16,8.0,8.0
+q_0_southern_border_answer,Agree,-0.19,-1.0,58.43,167.0,40.0
+q_0_southern_border_answer,No opinion either way,0.07,1.0,54.08,28.0,20.0
+q_0_southern_border_answer,Disagree,0.48,1.0,55.24,205.0,40.0
+q_0_environment_answer,Agree,0.17,1.0,56.1,334.0,40.0
+q_0_environment_answer,Disagree,0.21,1.0,57.89,39.0,23.0
+q_0_environment_answer,No opinion either way,0.22,1.0,59.35,27.0,21.0
+q_1_farmers_value,wrong value,0.02,0.0,57.42,203.0,40.0
+q_1_farmers_value,correct value,0.34,1.0,55.53,197.0,40.0
+q_2_marks_value,wrong value,0.17,1.0,57.0,271.0,40.0
+q_2_marks_value,correct value,0.19,1.0,55.43,129.0,39.0
+q_3_athletics_value,wrong value,0.1,0.5,57.87,234.0,40.0
+q_3_athletics_value,correct value,0.28,1.0,54.55,166.0,40.0
+doc_index,6,-0.17,-1.0,61.68,30.0,16.0
+doc_index,3,-0.16,-1.0,58.15,25.0,15.0
+doc_index,10,0.0,0.0,54.35,69.0,29.0
+doc_index,0,0.07,0.5,58.27,30.0,24.0
+doc_index,5,0.1,0.0,58.99,29.0,15.0
+doc_index,1,0.18,1.0,55.46,33.0,24.0
+doc_index,7,0.26,1.0,58.45,27.0,16.0
+doc_index,8,0.29,1.0,54.19,48.0,27.0
+doc_index,2,0.37,1.0,53.83,35.0,26.0
+doc_index,4,0.46,1.0,63.54,24.0,16.0
+doc_index,9,0.46,1.0,53.3,50.0,22.0
+doc_name,REP,0.06,0.0,59.75,90.0,9.0
+doc_name,DEM,0.19,1.0,58.44,130.0,13.0
+doc_name,Labor,0.2,1.0,51.1,90.0,9.0
+doc_name,Liberal,0.24,1.0,55.81,90.0,9.0
+doc_claimant,Graeme Zielinski,-1.0,-1.0,46.1,10.0,1.0
+doc_claimant,Barry O'Farrell,-0.89,-1.0,60.65,9.0,1.0
+doc_claimant,Dean Cannon,-0.7,-1.0,60.99,10.0,1.0
+doc_claimant,Alan Grayson,-0.5,-1.0,62.01,10.0,1.0
+doc_claimant,Paul Hirschbiel,-0.5,-1.0,71.82,10.0,1.0
+doc_claimant,Michelle Rowland,-0.5,-1.0,40.01,10.0,1.0
+doc_claimant,Lena Taylor,-0.4,-1.0,66.74,10.0,1.0
+doc_claimant,Jason Isaac,-0.4,-1.0,61.67,10.0,1.0
+doc_claimant,Scott Walker,-0.3,-0.5,66.74,10.0,1.0
+doc_claimant,Josh Mandel,-0.3,-1.0,25.12,10.0,1.0
+doc_claimant,Ron Desantis,-0.1,-0.5,65.05,10.0,1.0
+doc_claimant,Scott Morrison,0.0,0.0,59.3,10.0,1.0
+doc_claimant,Yvette Mcgee Brown,0.2,1.0,78.25,10.0,1.0
+doc_claimant,Anthony Albanese,0.2,1.0,48.81,10.0,1.0
+doc_claimant,Tony Abbott,0.27,1.0,57.27,30.0,3.0
+doc_claimant,Kevin Rudd,0.28,1.0,54.02,50.0,5.0
+doc_claimant,Gina Raimondo,0.3,1.0,32.9,10.0,1.0
+doc_claimant,Chris Bowen,0.35,1.0,50.5,20.0,2.0
+doc_claimant,Chris Christie,0.4,1.0,67.76,10.0,1.0
+doc_claimant,Mary Burke,0.4,1.0,75.54,10.0,1.0
+doc_claimant,Eric Cantor,0.45,1.0,57.44,20.0,2.0
+doc_claimant,Joe Hockey,0.48,1.0,57.93,21.0,2.0
+doc_claimant,Marcia Fudge,0.5,0.5,39.67,10.0,1.0
+doc_claimant,Christopher Pyne,0.5,1.0,41.36,10.0,1.0
+doc_claimant,David Cicilline,0.6,1.0,35.28,10.0,1.0
+doc_claimant,Barack Obama,0.6,1.0,76.56,10.0,1.0
+doc_claimant,George Brandis,0.7,1.0,53.55,10.0,1.0
+doc_claimant,Hillary Clinton,0.7,1.0,38.99,10.0,1.0
+doc_claimant,Blue Oregon,0.8,1.0,72.16,10.0,1.0
+doc_claimant,Dennis Kucinich,0.8,1.0,63.7,10.0,1.0
+doc_claimant,Mitt Romney,1.0,1.0,75.54,10.0,1.0
+doc_date,2011,-0.2,-1.0,50.16,50.0,5.0
+doc_date,2012,0.08,0.0,60.18,50.0,5.0
+doc_date,2013,0.15,1.0,54.4,170.0,17.0
+doc_date,2010,0.28,1.0,68.78,40.0,4.0
+doc_date,2014,0.39,1.0,56.06,70.0,7.0
+doc_date,2008,0.6,1.0,76.56,10.0,1.0
+doc_date,2007,0.7,1.0,38.99,10.0,1.0
+doc_source,politifact,0.14,1.0,58.98,220.0,22.0
+doc_source,abc,0.22,1.0,53.46,180.0,18.0
+doc_overall-truthfulness_value,0,-0.09,0.0,57.18,90.0,37.0
+doc_overall-truthfulness_value,-1,0.17,1.0,58.96,58.0,31.0
+doc_overall-truthfulness_value,-2,0.24,1.0,58.37,37.0,20.0
+doc_overall-truthfulness_value,1,0.27,1.0,55.8,123.0,35.0
+doc_overall-truthfulness_value,2,0.28,1.0,54.43,92.0,35.0
+doc_confidence_value,1,-0.03,0.0,58.33,111.0,40.0
+doc_confidence_value,0,0.11,1.0,55.39,90.0,35.0
+doc_confidence_value,2,0.18,1.0,57.54,45.0,28.0
+doc_confidence_value,-2,0.32,1.0,54.34,84.0,34.0
+doc_confidence_value,-1,0.4,1.0,56.91,70.0,33.0
+doc_correctness_value,0,0.03,0.0,58.09,88.0,40.0
+doc_correctness_value,-2,0.12,1.0,58.99,40.0,23.0
+doc_correctness_value,-1,0.21,1.0,57.48,68.0,30.0
+doc_correctness_value,1,0.22,1.0,55.33,140.0,39.0
+doc_correctness_value,2,0.27,1.0,54.22,64.0,28.0
+doc_neutrality_value,0,0.02,0.0,58.64,81.0,33.0
+doc_neutrality_value,1,0.14,1.0,56.41,131.0,39.0
+doc_neutrality_value,-1,0.22,1.0,53.73,67.0,33.0
+doc_neutrality_value,2,0.25,1.0,54.99,60.0,28.0
+doc_neutrality_value,-2,0.33,1.0,58.31,61.0,28.0
+doc_comprehensibility_value,-2,-0.17,-0.5,58.71,12.0,11.0
+doc_comprehensibility_value,-1,-0.08,-1.0,58.68,25.0,18.0
+doc_comprehensibility_value,0,0.02,1.0,58.39,49.0,29.0
+doc_comprehensibility_value,1,0.2,1.0,57.21,185.0,40.0
+doc_comprehensibility_value,2,0.28,1.0,54.11,129.0,38.0
+doc_precision_value,-2,-0.11,-1.0,56.03,18.0,16.0
+doc_precision_value,0,-0.09,0.0,56.07,67.0,30.0
+doc_precision_value,-1,0.07,0.0,55.05,43.0,26.0
+doc_precision_value,2,0.24,1.0,54.97,97.0,38.0
+doc_precision_value,1,0.3,1.0,57.9,175.0,40.0
+doc_completeness_value,0,-0.01,0.0,56.02,96.0,40.0
+doc_completeness_value,1,0.2,1.0,57.55,121.0,38.0
+doc_completeness_value,-1,0.21,1.0,56.07,77.0,39.0
+doc_completeness_value,-2,0.26,1.0,60.68,34.0,23.0
+doc_completeness_value,2,0.31,1.0,53.81,72.0,32.0
+doc_speaker's-trustworthiness_value,-2,-0.09,-1.0,58.14,35.0,21.0
+doc_speaker's-trustworthiness_value,1,0.11,0.0,56.14,121.0,38.0
+doc_speaker's-trustworthiness_value,-1,0.17,1.0,56.74,54.0,27.0
+doc_speaker's-trustworthiness_value,0,0.24,1.0,56.85,135.0,40.0
+doc_speaker's-trustworthiness_value,2,0.35,1.0,55.11,55.0,31.0
+doc_informativeness_value,0,0.0,0.0,55.66,90.0,37.0
+doc_informativeness_value,-2,0.17,1.0,56.81,23.0,18.0
+doc_informativeness_value,-1,0.2,1.0,56.88,49.0,29.0
+doc_informativeness_value,1,0.22,1.0,57.88,165.0,40.0
+doc_informativeness_value,2,0.26,1.0,54.03,73.0,34.0
+doc_accesses,1,0.16,1.0,56.54,389.0,40.0
+doc_accesses,2,0.5,1.0,53.75,10.0,10.0
+doc_accesses,3,1.0,1.0,65.05,1.0,1.0
+type,wrong_true_all_10,0.02,0.0,60.11,100.0,10.0
+type,wrong_false_all_10,0.04,0.0,51.08,99.0,10.0
+type,correct_false_all_10,0.19,1.0,60.62,101.0,10.0
+type,correct_true_all_10,0.45,1.0,54.06,100.0,10.0
+doc_statement,Says the Wisconsin Republican Party tweeted Happy International Womens Day You ladies should get paid less and not be able to make health care decisions,-1.0,-1.0,46.1,10.0,1.0
+doc_statement,Barry OFarrell says NSW collects more from proceeds of crime than all other states and the federal government combined,-0.89,-1.0,60.65,9.0,1.0
+doc_statement,I think it is important to do what we reasonably can to get them up again I just wish that this Government hadnt presided over a reduction in vaccination rates,-0.8,-1.0,57.95,10.0,1.0
+doc_statement,House Speaker Dean Cannon says that freshmen lawmakers account for onethird of the 120member House and that twothirds of the chamber have two years or less experience,-0.7,-1.0,60.99,10.0,1.0
+doc_statement,According to Wikipedia there are only five countries in the entire planet that are more unequal than the United States in the distribution of our wealth,-0.5,-1.0,62.01,10.0,1.0
+doc_statement,Were very prepared to put out a statement before the election updating on the budget process Joshs party hasnt even submitted one policy for costing yet to the Parliamentary Budget Office,-0.5,-1.0,40.01,10.0,1.0
+doc_statement,Virginia papers called Scott Rigells campaign Mostly False,-0.5,-1.0,71.82,10.0,1.0
+doc_statement,Says this months special session will cost the state 27300 a day just for legislators daily living expenses,-0.4,-1.0,61.67,10.0,1.0
+doc_statement,Hitler abolished unions and thats what Wisconsin Gov Scott Walker is doing today,-0.4,-1.0,66.74,10.0,1.0
+doc_statement,Wisconsin is 1 in the Midwest for personal income growth over the year,-0.3,-0.5,66.74,10.0,1.0
+doc_statement,Ilana Shafran Mandels stake in Forest City Enterprises constitutes significantly less than 1 percent of the companys shares and any implication of a conflict of interest is legally incorrect,-0.3,-1.0,25.12,10.0,1.0
+doc_statement,While millions of people lost their jobs around the world we have until today added nearly a million more than we had than when we went to office,-0.2,-0.5,68.44,10.0,1.0
+doc_statement,The tax penalty that the government imposes if you dont buy health insurance is lower than it would have cost to buy insurance,-0.1,-0.5,65.05,10.0,1.0
+doc_statement,People have illegally entered Australia when theyve come without a valid visa,0.0,0.0,59.3,10.0,1.0
+doc_statement,It is 22 billion Mr Rudd said on the ABCs QA program on September 2It is more than we spend for the entire nation on childcare support for all those families out there with kids in childcare It is a bigger number than that,0.1,0.0,52.2,10.0,1.0
+doc_statement,Chris Bowen says the Governments decision to scrap a 2000 cap on selfeducation expenses will allow people to travel as much as they like and claim as much as they like,0.1,0.5,48.47,10.0,1.0
+doc_statement,Anthony Albanese says eight out of the worlds top 10 airlines are majority governmentowned,0.2,1.0,48.81,10.0,1.0
+doc_statement,The first professional baseball team was from an Ohio city,0.2,1.0,78.25,10.0,1.0
+doc_statement,Collectively states are spending more on Medicaid than they do on K12 education,0.3,0.5,49.82,10.0,1.0
+doc_statement,Residential property taxes in Providence are up nearly 27 percent under Mayor Taveras,0.3,1.0,32.9,10.0,1.0
+doc_statement,Scott Walkers income tax plan is a tax hike It increases taxes for nearly 80 of the people in the state,0.4,1.0,75.54,10.0,1.0
+doc_statement,Mr Abbott seems to be suffering from just a little bit of amnesia Mr Rudd saidWhen he was health minister he cut 1 billion from the public hospitals budget of Australia,0.4,1.0,48.47,10.0,1.0
+doc_statement,Says I was the first governor in America to endorse Mitt Romney,0.4,1.0,67.76,10.0,1.0
+doc_statement,We left the country with net assets of 70 billion where if we are elected on the 7th of September we inherit debt going to 400 billion,0.45,1.0,60.99,11.0,1.0
+doc_statement,In Cuyahoga County56 percent of weekend voters in 2008 were African American while adult African Americans comprise 28 percent of the county population,0.5,0.5,39.67,10.0,1.0
+doc_statement,Joe Hockey says Australia has the fastest growth in spending and third highest growth in debt among 17 countries surveyed by the International Monetary Fund,0.5,1.0,54.56,10.0,1.0
+doc_statement,Christopher Pyne says independent public schools are improving student outcomes in Western Australia,0.5,1.0,41.36,10.0,1.0
+doc_statement,Australia is one of only eight countries given a rating of AAA with a stable outlook from all three credit rating agenciesThese are the real facts and no amount of negative political spin will change that,0.5,1.0,43.4,10.0,1.0
+doc_statement,Tony Abbott says asylum seekers who come to Australia are attempting to break Australian law,0.6,1.0,64.71,10.0,1.0
+doc_statement,Australias mum and dad investors selffunded retirees are facing a 16 billion a year slug to pay for Mr Abbotts expensive unaffordable unfair paid parental leave scheme,0.6,1.0,52.53,10.0,1.0
+doc_statement,98 percent of small businesses make less than 250000 and would not see a tax increase under Barack Obamas plan,0.6,1.0,76.56,10.0,1.0
+doc_statement,The WIC program is an incredibly cost effective program serving nearly 10 million Americans each year and costing less than 100 per person In my district more than 18 percent of residents suffer from food insecurity and depend on WIC to make ends meet,0.6,1.0,35.28,10.0,1.0
+doc_statement,The National Science Foundation spent 12 million paying seniors to play World of Warcraft to study the impact it had on their brain,0.6,1.0,65.05,10.0,1.0
+doc_statement,The Labor Party has repeatedly claimed the Coalition needs to make cuts of 70 billion to vital services to balance the budget,0.6,1.0,57.61,10.0,1.0
+doc_statement,Health insurance premiums have almost doubledsince 2000,0.7,1.0,38.99,10.0,1.0
+doc_statement,George Brandis has asked the ACT not to give effect to its new samesex marriage laws until their constitutional validity is determined by the High Court,0.7,1.0,53.55,10.0,1.0
+doc_statement,Says Rep Jim Weidner proposed a bill taking away health care for 80000 of Oregons children,0.8,1.0,72.16,10.0,1.0
+doc_statement,The War in Afghanistan is officially the longest war Americans have ever been asked to endure,0.8,1.0,63.7,10.0,1.0
+doc_statement,Tony Abbott says the reintroduction of fuel excise indexation will cost the average family 40 cents a week in the first year,1.0,1.0,49.15,10.0,1.0
+doc_statement,Says Barack Obama sold Chrysler to Italians who are going to build Jeeps in China at the cost of American jobs,1.0,1.0,75.54,10.0,1.0
+query_amount,4,-1.0,-1.0,52.59,6.0,5.0
+query_amount,7,-1.0,-1.0,40.01,1.0,1.0
+query_amount,5,-0.2,-1.0,54.43,5.0,4.0
+query_amount,8,0.0,0.0,52.03,2.0,2.0
+query_amount,3,0.06,0.0,56.54,18.0,14.0
+query_amount,2,0.13,1.0,55.39,54.0,29.0
+query_amount,1,0.21,1.0,56.85,308.0,40.0
+query_amount,6,0.33,1.0,64.6,3.0,3.0
+query_amount,11,1.0,1.0,40.01,1.0,1.0
+response_position,11,-1.0,-1.0,46.1,1.0,1.0
+response_position,8,-0.67,-1.0,62.06,6.0,6.0
+response_position,10,-0.43,-1.0,55.0,7.0,7.0
+response_position,9,-0.38,-1.0,53.55,8.0,7.0
+response_position,5,-0.3,-1.0,57.25,20.0,17.0
+response_position,7,-0.27,-1.0,58.89,15.0,14.0
+response_position,13,0.0,0.0,66.24,2.0,2.0
+response_position,25,0.0,0.0,62.34,2.0,2.0
+response_position,6,0.06,0.0,60.67,17.0,13.0
+response_position,3,0.1,1.0,59.55,60.0,34.0
+response_position,2,0.12,0.5,56.17,60.0,32.0
+response_position,4,0.17,1.0,56.32,29.0,22.0
+response_position,1,0.41,1.0,54.73,171.0,40.0
+selected_amount,2,-0.24,-1.0,58.2,37.0,23.0
+selected_amount,5,0.0,0.0,66.74,1.0,1.0
+selected_amount,1,0.21,1.0,56.28,345.0,40.0
+selected_amount,3,0.23,1.0,57.61,13.0,12.0
+selected_amount,4,1.0,1.0,48.97,2.0,2.0

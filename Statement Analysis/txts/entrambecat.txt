@@ -1,0 +1,27 @@
+pants:
+10: 	4 Republican (altri democrat) e sul muro agree (altri no opinion), doc_time_elapsed decrescente con rispetto alla batch
+	
+4:	doc_time_elapsed decrescente con rispetto alla batch (ma meno)
+
+9:	4 Conservative ( 3 Moderate, 2 Tra Moderate e Liberal), 
+	4 e 3 sul muro agree (4 di più), 2 disagree
+
+false:
+1: 	2 Liberal, 1 Moderate, 4 Conservative
+	muro: 2 disagree, 1 no opinion, 4 agree	
+
+3:	doc_time_elapsed decrescente con rispetto alla batch
+
+5:	1 Liberal, 4 Moderate
+	muro: 1 no opinion, 4 agree
+	doc_time_elapsed decrescente con rispetto alla batch
+
+true:
+4: 	2 Liberal, 3 Conservative
+	muro: 1 no opinion, 4 agree
+
+half-true:
+4: 	2 Liberal, 3 Moderate/Liberal, 4 Moderate
+	muro: 2 disagree, 3 no opinion, 4 agree
+
+9:	tutto molto simile

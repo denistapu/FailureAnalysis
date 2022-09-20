@@ -1,0 +1,175 @@
+type,val,pval
+current_try,2,0.4459216983631228
+current_try,1,0.9953914157630457
+q_0_age_answer,50-80,0.15193465327342134
+q_0_age_answer,36-50,0.26554325818387997
+q_0_age_answer,26-35,0.8497424087912566
+q_0_age_answer,19-25,0.8014406779470276
+q_0_school_answer,Postgrad. or professional degree (etc.),0.9237924129095583
+q_0_school_answer,"Postgrad. or professional schooling, no degree",0.9867501779616749
+q_0_school_answer,4 year college/bachelor degree,0.40942519444307257
+q_0_school_answer,Some college (etc.),0.01288540196692641
+q_0_school_answer,High school graduate or GED (etc.),0.347437181669859
+q_0_taxes_answer,"150,000 or more",0.8707903909025864
+q_0_taxes_answer,"100,000 to less than 150,000",0.3494217849933159
+q_0_taxes_answer,"75,000 to less than 100,000",0.46755370935921314
+q_0_taxes_answer,"50,000 to less than 75,000",0.5396124129207749
+q_0_taxes_answer,"40,000 to less than 50,000",0.21046214729623322
+q_0_taxes_answer,"30,000 to less than 40,000",0.8177774604535223
+q_0_taxes_answer,"20,000 to less than 30,000",0.08742656232856721
+q_0_taxes_answer,"10,000 to less than 20,000",0.05529684321023282
+q_0_taxes_answer,"Less than 10,000",0.11161022509471268
+q_0_political_views_answer,Very liberal,0.45156346940322845
+q_0_political_views_answer,Liberal,0.34681224842100605
+q_0_political_views_answer,Moderate,0.34748695425134857
+q_0_political_views_answer,Conservative,0.5428627357098244
+q_0_political_views_answer,Very conservative,0.08361749965693126
+q_0_consideration_answer,Something else,0.7212333746277604
+q_0_consideration_answer,Independent,0.42555207612052737
+q_0_consideration_answer,Democrat,0.9109516997917354
+q_0_consideration_answer,Republican,0.46517057885176694
+q_0_southern_border_answer,Agree,0.13712604437675677
+q_0_southern_border_answer,No opinion either way,0.7595033054600497
+q_0_southern_border_answer,Disagree,0.2531632900193185
+q_0_environment_answer,Agree,0.8452742890689322
+q_0_environment_answer,No opinion either way,0.9039826111038702
+q_0_environment_answer,Disagree,0.059655865077895026
+q_1_farmers_value,correct value,0.8213636900817131
+q_1_farmers_value,wrong value,0.8965032978285138
+q_2_marks_value,correct value,0.6862533263258551
+q_2_marks_value,wrong value,0.9092383089055457
+q_3_athletics_value,correct value,0.42507118133223065
+q_3_athletics_value,wrong value,0.7134428557880723
+doc_index,10,0.8973110863344453
+doc_index,9,0.0012189526310978087
+doc_index,8,0.14190293782547278
+doc_index,7,0.2291614539479019
+doc_index,6,0.0008919912457079316
+doc_index,5,0.008901001697763766
+doc_index,4,0.4804224707759902
+doc_index,3,0.4988991475375034
+doc_index,2,0.046887692094813326
+doc_index,1,0.8520187376850992
+doc_index,0,0.6328991554063941
+doc_name,REP,1.2693118903570967e-25
+doc_name,Liberal,0.002109781536251571
+doc_name,Labor,0.0010707591130809176
+doc_name,DEM,9.731692795457263e-05
+doc_claimant,Scott Walker,7.744216431044088e-06
+doc_claimant,Ron Desantis,7.744216431044088e-06
+doc_claimant,Kevin Rudd,0.0006228059186288972
+doc_claimant,Josh Mandel,7.744216431044088e-06
+doc_claimant,Joe Hockey,4.012126658231684e-09
+doc_claimant,Jason Isaac,7.744216431044088e-06
+doc_claimant,Eric Cantor,1.065509033425585e-08
+doc_claimant,Dean Cannon,7.744216431044088e-06
+doc_claimant,Blue Oregon,7.744216431044088e-06
+doc_claimant,Barack Obama,0.00026727001033737213
+doc_claimant,Tony Abbott,0.01014773822638626
+doc_claimant,Lena Taylor,7.744216431044088e-06
+doc_claimant,Gina Raimondo,7.744216431044088e-06
+doc_claimant,David Cicilline,7.744216431044088e-06
+doc_claimant,Christopher Pyne,0.0002607296328553165
+doc_claimant,Chris Christie,7.744216431044088e-06
+doc_claimant,Chris Bowen,1.214287874352398e-09
+doc_claimant,Barry O'Farrell,2.826474881453256e-08
+doc_claimant,Yvette Mcgee Brown,7.744216431044088e-06
+doc_claimant,Scott Morrison,7.744216431044088e-06
+doc_claimant,Marcia Fudge,7.744216431044088e-06
+doc_claimant,Hillary Clinton,7.744216431044088e-06
+doc_claimant,George Brandis,7.744216431044088e-06
+doc_claimant,Dennis Kucinich,7.744216431044088e-06
+doc_claimant,Alan Grayson,7.744216431044088e-06
+doc_claimant,Paul Hirschbiel,7.744216431044088e-06
+doc_claimant,Mitt Romney,1.065509033425585e-08
+doc_claimant,Michelle Rowland,7.744216431044088e-06
+doc_claimant,Mary Burke,7.744216431044088e-06
+doc_claimant,Graeme Zielinski,7.744216431044088e-06
+doc_claimant,Anthony Albanese,2.497997772465205e-05
+doc_date,2014,0.0006392784530213727
+doc_date,2013,0.008728501260379152
+doc_date,2012,1.154985370371922e-05
+doc_date,2011,9.296929468199813e-08
+doc_date,2010,0.0008275246236931519
+doc_date,2008,0.0002607296328553165
+doc_date,2007,0.0002607296328553165
+doc_source,politifact,6.008578582454909e-05
+doc_source,abc,1.3426004123637389e-05
+doc_overall-truthfulness_value,completely-agree,1.1855624561411361e-07
+doc_overall-truthfulness_value,agree,0.00031075346439180245
+doc_overall-truthfulness_value,neither-agree-nor-disagree,0.07005867310872346
+doc_overall-truthfulness_value,disagree,1.7096618348588262e-05
+doc_overall-truthfulness_value,completely-disagree,2.1776562174864954e-07
+doc_confidence_value,completely-agree,0.017794670563546642
+doc_confidence_value,agree,0.5949340500152087
+doc_confidence_value,neither-agree-nor-disagree,0.25202432739018016
+doc_confidence_value,disagree,0.002092475791564221
+doc_confidence_value,completely-disagree,0.06787163832932337
+doc_correctness_value,completely-agree,3.6218814712169724e-07
+doc_correctness_value,agree,0.17526115944984222
+doc_correctness_value,neither-agree-nor-disagree,0.6638655334306094
+doc_correctness_value,disagree,5.566715469719401e-05
+doc_correctness_value,completely-disagree,1.3371283335964821e-06
+doc_neutrality_value,completely-agree,0.3572163968185304
+doc_neutrality_value,agree,0.5096711993745613
+doc_neutrality_value,neither-agree-nor-disagree,0.33791535611364354
+doc_neutrality_value,disagree,0.35338518865010327
+doc_neutrality_value,completely-disagree,9.278153584553964e-06
+doc_comprehensibility_value,completely-agree,0.08208305315953528
+doc_comprehensibility_value,agree,0.36933651760398656
+doc_comprehensibility_value,neither-agree-nor-disagree,0.9575537181947298
+doc_comprehensibility_value,disagree,0.9241986527102778
+doc_comprehensibility_value,completely-disagree,0.22450098138926314
+doc_precision_value,completely-agree,0.10527951071250854
+doc_precision_value,agree,0.7856147919688278
+doc_precision_value,neither-agree-nor-disagree,0.6681308952737235
+doc_precision_value,disagree,0.16381346883581527
+doc_precision_value,completely-disagree,0.1604460533193897
+doc_completeness_value,completely-agree,0.17545145958631528
+doc_completeness_value,agree,0.937958941904614
+doc_completeness_value,neither-agree-nor-disagree,0.686122296058606
+doc_completeness_value,disagree,0.3656309306192535
+doc_completeness_value,completely-disagree,0.004041249690316995
+doc_speaker's-trustworthiness_value,completely-agree,0.0024396322939741963
+doc_speaker's-trustworthiness_value,agree,0.013870983191786427
+doc_speaker's-trustworthiness_value,neither-agree-nor-disagree,0.42864604969368914
+doc_speaker's-trustworthiness_value,disagree,0.00046851956021286517
+doc_speaker's-trustworthiness_value,completely-disagree,0.002692768852984745
+doc_informativeness_value,completely-agree,0.0004688222907047203
+doc_informativeness_value,agree,0.8487280906388004
+doc_informativeness_value,neither-agree-nor-disagree,0.5250529149728638
+doc_informativeness_value,disagree,0.010804609212403636
+doc_informativeness_value,completely-disagree,0.015354584861638302
+doc_accesses,3,0.5852769636293695
+doc_accesses,2,0.8767914174735874
+doc_accesses,1,0.9977461582037651
+doc_overall-truthfulness_url,en.wikipedia.org,0.3229954694680676
+doc_overall-truthfulness_url,www.theguardian.com,0.27971699724576043
+doc_overall-truthfulness_url,www.youtube.com,2.86883257852044e-06
+query_amount,11,0.15729920705028105
+query_amount,8,1.0
+query_amount,7,0.15729920705028105
+query_amount,6,0.11161022509471268
+query_amount,5,0.5581846494226572
+query_amount,4,0.10960055482113619
+query_amount,3,0.06271883224906886
+query_amount,2,0.7908401219975473
+query_amount,1,0.6340646915356574
+response_position,25,0.04550026389635857
+response_position,13,1.0
+response_position,11,0.26146412994911117
+response_position,10,0.27440270460653293
+response_position,9,0.2835135406363351
+response_position,8,0.26146412994911117
+response_position,7,0.8191672046168681
+response_position,6,0.08286641185242904
+response_position,5,0.47645686467520654
+response_position,4,0.7007169450667425
+response_position,3,0.916517565355129
+response_position,2,0.7553150323937262
+response_position,1,0.5736442908947883
+selected_amount,5,0.24821307898992026
+selected_amount,4,0.9232628347180252
+selected_amount,3,0.7326978202432661
+selected_amount,2,0.6003671013123653
+selected_amount,1,0.9859568855779466

@@ -1,0 +1,49 @@
+1.	Ci sono statement con caratteristiche simili a quelli che sono in comune a tutte le batch di riferimento, però nella caregoria opposta? Per esempio, nel caso del dataset medical, ci sono statement nella categoria wrong, della varie batch, che siano simili a quello della categoria correct in Tabella 2? 
+
+Multidimensional:
+correct:
+false:
+Batch: 
+	1: 
+	(1) Says I was the first governor in America to endorse Mitt Romney
+	(2) Residential property taxes in Providence are up nearly 27 percent under Mayor Taveras
+
+	2:
+	(1) Virginia papers called (Scott) Rigells campaign Mostly False.
+	(1) Says I was the first governor in America to endorse Mitt Romney.
+	(2) Of every three dollars in food stamps for the needy, seven dollars in salaries and pensions (go to) the bureaucrats who are supposed to be taking care of the poor.
+	(2) Residential property taxes [in Providence] are up nearly 27 percent under Mayor Taveras.
+
+
+true:
+Batch:
+	1:
+	(1,2) Wisconsin is 1 in the Midwest for personal income growth over the year
+
+	2:
+	(1,2) Wisconsin is #1 in the Midwest for personal income growth over the year.
+
+wrong:
+false:
+Batch:
+	1:
+	(1) Scott Walkers income tax plan is a tax hike It increases taxes for nearly 80 of the people in the state
+	(2) Virginia papers called Scott Rigells campaign Mostly False
+	(2) Says the Wisconsin Republican Party tweeted Happy International Womens Day You ladies should get paid less and not be able to make health care decisions
+
+	2:
+	(1) Scott Walkers income tax plan is a tax hike. It increases taxes for nearly 80% of the people in the state.
+	(1) Ninety-four percent of small businesses will face HIGHer taxes under the Democrats plan.
+	(2) Says the Wisconsin Republican Party tweeted Happy International Womens Day! You ladies should get paid less and not be able to make health care decisions.
+
+
+true:
+Batch:
+	1:
+	(1) Health insurance premiums have almost doubledsince 2000
+	(2) The first professional baseball team was from an Ohio city
+	(2) According to Wikipedia there are only five countries in the entire planet that are more unequal than the United States in the distribution of our wealth
+	(2) The War in Afghanistan is officially the longest war Americans have ever been asked to endure
+
+	2:
+	nessuna

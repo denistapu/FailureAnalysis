@@ -1,0 +1,40 @@
+1.	Ci sono statement con caratteristiche simili a quelli che sono in comune a tutte le batch di riferimento, però nella caregoria opposta? Per esempio, nel caso del dataset medical, ci sono statement nella categoria wrong, della varie batch, che siano simili a quello della categoria correct in Tabella 2? 
+
+Medical:
+correct:
+Batch: 
+	1: 
+	nessuna
+	2:
+	nessuna
+	3:
+	nessuna
+	4:
+	nessuna
+wrong:
+Batch: 
+	1:
+	(2) COVID literally stands for Chinese Originated Viral Infectious Disease
+	(5) Some states are only getting 50 tests per day and the Utah Jazz got 58
+
+	2:
+	(1) Bill Gates told us about the coronavirus in 2015
+	(1,3) Bill Gates and other globalists in collaboration with pharmaceutical companies are reportedly working to push tracking bracelets andinvisible tattoosÃ¢ to monitor Americans during an impending lockdown
+	(3) the US is developing anantivirusÃ¯Â½ that includes a chip to track your movement	
+	(5) So Oscar Health the company tapped by Trump to profit from covid tests is a Kushner company Imagine that profits over national safety
+	
+	3:
+	(2) Three Chinese nationals were apprehended trying to cross our Southern border illegally Each had flulike symptoms Border Patrol quickly quarantined them and assessed any threat of coronavirus
+	(3) Youre more likely to die of influenza right now than the 2019 coronavirus
+	(3,4) Says 80 of novel coronavirus cases are mild
+	(5) So Oscar Health the company tapped by Trump to profit from covid tests is a Kushner company Imagine that profits over national safety
+	(5)Says of President Donald TrumpÃ¢s actions on the coronavirusNo 1 he fired the pandemic team two years ago No 2 hes been defunding the Centers for Disease ControlÃ¢
+	
+	4:
+	(1) Bill Gates told us about the coronavirus in 2015
+	(2) 45 nations had already movedÃ¢ to enforce travel restrictions with Chinabefore the president moved
+	(2) Three Chinese nationals were apprehended trying to cross our Southern border illegally Each had flulike symptoms Border Patrol quickly quarantined them and assessed any threat of coronavirus
+	(3,4) Says 80 of novel coronavirus cases aremildÃ¢
+	(5) So Oscar Health the company tapped by Trump to profit from covid tests is a Kushner company Imagine that profits over national safety
+	(5) The United States isactually screening fewer people for the coronavirus than other countries because we donÃ‚t have appropriate testing
+	

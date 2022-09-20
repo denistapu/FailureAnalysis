@@ -1,0 +1,21 @@
+Ci sono molti statement che contengono Donald Trump che sono True, ma sono corretti solo in alcune batch. Bias liberal
+Forse ce ne sono alcuni che lo contengono e sono false, ma sono correct solo per alcune batch. Bias conservative
+
+True:
+correct:
+(1,2,3) On February 7 the WHO warned about the limited stock of PPE That same day the Trump administration announced it was sending 18 tons of masks gowns and respirators to China
+
+Half-true:
+wrong:
+(1) Says Donald Trump himself has a financial stake in the French company that makes the brandname version of hydroxychloroquine
+
+correct:
+(2,3,4) So Oscar Health the company tapped by Trump to profit from covid tests is a Kushner company Imagine that profits over national safety
+(3) Says Donald Trump himself has a financial stake in the French company that makes the brandname version of hydroxychloroquine
+(3) Says of President Donald TrumpÃ¢s actions on the coronavirusNo 1 he fired the pandemic team two years ago No 2 hes been defunding the Centers for Disease ControlÃ¢
+
+
+true_doc1
+half-true_doc9
+half-true_doc3
+half-true_doc7

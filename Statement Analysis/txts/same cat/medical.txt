@@ -1,0 +1,39 @@
+Medical:
+correct:
+Batch: 
+	1: 
+	It has been estimated that only 12 of workers in businesses that are likely to stay open during this crisis are receiving paid sick leave benefits as a result of the second coronavirus relief package
+	Says Spectrum will provide free internet to students during coronavirus school closures
+	Says truck drivers are being turned away from fastfood restaurants during the COVID19 pandemic
+
+	2:
+	It has been estimated that only 12 of workers in businesses that are likely to stay open during this crisis are receiving paid sick leave benefits as a result of the second coronavirus relief package
+
+	3:
+	It has been estimated that only 12 of workers in businesses that are likely to stay open during this crisis are receiving paid sick leave benefits as a result of the second coronavirus relief package
+	Says truck drivers are being turned away from fastfood restaurants during the COVID19 pandemic
+
+	4:
+	Says Spectrum will provide free internet to students during coronavirus school closures
+	Says truck drivers are being turned away from fastfood restaurants during the COVID19 pandemic
+	Ron Johnson said Americans should go back to work becausedeath is an unavoidable part of lifeÃ¢
+
+wrong:
+Batch: 
+	1:
+	(4) For coronavirus casesin the US 38 of those hospitalized are under 35Ã¯Â½
+	(2) Says a5G LAW PASSED while everyone was distractedÃ¯Â½ with the coronavirus pandemic and lists 20 symptoms associated with 5G exposure
+	
+	2:
+	(2) COVID literally stands for Chinese Originated Viral Infectious Disease
+	(5) Post saysthe blood test for coronavirus costs 3200Ã¢
+	(3,5) Says longstanding Food and Drug Administration regulationscreated barriers to the private industry creating a test quicklyÃ¢ for the coronavirus
+
+	3:
+	(4) For coronavirus cases in the US 38 of those hospitalized are under 35
+	(3) Says Nevada Governor Steve Sisolak has banned the use of an antimalaria drug that might help cure coronavirus
+	(3) the US is developing an antivirus that includes a chip to track your movement
+	
+	4:
+	(2) COVID literally stands for Chinese Originated Viral Infectious Disease
+	(3) the US is developing anantivirusÃ¢ that includes a chip to track your movement

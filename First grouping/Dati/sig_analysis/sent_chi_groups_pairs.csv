@@ -1,0 +1,4 @@
+file,type,val1,val2,pval
+wrong_false_all_10,sent,negativo,neutrale,0.6865803583016665
+wrong_false_all_10,sent,negativo,positivo,0.20093341370976142
+wrong_false_all_10,sent,neutrale,positivo,0.01770561290946365

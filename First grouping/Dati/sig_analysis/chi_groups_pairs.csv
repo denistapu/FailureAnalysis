@@ -1,0 +1,1106 @@
+file,type,val1,val2,pval
+wrong_false_all_10,q_0_age_answer,50-80,36-50,0.02245651544529855
+wrong_false_all_10,q_0_age_answer,50-80,26-35,0.09857429416816726
+wrong_false_all_10,q_0_age_answer,50-80,19-25,0.1131471975166313
+wrong_false_all_10,q_0_age_answer,36-50,26-35,1.0
+wrong_false_all_10,q_0_age_answer,36-50,19-25,1.0
+wrong_false_all_10,q_0_age_answer,26-35,19-25,1.0
+correct_false_all_10,q_3_athletics_value,correct value,wrong value,0.017498330640355143
+wrong_true_all_10,doc_index,10,9,0.3057939941772237
+wrong_true_all_10,doc_index,10,8,0.8284409930490196
+wrong_true_all_10,doc_index,10,7,1.0
+wrong_true_all_10,doc_index,10,6,1.0
+wrong_true_all_10,doc_index,10,5,1.0
+wrong_true_all_10,doc_index,10,4,1.0
+wrong_true_all_10,doc_index,10,3,1.0
+wrong_true_all_10,doc_index,10,2,0.38407742313803267
+wrong_true_all_10,doc_index,10,1,1.0
+wrong_true_all_10,doc_index,10,0,1.0
+wrong_true_all_10,doc_index,9,8,1.0
+wrong_true_all_10,doc_index,9,7,1.0
+wrong_true_all_10,doc_index,9,6,0.00035764843643452086
+wrong_true_all_10,doc_index,9,5,0.004402675269050968
+wrong_true_all_10,doc_index,9,4,0.40447640691319237
+wrong_true_all_10,doc_index,9,3,0.6993597003535431
+wrong_true_all_10,doc_index,9,2,1.0
+wrong_true_all_10,doc_index,9,1,1.0
+wrong_true_all_10,doc_index,9,0,0.718239672375092
+wrong_true_all_10,doc_index,8,7,1.0
+wrong_true_all_10,doc_index,8,6,0.0012723189962721567
+wrong_true_all_10,doc_index,8,5,0.014590784447151279
+wrong_true_all_10,doc_index,8,4,1.0
+wrong_true_all_10,doc_index,8,3,1.0
+wrong_true_all_10,doc_index,8,2,1.0
+wrong_true_all_10,doc_index,8,1,1.0
+wrong_true_all_10,doc_index,8,0,1.0
+wrong_true_all_10,doc_index,7,6,1.0
+wrong_true_all_10,doc_index,7,5,1.0
+wrong_true_all_10,doc_index,7,4,1.0
+wrong_true_all_10,doc_index,7,3,1.0
+wrong_true_all_10,doc_index,7,2,1.0
+wrong_true_all_10,doc_index,7,1,1.0
+wrong_true_all_10,doc_index,7,0,1.0
+wrong_true_all_10,doc_index,6,5,1.0
+wrong_true_all_10,doc_index,6,4,1.0
+wrong_true_all_10,doc_index,6,3,1.0
+wrong_true_all_10,doc_index,6,2,0.0014209575668871757
+wrong_true_all_10,doc_index,6,1,0.3123259936219604
+wrong_true_all_10,doc_index,6,0,1.0
+wrong_true_all_10,doc_index,5,4,1.0
+wrong_true_all_10,doc_index,5,3,1.0
+wrong_true_all_10,doc_index,5,2,0.010762790830780253
+wrong_true_all_10,doc_index,5,1,1.0
+wrong_true_all_10,doc_index,5,0,1.0
+wrong_true_all_10,doc_index,4,3,1.0
+wrong_true_all_10,doc_index,4,2,0.36567423042701397
+wrong_true_all_10,doc_index,4,1,1.0
+wrong_true_all_10,doc_index,4,0,1.0
+wrong_true_all_10,doc_index,3,2,0.65506792298108
+wrong_true_all_10,doc_index,3,1,1.0
+wrong_true_all_10,doc_index,3,0,1.0
+wrong_true_all_10,doc_index,2,1,1.0
+wrong_true_all_10,doc_index,2,0,0.7120074799159104
+wrong_true_all_10,doc_index,1,0,1.0
+wrong_true_all_10,doc_name,REP,Liberal,1.02057670527699e-12
+wrong_true_all_10,doc_name,REP,Labor,5.423367389559144e-13
+wrong_true_all_10,doc_name,REP,DEM,1.9824746627899627e-08
+wrong_true_all_10,doc_name,Liberal,Labor,1.0
+wrong_true_all_10,doc_name,Liberal,DEM,0.3761316344260316
+wrong_true_all_10,doc_name,Labor,DEM,0.3300377028510007
+wrong_false_all_10,doc_name,REP,Liberal,0.004178813732769681
+wrong_false_all_10,doc_name,REP,Labor,0.0024417121046697568
+wrong_false_all_10,doc_name,REP,DEM,0.003224099426571149
+wrong_false_all_10,doc_name,Liberal,Labor,1.0
+wrong_false_all_10,doc_name,Liberal,DEM,1.0
+wrong_false_all_10,doc_name,Labor,DEM,1.0
+correct_true_all_10,doc_name,REP,Liberal,1.3936124429406092e-08
+correct_true_all_10,doc_name,REP,Labor,1.6444105035435784e-05
+correct_true_all_10,doc_name,REP,DEM,6.06990662747692e-15
+correct_true_all_10,doc_name,Liberal,Labor,0.5183700302784012
+correct_true_all_10,doc_name,Liberal,DEM,0.04831108192854285
+correct_true_all_10,doc_name,Labor,DEM,9.226838063894384e-05
+wrong_true_all_10,doc_claimant,Scott Walker,Ron Desantis,
+wrong_true_all_10,doc_claimant,Scott Walker,Kevin Rudd,0.0026069222998946406
+wrong_true_all_10,doc_claimant,Scott Walker,Josh Mandel,
+wrong_true_all_10,doc_claimant,Scott Walker,Joe Hockey,
+wrong_true_all_10,doc_claimant,Scott Walker,Jason Isaac,
+wrong_true_all_10,doc_claimant,Scott Walker,Eric Cantor,
+wrong_true_all_10,doc_claimant,Scott Walker,Dean Cannon,
+wrong_true_all_10,doc_claimant,Scott Walker,Blue Oregon,
+wrong_true_all_10,doc_claimant,Scott Walker,Barack Obama,0.0602285451895782
+wrong_true_all_10,doc_claimant,Scott Walker,Tony Abbott,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Scott Walker,Chris Bowen,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Scott Walker,Barry O'Farrell,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,Yvette Mcgee Brown,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,Scott Morrison,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,Marcia Fudge,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,Hillary Clinton,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,George Brandis,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,Dennis Kucinich,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,Alan Grayson,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,Mitt Romney,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Scott Walker,Anthony Albanese,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Kevin Rudd,0.0026069222998946406
+wrong_true_all_10,doc_claimant,Ron Desantis,Josh Mandel,
+wrong_true_all_10,doc_claimant,Ron Desantis,Joe Hockey,
+wrong_true_all_10,doc_claimant,Ron Desantis,Jason Isaac,
+wrong_true_all_10,doc_claimant,Ron Desantis,Eric Cantor,
+wrong_true_all_10,doc_claimant,Ron Desantis,Dean Cannon,
+wrong_true_all_10,doc_claimant,Ron Desantis,Blue Oregon,
+wrong_true_all_10,doc_claimant,Ron Desantis,Barack Obama,0.0602285451895782
+wrong_true_all_10,doc_claimant,Ron Desantis,Tony Abbott,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Ron Desantis,Chris Bowen,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Ron Desantis,Barry O'Farrell,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Yvette Mcgee Brown,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Scott Morrison,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Marcia Fudge,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Hillary Clinton,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,George Brandis,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Dennis Kucinich,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Alan Grayson,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Mitt Romney,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Ron Desantis,Anthony Albanese,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Kevin Rudd,Josh Mandel,0.0026069222998946406
+wrong_true_all_10,doc_claimant,Kevin Rudd,Joe Hockey,0.0026069222998946406
+wrong_true_all_10,doc_claimant,Kevin Rudd,Jason Isaac,0.0026069222998946406
+wrong_true_all_10,doc_claimant,Kevin Rudd,Eric Cantor,0.0026069222998946406
+wrong_true_all_10,doc_claimant,Kevin Rudd,Dean Cannon,0.0026069222998946406
+wrong_true_all_10,doc_claimant,Kevin Rudd,Blue Oregon,0.0026069222998946406
+wrong_true_all_10,doc_claimant,Kevin Rudd,Barack Obama,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Tony Abbott,0.8129413324316968
+wrong_true_all_10,doc_claimant,Kevin Rudd,Chris Bowen,0.8129413324316968
+wrong_true_all_10,doc_claimant,Kevin Rudd,Barry O'Farrell,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Yvette Mcgee Brown,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Scott Morrison,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Marcia Fudge,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Hillary Clinton,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,George Brandis,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Dennis Kucinich,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Alan Grayson,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Mitt Romney,1.0
+wrong_true_all_10,doc_claimant,Kevin Rudd,Anthony Albanese,1.0
+wrong_true_all_10,doc_claimant,Josh Mandel,Joe Hockey,
+wrong_true_all_10,doc_claimant,Josh Mandel,Jason Isaac,
+wrong_true_all_10,doc_claimant,Josh Mandel,Eric Cantor,
+wrong_true_all_10,doc_claimant,Josh Mandel,Dean Cannon,
+wrong_true_all_10,doc_claimant,Josh Mandel,Blue Oregon,
+wrong_true_all_10,doc_claimant,Josh Mandel,Barack Obama,0.0602285451895782
+wrong_true_all_10,doc_claimant,Josh Mandel,Tony Abbott,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Josh Mandel,Chris Bowen,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Josh Mandel,Barry O'Farrell,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,Yvette Mcgee Brown,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,Scott Morrison,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,Marcia Fudge,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,Hillary Clinton,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,George Brandis,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,Dennis Kucinich,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,Alan Grayson,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,Mitt Romney,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Josh Mandel,Anthony Albanese,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Jason Isaac,
+wrong_true_all_10,doc_claimant,Joe Hockey,Eric Cantor,
+wrong_true_all_10,doc_claimant,Joe Hockey,Dean Cannon,
+wrong_true_all_10,doc_claimant,Joe Hockey,Blue Oregon,
+wrong_true_all_10,doc_claimant,Joe Hockey,Barack Obama,0.0602285451895782
+wrong_true_all_10,doc_claimant,Joe Hockey,Tony Abbott,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Joe Hockey,Chris Bowen,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Joe Hockey,Barry O'Farrell,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Yvette Mcgee Brown,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Scott Morrison,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Marcia Fudge,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Hillary Clinton,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,George Brandis,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Dennis Kucinich,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Alan Grayson,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Mitt Romney,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Joe Hockey,Anthony Albanese,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Eric Cantor,
+wrong_true_all_10,doc_claimant,Jason Isaac,Dean Cannon,
+wrong_true_all_10,doc_claimant,Jason Isaac,Blue Oregon,
+wrong_true_all_10,doc_claimant,Jason Isaac,Barack Obama,0.0602285451895782
+wrong_true_all_10,doc_claimant,Jason Isaac,Tony Abbott,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Jason Isaac,Chris Bowen,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Jason Isaac,Barry O'Farrell,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Yvette Mcgee Brown,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Scott Morrison,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Marcia Fudge,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Hillary Clinton,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,George Brandis,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Dennis Kucinich,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Alan Grayson,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Mitt Romney,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Jason Isaac,Anthony Albanese,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Dean Cannon,
+wrong_true_all_10,doc_claimant,Eric Cantor,Blue Oregon,
+wrong_true_all_10,doc_claimant,Eric Cantor,Barack Obama,0.0602285451895782
+wrong_true_all_10,doc_claimant,Eric Cantor,Tony Abbott,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Eric Cantor,Chris Bowen,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Eric Cantor,Barry O'Farrell,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Yvette Mcgee Brown,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Scott Morrison,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Marcia Fudge,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Hillary Clinton,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,George Brandis,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Dennis Kucinich,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Alan Grayson,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Mitt Romney,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Eric Cantor,Anthony Albanese,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Blue Oregon,
+wrong_true_all_10,doc_claimant,Dean Cannon,Barack Obama,0.0602285451895782
+wrong_true_all_10,doc_claimant,Dean Cannon,Tony Abbott,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Dean Cannon,Chris Bowen,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Dean Cannon,Barry O'Farrell,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Yvette Mcgee Brown,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Scott Morrison,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Marcia Fudge,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Hillary Clinton,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,George Brandis,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Dennis Kucinich,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Alan Grayson,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Mitt Romney,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Dean Cannon,Anthony Albanese,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Barack Obama,0.0602285451895782
+wrong_true_all_10,doc_claimant,Blue Oregon,Tony Abbott,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Blue Oregon,Chris Bowen,5.866542041677694e-08
+wrong_true_all_10,doc_claimant,Blue Oregon,Barry O'Farrell,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Yvette Mcgee Brown,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Scott Morrison,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Marcia Fudge,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Hillary Clinton,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,George Brandis,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Dennis Kucinich,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Alan Grayson,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Mitt Romney,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Blue Oregon,Anthony Albanese,0.0017889139955711841
+wrong_true_all_10,doc_claimant,Barack Obama,Tony Abbott,0.12289327168716657
+wrong_true_all_10,doc_claimant,Barack Obama,Chris Bowen,0.12289327168716657
+wrong_true_all_10,doc_claimant,Barack Obama,Barry O'Farrell,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,Yvette Mcgee Brown,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,Scott Morrison,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,Marcia Fudge,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,Hillary Clinton,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,George Brandis,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,Dennis Kucinich,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,Alan Grayson,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,Mitt Romney,1.0
+wrong_true_all_10,doc_claimant,Barack Obama,Anthony Albanese,1.0
+wrong_true_all_10,doc_claimant,Tony Abbott,Chris Bowen,
+wrong_true_all_10,doc_claimant,Tony Abbott,Barry O'Farrell,
+wrong_true_all_10,doc_claimant,Tony Abbott,Yvette Mcgee Brown,
+wrong_true_all_10,doc_claimant,Tony Abbott,Scott Morrison,
+wrong_true_all_10,doc_claimant,Tony Abbott,Marcia Fudge,
+wrong_true_all_10,doc_claimant,Tony Abbott,Hillary Clinton,
+wrong_true_all_10,doc_claimant,Tony Abbott,George Brandis,
+wrong_true_all_10,doc_claimant,Tony Abbott,Dennis Kucinich,
+wrong_true_all_10,doc_claimant,Tony Abbott,Alan Grayson,
+wrong_true_all_10,doc_claimant,Tony Abbott,Mitt Romney,
+wrong_true_all_10,doc_claimant,Tony Abbott,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Chris Bowen,Barry O'Farrell,
+wrong_true_all_10,doc_claimant,Chris Bowen,Yvette Mcgee Brown,
+wrong_true_all_10,doc_claimant,Chris Bowen,Scott Morrison,
+wrong_true_all_10,doc_claimant,Chris Bowen,Marcia Fudge,
+wrong_true_all_10,doc_claimant,Chris Bowen,Hillary Clinton,
+wrong_true_all_10,doc_claimant,Chris Bowen,George Brandis,
+wrong_true_all_10,doc_claimant,Chris Bowen,Dennis Kucinich,
+wrong_true_all_10,doc_claimant,Chris Bowen,Alan Grayson,
+wrong_true_all_10,doc_claimant,Chris Bowen,Mitt Romney,
+wrong_true_all_10,doc_claimant,Chris Bowen,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,Yvette Mcgee Brown,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,Scott Morrison,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,Marcia Fudge,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,Hillary Clinton,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,George Brandis,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,Dennis Kucinich,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,Alan Grayson,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,Mitt Romney,
+wrong_true_all_10,doc_claimant,Barry O'Farrell,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Yvette Mcgee Brown,Scott Morrison,
+wrong_true_all_10,doc_claimant,Yvette Mcgee Brown,Marcia Fudge,
+wrong_true_all_10,doc_claimant,Yvette Mcgee Brown,Hillary Clinton,
+wrong_true_all_10,doc_claimant,Yvette Mcgee Brown,George Brandis,
+wrong_true_all_10,doc_claimant,Yvette Mcgee Brown,Dennis Kucinich,
+wrong_true_all_10,doc_claimant,Yvette Mcgee Brown,Alan Grayson,
+wrong_true_all_10,doc_claimant,Yvette Mcgee Brown,Mitt Romney,
+wrong_true_all_10,doc_claimant,Yvette Mcgee Brown,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Scott Morrison,Marcia Fudge,
+wrong_true_all_10,doc_claimant,Scott Morrison,Hillary Clinton,
+wrong_true_all_10,doc_claimant,Scott Morrison,George Brandis,
+wrong_true_all_10,doc_claimant,Scott Morrison,Dennis Kucinich,
+wrong_true_all_10,doc_claimant,Scott Morrison,Alan Grayson,
+wrong_true_all_10,doc_claimant,Scott Morrison,Mitt Romney,
+wrong_true_all_10,doc_claimant,Scott Morrison,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Marcia Fudge,Hillary Clinton,
+wrong_true_all_10,doc_claimant,Marcia Fudge,George Brandis,
+wrong_true_all_10,doc_claimant,Marcia Fudge,Dennis Kucinich,
+wrong_true_all_10,doc_claimant,Marcia Fudge,Alan Grayson,
+wrong_true_all_10,doc_claimant,Marcia Fudge,Mitt Romney,
+wrong_true_all_10,doc_claimant,Marcia Fudge,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Hillary Clinton,George Brandis,
+wrong_true_all_10,doc_claimant,Hillary Clinton,Dennis Kucinich,
+wrong_true_all_10,doc_claimant,Hillary Clinton,Alan Grayson,
+wrong_true_all_10,doc_claimant,Hillary Clinton,Mitt Romney,
+wrong_true_all_10,doc_claimant,Hillary Clinton,Anthony Albanese,
+wrong_true_all_10,doc_claimant,George Brandis,Dennis Kucinich,
+wrong_true_all_10,doc_claimant,George Brandis,Alan Grayson,
+wrong_true_all_10,doc_claimant,George Brandis,Mitt Romney,
+wrong_true_all_10,doc_claimant,George Brandis,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Dennis Kucinich,Alan Grayson,
+wrong_true_all_10,doc_claimant,Dennis Kucinich,Mitt Romney,
+wrong_true_all_10,doc_claimant,Dennis Kucinich,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Alan Grayson,Mitt Romney,
+wrong_true_all_10,doc_claimant,Alan Grayson,Anthony Albanese,
+wrong_true_all_10,doc_claimant,Mitt Romney,Anthony Albanese,
+wrong_false_all_10,doc_claimant,Kevin Rudd,Joe Hockey,0.02362715884253348
+wrong_false_all_10,doc_claimant,Kevin Rudd,Eric Cantor,0.03989163382686343
+wrong_false_all_10,doc_claimant,Kevin Rudd,Barack Obama,0.03989163382686343
+wrong_false_all_10,doc_claimant,Kevin Rudd,Tony Abbott,0.07499265744753981
+wrong_false_all_10,doc_claimant,Kevin Rudd,Lena Taylor,1.0
+wrong_false_all_10,doc_claimant,Kevin Rudd,Gina Raimondo,1.0
+wrong_false_all_10,doc_claimant,Kevin Rudd,David Cicilline,1.0
+wrong_false_all_10,doc_claimant,Kevin Rudd,Christopher Pyne,1.0
+wrong_false_all_10,doc_claimant,Kevin Rudd,Chris Christie,1.0
+wrong_false_all_10,doc_claimant,Kevin Rudd,Chris Bowen,1.0
+wrong_false_all_10,doc_claimant,Kevin Rudd,Barry O'Farrell,1.0
+wrong_false_all_10,doc_claimant,Kevin Rudd,Paul Hirschbiel,0.03989163382686343
+wrong_false_all_10,doc_claimant,Kevin Rudd,Mitt Romney,0.03989163382686343
+wrong_false_all_10,doc_claimant,Kevin Rudd,Michelle Rowland,0.03989163382686343
+wrong_false_all_10,doc_claimant,Kevin Rudd,Mary Burke,0.03989163382686343
+wrong_false_all_10,doc_claimant,Kevin Rudd,Graeme Zielinski,0.03989163382686343
+wrong_false_all_10,doc_claimant,Kevin Rudd,Anthony Albanese,0.00037155552336530403
+wrong_false_all_10,doc_claimant,Joe Hockey,Eric Cantor,
+wrong_false_all_10,doc_claimant,Joe Hockey,Barack Obama,
+wrong_false_all_10,doc_claimant,Joe Hockey,Tony Abbott,1.0
+wrong_false_all_10,doc_claimant,Joe Hockey,Lena Taylor,0.0007027035578983576
+wrong_false_all_10,doc_claimant,Joe Hockey,Gina Raimondo,0.0007027035578983576
+wrong_false_all_10,doc_claimant,Joe Hockey,David Cicilline,0.0007027035578983576
+wrong_false_all_10,doc_claimant,Joe Hockey,Christopher Pyne,0.670179227982993
+wrong_false_all_10,doc_claimant,Joe Hockey,Chris Christie,0.0007027035578983576
+wrong_false_all_10,doc_claimant,Joe Hockey,Chris Bowen,0.0007027035578983576
+wrong_false_all_10,doc_claimant,Joe Hockey,Barry O'Farrell,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Joe Hockey,Paul Hirschbiel,
+wrong_false_all_10,doc_claimant,Joe Hockey,Mitt Romney,
+wrong_false_all_10,doc_claimant,Joe Hockey,Michelle Rowland,
+wrong_false_all_10,doc_claimant,Joe Hockey,Mary Burke,
+wrong_false_all_10,doc_claimant,Joe Hockey,Graeme Zielinski,
+wrong_false_all_10,doc_claimant,Joe Hockey,Anthony Albanese,
+wrong_false_all_10,doc_claimant,Eric Cantor,Barack Obama,
+wrong_false_all_10,doc_claimant,Eric Cantor,Tony Abbott,1.0
+wrong_false_all_10,doc_claimant,Eric Cantor,Lena Taylor,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Eric Cantor,Gina Raimondo,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Eric Cantor,David Cicilline,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Eric Cantor,Christopher Pyne,0.9439945960432572
+wrong_false_all_10,doc_claimant,Eric Cantor,Chris Christie,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Eric Cantor,Chris Bowen,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Eric Cantor,Barry O'Farrell,0.001999992341114737
+wrong_false_all_10,doc_claimant,Eric Cantor,Paul Hirschbiel,
+wrong_false_all_10,doc_claimant,Eric Cantor,Mitt Romney,
+wrong_false_all_10,doc_claimant,Eric Cantor,Michelle Rowland,
+wrong_false_all_10,doc_claimant,Eric Cantor,Mary Burke,
+wrong_false_all_10,doc_claimant,Eric Cantor,Graeme Zielinski,
+wrong_false_all_10,doc_claimant,Eric Cantor,Anthony Albanese,
+wrong_false_all_10,doc_claimant,Barack Obama,Tony Abbott,1.0
+wrong_false_all_10,doc_claimant,Barack Obama,Lena Taylor,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Barack Obama,Gina Raimondo,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Barack Obama,David Cicilline,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Barack Obama,Christopher Pyne,0.9439945960432572
+wrong_false_all_10,doc_claimant,Barack Obama,Chris Christie,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Barack Obama,Chris Bowen,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Barack Obama,Barry O'Farrell,0.001999992341114737
+wrong_false_all_10,doc_claimant,Barack Obama,Paul Hirschbiel,
+wrong_false_all_10,doc_claimant,Barack Obama,Mitt Romney,
+wrong_false_all_10,doc_claimant,Barack Obama,Michelle Rowland,
+wrong_false_all_10,doc_claimant,Barack Obama,Mary Burke,
+wrong_false_all_10,doc_claimant,Barack Obama,Graeme Zielinski,
+wrong_false_all_10,doc_claimant,Barack Obama,Anthony Albanese,
+wrong_false_all_10,doc_claimant,Tony Abbott,Lena Taylor,0.002280057376241436
+wrong_false_all_10,doc_claimant,Tony Abbott,Gina Raimondo,0.002280057376241436
+wrong_false_all_10,doc_claimant,Tony Abbott,David Cicilline,0.002280057376241436
+wrong_false_all_10,doc_claimant,Tony Abbott,Christopher Pyne,1.0
+wrong_false_all_10,doc_claimant,Tony Abbott,Chris Christie,0.002280057376241436
+wrong_false_all_10,doc_claimant,Tony Abbott,Chris Bowen,0.002280057376241436
+wrong_false_all_10,doc_claimant,Tony Abbott,Barry O'Farrell,0.004614033198206159
+wrong_false_all_10,doc_claimant,Tony Abbott,Paul Hirschbiel,1.0
+wrong_false_all_10,doc_claimant,Tony Abbott,Mitt Romney,1.0
+wrong_false_all_10,doc_claimant,Tony Abbott,Michelle Rowland,1.0
+wrong_false_all_10,doc_claimant,Tony Abbott,Mary Burke,1.0
+wrong_false_all_10,doc_claimant,Tony Abbott,Graeme Zielinski,1.0
+wrong_false_all_10,doc_claimant,Tony Abbott,Anthony Albanese,1.0
+wrong_false_all_10,doc_claimant,Lena Taylor,Gina Raimondo,
+wrong_false_all_10,doc_claimant,Lena Taylor,David Cicilline,
+wrong_false_all_10,doc_claimant,Lena Taylor,Christopher Pyne,0.9439945960432572
+wrong_false_all_10,doc_claimant,Lena Taylor,Chris Christie,
+wrong_false_all_10,doc_claimant,Lena Taylor,Chris Bowen,
+wrong_false_all_10,doc_claimant,Lena Taylor,Barry O'Farrell,
+wrong_false_all_10,doc_claimant,Lena Taylor,Paul Hirschbiel,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Lena Taylor,Mitt Romney,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Lena Taylor,Michelle Rowland,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Lena Taylor,Mary Burke,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Lena Taylor,Graeme Zielinski,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Lena Taylor,Anthony Albanese,6.61030847847608e-06
+wrong_false_all_10,doc_claimant,Gina Raimondo,David Cicilline,
+wrong_false_all_10,doc_claimant,Gina Raimondo,Christopher Pyne,0.9439945960432572
+wrong_false_all_10,doc_claimant,Gina Raimondo,Chris Christie,
+wrong_false_all_10,doc_claimant,Gina Raimondo,Chris Bowen,
+wrong_false_all_10,doc_claimant,Gina Raimondo,Barry O'Farrell,
+wrong_false_all_10,doc_claimant,Gina Raimondo,Paul Hirschbiel,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Gina Raimondo,Mitt Romney,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Gina Raimondo,Michelle Rowland,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Gina Raimondo,Mary Burke,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Gina Raimondo,Graeme Zielinski,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Gina Raimondo,Anthony Albanese,6.61030847847608e-06
+wrong_false_all_10,doc_claimant,David Cicilline,Christopher Pyne,0.9439945960432572
+wrong_false_all_10,doc_claimant,David Cicilline,Chris Christie,
+wrong_false_all_10,doc_claimant,David Cicilline,Chris Bowen,
+wrong_false_all_10,doc_claimant,David Cicilline,Barry O'Farrell,
+wrong_false_all_10,doc_claimant,David Cicilline,Paul Hirschbiel,0.0011848651139497455
+wrong_false_all_10,doc_claimant,David Cicilline,Mitt Romney,0.0011848651139497455
+wrong_false_all_10,doc_claimant,David Cicilline,Michelle Rowland,0.0011848651139497455
+wrong_false_all_10,doc_claimant,David Cicilline,Mary Burke,0.0011848651139497455
+wrong_false_all_10,doc_claimant,David Cicilline,Graeme Zielinski,0.0011848651139497455
+wrong_false_all_10,doc_claimant,David Cicilline,Anthony Albanese,6.61030847847608e-06
+wrong_false_all_10,doc_claimant,Christopher Pyne,Chris Christie,0.9439945960432572
+wrong_false_all_10,doc_claimant,Christopher Pyne,Chris Bowen,0.9439945960432572
+wrong_false_all_10,doc_claimant,Christopher Pyne,Barry O'Farrell,1.0
+wrong_false_all_10,doc_claimant,Christopher Pyne,Paul Hirschbiel,0.9439945960432572
+wrong_false_all_10,doc_claimant,Christopher Pyne,Mitt Romney,0.9439945960432572
+wrong_false_all_10,doc_claimant,Christopher Pyne,Michelle Rowland,0.9439945960432572
+wrong_false_all_10,doc_claimant,Christopher Pyne,Mary Burke,0.9439945960432572
+wrong_false_all_10,doc_claimant,Christopher Pyne,Graeme Zielinski,0.9439945960432572
+wrong_false_all_10,doc_claimant,Christopher Pyne,Anthony Albanese,0.03989163382686343
+wrong_false_all_10,doc_claimant,Chris Christie,Chris Bowen,
+wrong_false_all_10,doc_claimant,Chris Christie,Barry O'Farrell,
+wrong_false_all_10,doc_claimant,Chris Christie,Paul Hirschbiel,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Christie,Mitt Romney,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Christie,Michelle Rowland,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Christie,Mary Burke,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Christie,Graeme Zielinski,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Christie,Anthony Albanese,6.61030847847608e-06
+wrong_false_all_10,doc_claimant,Chris Bowen,Barry O'Farrell,
+wrong_false_all_10,doc_claimant,Chris Bowen,Paul Hirschbiel,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Bowen,Mitt Romney,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Bowen,Michelle Rowland,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Bowen,Mary Burke,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Bowen,Graeme Zielinski,0.0011848651139497455
+wrong_false_all_10,doc_claimant,Chris Bowen,Anthony Albanese,6.61030847847608e-06
+wrong_false_all_10,doc_claimant,Barry O'Farrell,Paul Hirschbiel,0.001999992341114737
+wrong_false_all_10,doc_claimant,Barry O'Farrell,Mitt Romney,0.001999992341114737
+wrong_false_all_10,doc_claimant,Barry O'Farrell,Michelle Rowland,0.001999992341114737
+wrong_false_all_10,doc_claimant,Barry O'Farrell,Mary Burke,0.001999992341114737
+wrong_false_all_10,doc_claimant,Barry O'Farrell,Graeme Zielinski,0.001999992341114737
+wrong_false_all_10,doc_claimant,Barry O'Farrell,Anthony Albanese,1.1073879703762201e-05
+wrong_false_all_10,doc_claimant,Paul Hirschbiel,Mitt Romney,
+wrong_false_all_10,doc_claimant,Paul Hirschbiel,Michelle Rowland,
+wrong_false_all_10,doc_claimant,Paul Hirschbiel,Mary Burke,
+wrong_false_all_10,doc_claimant,Paul Hirschbiel,Graeme Zielinski,
+wrong_false_all_10,doc_claimant,Paul Hirschbiel,Anthony Albanese,
+wrong_false_all_10,doc_claimant,Mitt Romney,Michelle Rowland,
+wrong_false_all_10,doc_claimant,Mitt Romney,Mary Burke,
+wrong_false_all_10,doc_claimant,Mitt Romney,Graeme Zielinski,
+wrong_false_all_10,doc_claimant,Mitt Romney,Anthony Albanese,
+wrong_false_all_10,doc_claimant,Michelle Rowland,Mary Burke,
+wrong_false_all_10,doc_claimant,Michelle Rowland,Graeme Zielinski,
+wrong_false_all_10,doc_claimant,Michelle Rowland,Anthony Albanese,
+wrong_false_all_10,doc_claimant,Mary Burke,Graeme Zielinski,
+wrong_false_all_10,doc_claimant,Mary Burke,Anthony Albanese,
+wrong_false_all_10,doc_claimant,Graeme Zielinski,Anthony Albanese,
+correct_true_all_10,doc_claimant,Scott Walker,Ron Desantis,
+correct_true_all_10,doc_claimant,Scott Walker,Kevin Rudd,1.0
+correct_true_all_10,doc_claimant,Scott Walker,Josh Mandel,
+correct_true_all_10,doc_claimant,Scott Walker,Joe Hockey,
+correct_true_all_10,doc_claimant,Scott Walker,Jason Isaac,
+correct_true_all_10,doc_claimant,Scott Walker,Eric Cantor,
+correct_true_all_10,doc_claimant,Scott Walker,Dean Cannon,
+correct_true_all_10,doc_claimant,Scott Walker,Blue Oregon,
+correct_true_all_10,doc_claimant,Scott Walker,Barack Obama,
+correct_true_all_10,doc_claimant,Scott Walker,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Scott Walker,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Scott Walker,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Scott Walker,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Walker,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Walker,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Walker,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Walker,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Walker,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Walker,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Walker,Mitt Romney,
+correct_true_all_10,doc_claimant,Scott Walker,Anthony Albanese,
+correct_true_all_10,doc_claimant,Ron Desantis,Kevin Rudd,1.0
+correct_true_all_10,doc_claimant,Ron Desantis,Josh Mandel,
+correct_true_all_10,doc_claimant,Ron Desantis,Joe Hockey,
+correct_true_all_10,doc_claimant,Ron Desantis,Jason Isaac,
+correct_true_all_10,doc_claimant,Ron Desantis,Eric Cantor,
+correct_true_all_10,doc_claimant,Ron Desantis,Dean Cannon,
+correct_true_all_10,doc_claimant,Ron Desantis,Blue Oregon,
+correct_true_all_10,doc_claimant,Ron Desantis,Barack Obama,
+correct_true_all_10,doc_claimant,Ron Desantis,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Ron Desantis,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Ron Desantis,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Ron Desantis,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Ron Desantis,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Ron Desantis,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Ron Desantis,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Ron Desantis,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Ron Desantis,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Ron Desantis,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Ron Desantis,Mitt Romney,
+correct_true_all_10,doc_claimant,Ron Desantis,Anthony Albanese,
+correct_true_all_10,doc_claimant,Kevin Rudd,Josh Mandel,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Joe Hockey,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Jason Isaac,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Eric Cantor,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Dean Cannon,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Blue Oregon,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Barack Obama,0.8129413324316968
+correct_true_all_10,doc_claimant,Kevin Rudd,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Barry O'Farrell,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Yvette Mcgee Brown,0.0026069222998946406
+correct_true_all_10,doc_claimant,Kevin Rudd,Scott Morrison,0.0026069222998946406
+correct_true_all_10,doc_claimant,Kevin Rudd,Marcia Fudge,0.0026069222998946406
+correct_true_all_10,doc_claimant,Kevin Rudd,Hillary Clinton,0.0026069222998946406
+correct_true_all_10,doc_claimant,Kevin Rudd,George Brandis,0.0026069222998946406
+correct_true_all_10,doc_claimant,Kevin Rudd,Dennis Kucinich,0.0026069222998946406
+correct_true_all_10,doc_claimant,Kevin Rudd,Alan Grayson,0.0026069222998946406
+correct_true_all_10,doc_claimant,Kevin Rudd,Mitt Romney,1.0
+correct_true_all_10,doc_claimant,Kevin Rudd,Anthony Albanese,1.0
+correct_true_all_10,doc_claimant,Josh Mandel,Joe Hockey,
+correct_true_all_10,doc_claimant,Josh Mandel,Jason Isaac,
+correct_true_all_10,doc_claimant,Josh Mandel,Eric Cantor,
+correct_true_all_10,doc_claimant,Josh Mandel,Dean Cannon,
+correct_true_all_10,doc_claimant,Josh Mandel,Blue Oregon,
+correct_true_all_10,doc_claimant,Josh Mandel,Barack Obama,
+correct_true_all_10,doc_claimant,Josh Mandel,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Josh Mandel,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Josh Mandel,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Josh Mandel,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Josh Mandel,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Josh Mandel,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Josh Mandel,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Josh Mandel,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Josh Mandel,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Josh Mandel,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Josh Mandel,Mitt Romney,
+correct_true_all_10,doc_claimant,Josh Mandel,Anthony Albanese,
+correct_true_all_10,doc_claimant,Joe Hockey,Jason Isaac,
+correct_true_all_10,doc_claimant,Joe Hockey,Eric Cantor,
+correct_true_all_10,doc_claimant,Joe Hockey,Dean Cannon,
+correct_true_all_10,doc_claimant,Joe Hockey,Blue Oregon,
+correct_true_all_10,doc_claimant,Joe Hockey,Barack Obama,
+correct_true_all_10,doc_claimant,Joe Hockey,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Joe Hockey,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Joe Hockey,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Joe Hockey,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Joe Hockey,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Joe Hockey,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Joe Hockey,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Joe Hockey,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Joe Hockey,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Joe Hockey,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Joe Hockey,Mitt Romney,
+correct_true_all_10,doc_claimant,Joe Hockey,Anthony Albanese,
+correct_true_all_10,doc_claimant,Jason Isaac,Eric Cantor,
+correct_true_all_10,doc_claimant,Jason Isaac,Dean Cannon,
+correct_true_all_10,doc_claimant,Jason Isaac,Blue Oregon,
+correct_true_all_10,doc_claimant,Jason Isaac,Barack Obama,
+correct_true_all_10,doc_claimant,Jason Isaac,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Jason Isaac,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Jason Isaac,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Jason Isaac,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Jason Isaac,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Jason Isaac,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Jason Isaac,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Jason Isaac,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Jason Isaac,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Jason Isaac,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Jason Isaac,Mitt Romney,
+correct_true_all_10,doc_claimant,Jason Isaac,Anthony Albanese,
+correct_true_all_10,doc_claimant,Eric Cantor,Dean Cannon,
+correct_true_all_10,doc_claimant,Eric Cantor,Blue Oregon,
+correct_true_all_10,doc_claimant,Eric Cantor,Barack Obama,
+correct_true_all_10,doc_claimant,Eric Cantor,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Eric Cantor,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Eric Cantor,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Eric Cantor,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Eric Cantor,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Eric Cantor,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Eric Cantor,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Eric Cantor,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Eric Cantor,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Eric Cantor,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Eric Cantor,Mitt Romney,
+correct_true_all_10,doc_claimant,Eric Cantor,Anthony Albanese,
+correct_true_all_10,doc_claimant,Dean Cannon,Blue Oregon,
+correct_true_all_10,doc_claimant,Dean Cannon,Barack Obama,
+correct_true_all_10,doc_claimant,Dean Cannon,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Dean Cannon,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Dean Cannon,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Dean Cannon,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dean Cannon,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dean Cannon,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dean Cannon,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dean Cannon,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dean Cannon,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dean Cannon,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dean Cannon,Mitt Romney,
+correct_true_all_10,doc_claimant,Dean Cannon,Anthony Albanese,
+correct_true_all_10,doc_claimant,Blue Oregon,Barack Obama,
+correct_true_all_10,doc_claimant,Blue Oregon,Tony Abbott,1.0
+correct_true_all_10,doc_claimant,Blue Oregon,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Blue Oregon,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Blue Oregon,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Blue Oregon,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Blue Oregon,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Blue Oregon,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Blue Oregon,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Blue Oregon,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Blue Oregon,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Blue Oregon,Mitt Romney,
+correct_true_all_10,doc_claimant,Blue Oregon,Anthony Albanese,
+correct_true_all_10,doc_claimant,Barack Obama,Tony Abbott,0.12289327168716657
+correct_true_all_10,doc_claimant,Barack Obama,Chris Bowen,0.12289327168716657
+correct_true_all_10,doc_claimant,Barack Obama,Barry O'Farrell,
+correct_true_all_10,doc_claimant,Barack Obama,Yvette Mcgee Brown,5.866542041677694e-08
+correct_true_all_10,doc_claimant,Barack Obama,Scott Morrison,5.866542041677694e-08
+correct_true_all_10,doc_claimant,Barack Obama,Marcia Fudge,5.866542041677694e-08
+correct_true_all_10,doc_claimant,Barack Obama,Hillary Clinton,5.866542041677694e-08
+correct_true_all_10,doc_claimant,Barack Obama,George Brandis,5.866542041677694e-08
+correct_true_all_10,doc_claimant,Barack Obama,Dennis Kucinich,5.866542041677694e-08
+correct_true_all_10,doc_claimant,Barack Obama,Alan Grayson,5.866542041677694e-08
+correct_true_all_10,doc_claimant,Barack Obama,Mitt Romney,
+correct_true_all_10,doc_claimant,Barack Obama,Anthony Albanese,
+correct_true_all_10,doc_claimant,Tony Abbott,Chris Bowen,1.0
+correct_true_all_10,doc_claimant,Tony Abbott,Barry O'Farrell,1.0
+correct_true_all_10,doc_claimant,Tony Abbott,Yvette Mcgee Brown,0.06022854518957811
+correct_true_all_10,doc_claimant,Tony Abbott,Scott Morrison,0.06022854518957811
+correct_true_all_10,doc_claimant,Tony Abbott,Marcia Fudge,0.06022854518957811
+correct_true_all_10,doc_claimant,Tony Abbott,Hillary Clinton,0.06022854518957811
+correct_true_all_10,doc_claimant,Tony Abbott,George Brandis,0.06022854518957811
+correct_true_all_10,doc_claimant,Tony Abbott,Dennis Kucinich,0.06022854518957811
+correct_true_all_10,doc_claimant,Tony Abbott,Alan Grayson,0.06022854518957811
+correct_true_all_10,doc_claimant,Tony Abbott,Mitt Romney,1.0
+correct_true_all_10,doc_claimant,Tony Abbott,Anthony Albanese,1.0
+correct_true_all_10,doc_claimant,Chris Bowen,Barry O'Farrell,1.0
+correct_true_all_10,doc_claimant,Chris Bowen,Yvette Mcgee Brown,0.06022854518957811
+correct_true_all_10,doc_claimant,Chris Bowen,Scott Morrison,0.06022854518957811
+correct_true_all_10,doc_claimant,Chris Bowen,Marcia Fudge,0.06022854518957811
+correct_true_all_10,doc_claimant,Chris Bowen,Hillary Clinton,0.06022854518957811
+correct_true_all_10,doc_claimant,Chris Bowen,George Brandis,0.06022854518957811
+correct_true_all_10,doc_claimant,Chris Bowen,Dennis Kucinich,0.06022854518957811
+correct_true_all_10,doc_claimant,Chris Bowen,Alan Grayson,0.06022854518957811
+correct_true_all_10,doc_claimant,Chris Bowen,Mitt Romney,1.0
+correct_true_all_10,doc_claimant,Chris Bowen,Anthony Albanese,1.0
+correct_true_all_10,doc_claimant,Barry O'Farrell,Yvette Mcgee Brown,0.0017889139955711841
+correct_true_all_10,doc_claimant,Barry O'Farrell,Scott Morrison,0.0017889139955711841
+correct_true_all_10,doc_claimant,Barry O'Farrell,Marcia Fudge,0.0017889139955711841
+correct_true_all_10,doc_claimant,Barry O'Farrell,Hillary Clinton,0.0017889139955711841
+correct_true_all_10,doc_claimant,Barry O'Farrell,George Brandis,0.0017889139955711841
+correct_true_all_10,doc_claimant,Barry O'Farrell,Dennis Kucinich,0.0017889139955711841
+correct_true_all_10,doc_claimant,Barry O'Farrell,Alan Grayson,0.0017889139955711841
+correct_true_all_10,doc_claimant,Barry O'Farrell,Mitt Romney,
+correct_true_all_10,doc_claimant,Barry O'Farrell,Anthony Albanese,
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,Scott Morrison,
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,Marcia Fudge,
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,Hillary Clinton,
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,George Brandis,
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,Dennis Kucinich,
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,Alan Grayson,
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,Mitt Romney,0.0017889139955711841
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,Anthony Albanese,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Morrison,Marcia Fudge,
+correct_true_all_10,doc_claimant,Scott Morrison,Hillary Clinton,
+correct_true_all_10,doc_claimant,Scott Morrison,George Brandis,
+correct_true_all_10,doc_claimant,Scott Morrison,Dennis Kucinich,
+correct_true_all_10,doc_claimant,Scott Morrison,Alan Grayson,
+correct_true_all_10,doc_claimant,Scott Morrison,Mitt Romney,0.0017889139955711841
+correct_true_all_10,doc_claimant,Scott Morrison,Anthony Albanese,0.0017889139955711841
+correct_true_all_10,doc_claimant,Marcia Fudge,Hillary Clinton,
+correct_true_all_10,doc_claimant,Marcia Fudge,George Brandis,
+correct_true_all_10,doc_claimant,Marcia Fudge,Dennis Kucinich,
+correct_true_all_10,doc_claimant,Marcia Fudge,Alan Grayson,
+correct_true_all_10,doc_claimant,Marcia Fudge,Mitt Romney,0.0017889139955711841
+correct_true_all_10,doc_claimant,Marcia Fudge,Anthony Albanese,0.0017889139955711841
+correct_true_all_10,doc_claimant,Hillary Clinton,George Brandis,
+correct_true_all_10,doc_claimant,Hillary Clinton,Dennis Kucinich,
+correct_true_all_10,doc_claimant,Hillary Clinton,Alan Grayson,
+correct_true_all_10,doc_claimant,Hillary Clinton,Mitt Romney,0.0017889139955711841
+correct_true_all_10,doc_claimant,Hillary Clinton,Anthony Albanese,0.0017889139955711841
+correct_true_all_10,doc_claimant,George Brandis,Dennis Kucinich,
+correct_true_all_10,doc_claimant,George Brandis,Alan Grayson,
+correct_true_all_10,doc_claimant,George Brandis,Mitt Romney,0.0017889139955711841
+correct_true_all_10,doc_claimant,George Brandis,Anthony Albanese,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dennis Kucinich,Alan Grayson,
+correct_true_all_10,doc_claimant,Dennis Kucinich,Mitt Romney,0.0017889139955711841
+correct_true_all_10,doc_claimant,Dennis Kucinich,Anthony Albanese,0.0017889139955711841
+correct_true_all_10,doc_claimant,Alan Grayson,Mitt Romney,0.0017889139955711841
+correct_true_all_10,doc_claimant,Alan Grayson,Anthony Albanese,0.0017889139955711841
+correct_true_all_10,doc_claimant,Mitt Romney,Anthony Albanese,
+correct_false_all_10,doc_claimant,Kevin Rudd,Joe Hockey,0.02362715884253348
+correct_false_all_10,doc_claimant,Kevin Rudd,Eric Cantor,0.03989163382686343
+correct_false_all_10,doc_claimant,Kevin Rudd,Barack Obama,1.0
+correct_false_all_10,doc_claimant,Kevin Rudd,Tony Abbott,1.0
+correct_false_all_10,doc_claimant,Kevin Rudd,Lena Taylor,1.0
+correct_false_all_10,doc_claimant,Kevin Rudd,Gina Raimondo,1.0
+correct_false_all_10,doc_claimant,Kevin Rudd,David Cicilline,1.0
+correct_false_all_10,doc_claimant,Kevin Rudd,Christopher Pyne,0.5955398197851309
+correct_false_all_10,doc_claimant,Kevin Rudd,Chris Christie,1.0
+correct_false_all_10,doc_claimant,Kevin Rudd,Chris Bowen,1.0
+correct_false_all_10,doc_claimant,Kevin Rudd,Barry O'Farrell,1.0
+correct_false_all_10,doc_claimant,Kevin Rudd,Paul Hirschbiel,0.03989163382686343
+correct_false_all_10,doc_claimant,Kevin Rudd,Mitt Romney,0.03989163382686343
+correct_false_all_10,doc_claimant,Kevin Rudd,Michelle Rowland,0.03989163382686343
+correct_false_all_10,doc_claimant,Kevin Rudd,Mary Burke,0.03989163382686343
+correct_false_all_10,doc_claimant,Kevin Rudd,Graeme Zielinski,0.03989163382686343
+correct_false_all_10,doc_claimant,Kevin Rudd,Anthony Albanese,1.0
+correct_false_all_10,doc_claimant,Joe Hockey,Eric Cantor,
+correct_false_all_10,doc_claimant,Joe Hockey,Barack Obama,0.0007027035578983576
+correct_false_all_10,doc_claimant,Joe Hockey,Tony Abbott,0.0011629411734807497
+correct_false_all_10,doc_claimant,Joe Hockey,Lena Taylor,0.0007027035578983576
+correct_false_all_10,doc_claimant,Joe Hockey,Gina Raimondo,0.0007027035578983576
+correct_false_all_10,doc_claimant,Joe Hockey,David Cicilline,0.0007027035578983576
+correct_false_all_10,doc_claimant,Joe Hockey,Christopher Pyne,3.947834985365441e-06
+correct_false_all_10,doc_claimant,Joe Hockey,Chris Christie,0.0007027035578983576
+correct_false_all_10,doc_claimant,Joe Hockey,Chris Bowen,0.0007027035578983576
+correct_false_all_10,doc_claimant,Joe Hockey,Barry O'Farrell,0.0011848651139497455
+correct_false_all_10,doc_claimant,Joe Hockey,Paul Hirschbiel,
+correct_false_all_10,doc_claimant,Joe Hockey,Mitt Romney,
+correct_false_all_10,doc_claimant,Joe Hockey,Michelle Rowland,
+correct_false_all_10,doc_claimant,Joe Hockey,Mary Burke,
+correct_false_all_10,doc_claimant,Joe Hockey,Graeme Zielinski,
+correct_false_all_10,doc_claimant,Joe Hockey,Anthony Albanese,0.670179227982993
+correct_false_all_10,doc_claimant,Eric Cantor,Barack Obama,0.0011848651139497455
+correct_false_all_10,doc_claimant,Eric Cantor,Tony Abbott,0.002280057376241436
+correct_false_all_10,doc_claimant,Eric Cantor,Lena Taylor,0.0011848651139497455
+correct_false_all_10,doc_claimant,Eric Cantor,Gina Raimondo,0.0011848651139497455
+correct_false_all_10,doc_claimant,Eric Cantor,David Cicilline,0.0011848651139497455
+correct_false_all_10,doc_claimant,Eric Cantor,Christopher Pyne,6.61030847847608e-06
+correct_false_all_10,doc_claimant,Eric Cantor,Chris Christie,0.0011848651139497455
+correct_false_all_10,doc_claimant,Eric Cantor,Chris Bowen,0.0011848651139497455
+correct_false_all_10,doc_claimant,Eric Cantor,Barry O'Farrell,0.001999992341114737
+correct_false_all_10,doc_claimant,Eric Cantor,Paul Hirschbiel,
+correct_false_all_10,doc_claimant,Eric Cantor,Mitt Romney,
+correct_false_all_10,doc_claimant,Eric Cantor,Michelle Rowland,
+correct_false_all_10,doc_claimant,Eric Cantor,Mary Burke,
+correct_false_all_10,doc_claimant,Eric Cantor,Graeme Zielinski,
+correct_false_all_10,doc_claimant,Eric Cantor,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Barack Obama,Tony Abbott,1.0
+correct_false_all_10,doc_claimant,Barack Obama,Lena Taylor,
+correct_false_all_10,doc_claimant,Barack Obama,Gina Raimondo,
+correct_false_all_10,doc_claimant,Barack Obama,David Cicilline,
+correct_false_all_10,doc_claimant,Barack Obama,Christopher Pyne,
+correct_false_all_10,doc_claimant,Barack Obama,Chris Christie,
+correct_false_all_10,doc_claimant,Barack Obama,Chris Bowen,
+correct_false_all_10,doc_claimant,Barack Obama,Barry O'Farrell,
+correct_false_all_10,doc_claimant,Barack Obama,Paul Hirschbiel,0.0011848651139497455
+correct_false_all_10,doc_claimant,Barack Obama,Mitt Romney,0.0011848651139497455
+correct_false_all_10,doc_claimant,Barack Obama,Michelle Rowland,0.0011848651139497455
+correct_false_all_10,doc_claimant,Barack Obama,Mary Burke,0.0011848651139497455
+correct_false_all_10,doc_claimant,Barack Obama,Graeme Zielinski,0.0011848651139497455
+correct_false_all_10,doc_claimant,Barack Obama,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Tony Abbott,Lena Taylor,1.0
+correct_false_all_10,doc_claimant,Tony Abbott,Gina Raimondo,1.0
+correct_false_all_10,doc_claimant,Tony Abbott,David Cicilline,1.0
+correct_false_all_10,doc_claimant,Tony Abbott,Christopher Pyne,1.0
+correct_false_all_10,doc_claimant,Tony Abbott,Chris Christie,1.0
+correct_false_all_10,doc_claimant,Tony Abbott,Chris Bowen,1.0
+correct_false_all_10,doc_claimant,Tony Abbott,Barry O'Farrell,1.0
+correct_false_all_10,doc_claimant,Tony Abbott,Paul Hirschbiel,0.002280057376241436
+correct_false_all_10,doc_claimant,Tony Abbott,Mitt Romney,0.002280057376241436
+correct_false_all_10,doc_claimant,Tony Abbott,Michelle Rowland,0.002280057376241436
+correct_false_all_10,doc_claimant,Tony Abbott,Mary Burke,0.002280057376241436
+correct_false_all_10,doc_claimant,Tony Abbott,Graeme Zielinski,0.002280057376241436
+correct_false_all_10,doc_claimant,Tony Abbott,Anthony Albanese,1.0
+correct_false_all_10,doc_claimant,Lena Taylor,Gina Raimondo,
+correct_false_all_10,doc_claimant,Lena Taylor,David Cicilline,
+correct_false_all_10,doc_claimant,Lena Taylor,Christopher Pyne,
+correct_false_all_10,doc_claimant,Lena Taylor,Chris Christie,
+correct_false_all_10,doc_claimant,Lena Taylor,Chris Bowen,
+correct_false_all_10,doc_claimant,Lena Taylor,Barry O'Farrell,
+correct_false_all_10,doc_claimant,Lena Taylor,Paul Hirschbiel,0.0011848651139497455
+correct_false_all_10,doc_claimant,Lena Taylor,Mitt Romney,0.0011848651139497455
+correct_false_all_10,doc_claimant,Lena Taylor,Michelle Rowland,0.0011848651139497455
+correct_false_all_10,doc_claimant,Lena Taylor,Mary Burke,0.0011848651139497455
+correct_false_all_10,doc_claimant,Lena Taylor,Graeme Zielinski,0.0011848651139497455
+correct_false_all_10,doc_claimant,Lena Taylor,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Gina Raimondo,David Cicilline,
+correct_false_all_10,doc_claimant,Gina Raimondo,Christopher Pyne,
+correct_false_all_10,doc_claimant,Gina Raimondo,Chris Christie,
+correct_false_all_10,doc_claimant,Gina Raimondo,Chris Bowen,
+correct_false_all_10,doc_claimant,Gina Raimondo,Barry O'Farrell,
+correct_false_all_10,doc_claimant,Gina Raimondo,Paul Hirschbiel,0.0011848651139497455
+correct_false_all_10,doc_claimant,Gina Raimondo,Mitt Romney,0.0011848651139497455
+correct_false_all_10,doc_claimant,Gina Raimondo,Michelle Rowland,0.0011848651139497455
+correct_false_all_10,doc_claimant,Gina Raimondo,Mary Burke,0.0011848651139497455
+correct_false_all_10,doc_claimant,Gina Raimondo,Graeme Zielinski,0.0011848651139497455
+correct_false_all_10,doc_claimant,Gina Raimondo,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,David Cicilline,Christopher Pyne,
+correct_false_all_10,doc_claimant,David Cicilline,Chris Christie,
+correct_false_all_10,doc_claimant,David Cicilline,Chris Bowen,
+correct_false_all_10,doc_claimant,David Cicilline,Barry O'Farrell,
+correct_false_all_10,doc_claimant,David Cicilline,Paul Hirschbiel,0.0011848651139497455
+correct_false_all_10,doc_claimant,David Cicilline,Mitt Romney,0.0011848651139497455
+correct_false_all_10,doc_claimant,David Cicilline,Michelle Rowland,0.0011848651139497455
+correct_false_all_10,doc_claimant,David Cicilline,Mary Burke,0.0011848651139497455
+correct_false_all_10,doc_claimant,David Cicilline,Graeme Zielinski,0.0011848651139497455
+correct_false_all_10,doc_claimant,David Cicilline,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Christopher Pyne,Chris Christie,
+correct_false_all_10,doc_claimant,Christopher Pyne,Chris Bowen,
+correct_false_all_10,doc_claimant,Christopher Pyne,Barry O'Farrell,
+correct_false_all_10,doc_claimant,Christopher Pyne,Paul Hirschbiel,6.61030847847608e-06
+correct_false_all_10,doc_claimant,Christopher Pyne,Mitt Romney,6.61030847847608e-06
+correct_false_all_10,doc_claimant,Christopher Pyne,Michelle Rowland,6.61030847847608e-06
+correct_false_all_10,doc_claimant,Christopher Pyne,Mary Burke,6.61030847847608e-06
+correct_false_all_10,doc_claimant,Christopher Pyne,Graeme Zielinski,6.61030847847608e-06
+correct_false_all_10,doc_claimant,Christopher Pyne,Anthony Albanese,0.03989163382686343
+correct_false_all_10,doc_claimant,Chris Christie,Chris Bowen,
+correct_false_all_10,doc_claimant,Chris Christie,Barry O'Farrell,
+correct_false_all_10,doc_claimant,Chris Christie,Paul Hirschbiel,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Christie,Mitt Romney,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Christie,Michelle Rowland,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Christie,Mary Burke,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Christie,Graeme Zielinski,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Christie,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Chris Bowen,Barry O'Farrell,
+correct_false_all_10,doc_claimant,Chris Bowen,Paul Hirschbiel,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Bowen,Mitt Romney,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Bowen,Michelle Rowland,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Bowen,Mary Burke,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Bowen,Graeme Zielinski,0.0011848651139497455
+correct_false_all_10,doc_claimant,Chris Bowen,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Barry O'Farrell,Paul Hirschbiel,0.001999992341114737
+correct_false_all_10,doc_claimant,Barry O'Farrell,Mitt Romney,0.001999992341114737
+correct_false_all_10,doc_claimant,Barry O'Farrell,Michelle Rowland,0.001999992341114737
+correct_false_all_10,doc_claimant,Barry O'Farrell,Mary Burke,0.001999992341114737
+correct_false_all_10,doc_claimant,Barry O'Farrell,Graeme Zielinski,0.001999992341114737
+correct_false_all_10,doc_claimant,Barry O'Farrell,Anthony Albanese,1.0
+correct_false_all_10,doc_claimant,Paul Hirschbiel,Mitt Romney,
+correct_false_all_10,doc_claimant,Paul Hirschbiel,Michelle Rowland,
+correct_false_all_10,doc_claimant,Paul Hirschbiel,Mary Burke,
+correct_false_all_10,doc_claimant,Paul Hirschbiel,Graeme Zielinski,
+correct_false_all_10,doc_claimant,Paul Hirschbiel,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Mitt Romney,Michelle Rowland,
+correct_false_all_10,doc_claimant,Mitt Romney,Mary Burke,
+correct_false_all_10,doc_claimant,Mitt Romney,Graeme Zielinski,
+correct_false_all_10,doc_claimant,Mitt Romney,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Michelle Rowland,Mary Burke,
+correct_false_all_10,doc_claimant,Michelle Rowland,Graeme Zielinski,
+correct_false_all_10,doc_claimant,Michelle Rowland,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Mary Burke,Graeme Zielinski,
+correct_false_all_10,doc_claimant,Mary Burke,Anthony Albanese,0.9439945960432572
+correct_false_all_10,doc_claimant,Graeme Zielinski,Anthony Albanese,0.9439945960432572
+wrong_true_all_10,doc_date,2014,2013,1.0
+wrong_true_all_10,doc_date,2014,2012,0.013121378900225135
+wrong_true_all_10,doc_date,2014,2011,0.5168402442021985
+wrong_true_all_10,doc_date,2014,2010,0.5168402442021985
+wrong_true_all_10,doc_date,2014,2008,1.0
+wrong_true_all_10,doc_date,2014,2007,0.14107179608471426
+wrong_true_all_10,doc_date,2013,2012,0.1041512353845813
+wrong_true_all_10,doc_date,2013,2011,0.0027078462442169065
+wrong_true_all_10,doc_date,2013,2010,0.0027078462442169065
+wrong_true_all_10,doc_date,2013,2008,0.06233187037742704
+wrong_true_all_10,doc_date,2013,2007,0.5781697713882201
+wrong_true_all_10,doc_date,2012,2011,3.9224333150431486e-05
+wrong_true_all_10,doc_date,2012,2010,3.9224333150431486e-05
+wrong_true_all_10,doc_date,2012,2008,0.00013634383437609912
+wrong_true_all_10,doc_date,2012,2007,
+wrong_true_all_10,doc_date,2011,2010,1.0
+wrong_true_all_10,doc_date,2011,2008,1.0
+wrong_true_all_10,doc_date,2011,2007,0.0022577347113195137
+wrong_true_all_10,doc_date,2010,2008,1.0
+wrong_true_all_10,doc_date,2010,2007,0.0022577347113195137
+wrong_true_all_10,doc_date,2008,2007,0.005475322289961647
+wrong_false_all_10,doc_date,2014,2013,0.00012187748415056853
+wrong_false_all_10,doc_date,2014,2012,1.0
+wrong_false_all_10,doc_date,2014,2011,0.008581206663936736
+wrong_false_all_10,doc_date,2014,2010,1.0
+wrong_false_all_10,doc_date,2013,2012,0.0005696605282970933
+wrong_false_all_10,doc_date,2013,2011,1.0
+wrong_false_all_10,doc_date,2013,2010,0.17480051318259834
+wrong_false_all_10,doc_date,2012,2011,0.023031419971355035
+wrong_false_all_10,doc_date,2012,2010,1.0
+wrong_false_all_10,doc_date,2011,2010,0.3075356125927456
+correct_false_all_10,doc_date,2014,2013,1.0
+correct_false_all_10,doc_date,2014,2012,1.0
+correct_false_all_10,doc_date,2014,2011,5.7330314375838755e-06
+correct_false_all_10,doc_date,2014,2010,0.2909633174125227
+correct_false_all_10,doc_date,2013,2012,0.7632095152562475
+correct_false_all_10,doc_date,2013,2011,0.00013799492638540942
+correct_false_all_10,doc_date,2013,2010,0.6611477986156383
+correct_false_all_10,doc_date,2012,2011,1.3238707047832477e-06
+correct_false_all_10,doc_date,2012,2010,0.19807328171485028
+correct_false_all_10,doc_date,2011,2010,
+correct_true_all_10,doc_date,2014,2013,0.8661930572690322
+correct_true_all_10,doc_date,2014,2012,1.0
+correct_true_all_10,doc_date,2014,2011,1.0
+correct_true_all_10,doc_date,2014,2010,0.0010947218044870782
+correct_true_all_10,doc_date,2014,2008,1.0
+correct_true_all_10,doc_date,2014,2007,0.014776562117800273
+correct_true_all_10,doc_date,2013,2012,1.0
+correct_true_all_10,doc_date,2013,2011,1.0
+correct_true_all_10,doc_date,2013,2010,0.10057894220555419
+correct_true_all_10,doc_date,2013,2008,0.1736402562284547
+correct_true_all_10,doc_date,2013,2007,0.6606239588031131
+correct_true_all_10,doc_date,2012,2011,1.0
+correct_true_all_10,doc_date,2012,2010,1.0
+correct_true_all_10,doc_date,2012,2008,0.1317410481324868
+correct_true_all_10,doc_date,2012,2007,1.0
+correct_true_all_10,doc_date,2011,2010,0.43934804209367406
+correct_true_all_10,doc_date,2011,2008,0.30042344714402247
+correct_true_all_10,doc_date,2011,2007,1.0
+correct_true_all_10,doc_date,2010,2008,0.0022577347113195137
+correct_true_all_10,doc_date,2010,2007,1.0
+correct_true_all_10,doc_date,2008,2007,0.005475322289961647
+wrong_true_all_10,doc_source,politifact,abc,8.260128320755255e-12
+wrong_false_all_10,doc_source,politifact,abc,0.02403526415116537
+wrong_true_all_10,doc_overall-truthfulness_value,completely-agree,agree,0.2757035832990554
+wrong_true_all_10,doc_overall-truthfulness_value,completely-agree,neither-agree-nor-disagree,0.006906336436088352
+wrong_true_all_10,doc_overall-truthfulness_value,completely-agree,disagree,2.3920821927506526e-06
+wrong_true_all_10,doc_overall-truthfulness_value,completely-agree,completely-disagree,0.1512568817075182
+wrong_true_all_10,doc_overall-truthfulness_value,agree,neither-agree-nor-disagree,1.0
+wrong_true_all_10,doc_overall-truthfulness_value,agree,disagree,0.002573424521438757
+wrong_true_all_10,doc_overall-truthfulness_value,agree,completely-disagree,1.0
+wrong_true_all_10,doc_overall-truthfulness_value,neither-agree-nor-disagree,disagree,0.27413922960480863
+wrong_true_all_10,doc_overall-truthfulness_value,neither-agree-nor-disagree,completely-disagree,1.0
+wrong_true_all_10,doc_overall-truthfulness_value,disagree,completely-disagree,1.0
+correct_false_all_10,doc_overall-truthfulness_value,completely-agree,agree,1.0
+correct_false_all_10,doc_overall-truthfulness_value,completely-agree,neither-agree-nor-disagree,0.6246485584830405
+correct_false_all_10,doc_overall-truthfulness_value,completely-agree,disagree,0.06479800920036455
+correct_false_all_10,doc_overall-truthfulness_value,completely-agree,completely-disagree,0.0005467572362067227
+correct_false_all_10,doc_overall-truthfulness_value,agree,neither-agree-nor-disagree,0.031135153451705106
+correct_false_all_10,doc_overall-truthfulness_value,agree,disagree,0.0010328497959771516
+correct_false_all_10,doc_overall-truthfulness_value,agree,completely-disagree,6.883679340278752e-07
+correct_false_all_10,doc_overall-truthfulness_value,neither-agree-nor-disagree,disagree,1.0
+correct_false_all_10,doc_overall-truthfulness_value,neither-agree-nor-disagree,completely-disagree,0.07466709054248728
+correct_false_all_10,doc_overall-truthfulness_value,disagree,completely-disagree,1.0
+correct_true_all_10,doc_overall-truthfulness_value,completely-agree,agree,0.00680540211579646
+correct_true_all_10,doc_overall-truthfulness_value,completely-agree,neither-agree-nor-disagree,0.0003512906130673613
+correct_true_all_10,doc_overall-truthfulness_value,completely-agree,disagree,0.0014097239273766454
+correct_true_all_10,doc_overall-truthfulness_value,completely-agree,completely-disagree,0.35323593318017
+correct_true_all_10,doc_overall-truthfulness_value,agree,neither-agree-nor-disagree,1.0
+correct_true_all_10,doc_overall-truthfulness_value,agree,disagree,0.640625368471959
+correct_true_all_10,doc_overall-truthfulness_value,agree,completely-disagree,1.0
+correct_true_all_10,doc_overall-truthfulness_value,neither-agree-nor-disagree,disagree,1.0
+correct_true_all_10,doc_overall-truthfulness_value,neither-agree-nor-disagree,completely-disagree,1.0
+correct_true_all_10,doc_overall-truthfulness_value,disagree,completely-disagree,1.0
+wrong_false_all_10,doc_overall-truthfulness_value,completely-agree,agree,1.0
+wrong_false_all_10,doc_overall-truthfulness_value,completely-agree,neither-agree-nor-disagree,0.21468992440291337
+wrong_false_all_10,doc_overall-truthfulness_value,completely-agree,disagree,0.04238546728789595
+wrong_false_all_10,doc_overall-truthfulness_value,completely-agree,completely-disagree,1.5189093947157962e-05
+wrong_false_all_10,doc_overall-truthfulness_value,agree,neither-agree-nor-disagree,0.2513289849469516
+wrong_false_all_10,doc_overall-truthfulness_value,agree,disagree,0.04901560565788224
+wrong_false_all_10,doc_overall-truthfulness_value,agree,completely-disagree,1.937470530595815e-05
+wrong_false_all_10,doc_overall-truthfulness_value,neither-agree-nor-disagree,disagree,1.0
+wrong_false_all_10,doc_overall-truthfulness_value,neither-agree-nor-disagree,completely-disagree,0.009090542595307385
+wrong_false_all_10,doc_overall-truthfulness_value,disagree,completely-disagree,0.09526227805368248
+correct_false_all_10,doc_confidence_value,completely-agree,agree,1.0
+correct_false_all_10,doc_confidence_value,completely-agree,neither-agree-nor-disagree,1.0
+correct_false_all_10,doc_confidence_value,completely-agree,disagree,0.4442939408993569
+correct_false_all_10,doc_confidence_value,completely-agree,completely-disagree,1.0
+correct_false_all_10,doc_confidence_value,agree,neither-agree-nor-disagree,1.0
+correct_false_all_10,doc_confidence_value,agree,disagree,0.3900516032233215
+correct_false_all_10,doc_confidence_value,agree,completely-disagree,1.0
+correct_false_all_10,doc_confidence_value,neither-agree-nor-disagree,disagree,0.05559940031701054
+correct_false_all_10,doc_confidence_value,neither-agree-nor-disagree,completely-disagree,0.9849893067169808
+correct_false_all_10,doc_confidence_value,disagree,completely-disagree,1.0
+correct_true_all_10,doc_confidence_value,completely-agree,agree,0.5735772293468913
+correct_true_all_10,doc_confidence_value,completely-agree,neither-agree-nor-disagree,1.0
+correct_true_all_10,doc_confidence_value,completely-agree,disagree,0.0014685000804967197
+correct_true_all_10,doc_confidence_value,completely-agree,completely-disagree,0.007078619786736296
+correct_true_all_10,doc_confidence_value,agree,neither-agree-nor-disagree,1.0
+correct_true_all_10,doc_confidence_value,agree,disagree,0.11186386823679313
+correct_true_all_10,doc_confidence_value,agree,completely-disagree,0.4381444204870666
+correct_true_all_10,doc_confidence_value,neither-agree-nor-disagree,disagree,0.06277134401498431
+correct_true_all_10,doc_confidence_value,neither-agree-nor-disagree,completely-disagree,0.2523913746540063
+correct_true_all_10,doc_confidence_value,disagree,completely-disagree,1.0
+wrong_true_all_10,doc_correctness_value,completely-agree,agree,0.031613849070372596
+wrong_true_all_10,doc_correctness_value,completely-agree,neither-agree-nor-disagree,0.008770214323681422
+wrong_true_all_10,doc_correctness_value,completely-agree,disagree,1.401292980385692e-07
+wrong_true_all_10,doc_correctness_value,completely-agree,completely-disagree,0.0002463593394574662
+wrong_true_all_10,doc_correctness_value,agree,neither-agree-nor-disagree,1.0
+wrong_true_all_10,doc_correctness_value,agree,disagree,0.001788165935855835
+wrong_true_all_10,doc_correctness_value,agree,completely-disagree,0.2853608373491314
+wrong_true_all_10,doc_correctness_value,neither-agree-nor-disagree,disagree,0.05164986326655251
+wrong_true_all_10,doc_correctness_value,neither-agree-nor-disagree,completely-disagree,0.9821985259635455
+wrong_true_all_10,doc_correctness_value,disagree,completely-disagree,1.0
+correct_false_all_10,doc_correctness_value,completely-agree,agree,0.9072580671513969
+correct_false_all_10,doc_correctness_value,completely-agree,neither-agree-nor-disagree,0.3674128191421765
+correct_false_all_10,doc_correctness_value,completely-agree,disagree,0.09431124045305539
+correct_false_all_10,doc_correctness_value,completely-agree,completely-disagree,6.735575529981513e-05
+correct_false_all_10,doc_correctness_value,agree,neither-agree-nor-disagree,1.0
+correct_false_all_10,doc_correctness_value,agree,disagree,1.0
+correct_false_all_10,doc_correctness_value,agree,completely-disagree,0.0007970956087311126
+correct_false_all_10,doc_correctness_value,neither-agree-nor-disagree,disagree,1.0
+correct_false_all_10,doc_correctness_value,neither-agree-nor-disagree,completely-disagree,0.009079436728653557
+correct_false_all_10,doc_correctness_value,disagree,completely-disagree,0.1351667046341597
+correct_true_all_10,doc_correctness_value,completely-agree,agree,0.28076466892360935
+correct_true_all_10,doc_correctness_value,completely-agree,neither-agree-nor-disagree,0.04114208912185309
+correct_true_all_10,doc_correctness_value,completely-agree,disagree,0.002090627644437351
+correct_true_all_10,doc_correctness_value,completely-agree,completely-disagree,1.0
+correct_true_all_10,doc_correctness_value,agree,neither-agree-nor-disagree,1.0
+correct_true_all_10,doc_correctness_value,agree,disagree,0.13638026193431835
+correct_true_all_10,doc_correctness_value,agree,completely-disagree,1.0
+correct_true_all_10,doc_correctness_value,neither-agree-nor-disagree,disagree,1.0
+correct_true_all_10,doc_correctness_value,neither-agree-nor-disagree,completely-disagree,1.0
+correct_true_all_10,doc_correctness_value,disagree,completely-disagree,1.0
+wrong_false_all_10,doc_correctness_value,completely-agree,agree,1.0
+wrong_false_all_10,doc_correctness_value,completely-agree,neither-agree-nor-disagree,1.0
+wrong_false_all_10,doc_correctness_value,completely-agree,disagree,1.0
+wrong_false_all_10,doc_correctness_value,completely-agree,completely-disagree,0.000686528616388726
+wrong_false_all_10,doc_correctness_value,agree,neither-agree-nor-disagree,1.0
+wrong_false_all_10,doc_correctness_value,agree,disagree,1.0
+wrong_false_all_10,doc_correctness_value,agree,completely-disagree,0.0006573079060969338
+wrong_false_all_10,doc_correctness_value,neither-agree-nor-disagree,disagree,1.0
+wrong_false_all_10,doc_correctness_value,neither-agree-nor-disagree,completely-disagree,0.029156215495624284
+wrong_false_all_10,doc_correctness_value,disagree,completely-disagree,0.02644840178793847
+correct_false_all_10,doc_neutrality_value,completely-agree,agree,1.0
+correct_false_all_10,doc_neutrality_value,completely-agree,neither-agree-nor-disagree,1.0
+correct_false_all_10,doc_neutrality_value,completely-agree,disagree,1.0
+correct_false_all_10,doc_neutrality_value,completely-agree,completely-disagree,0.1535352963488203
+correct_false_all_10,doc_neutrality_value,agree,neither-agree-nor-disagree,1.0
+correct_false_all_10,doc_neutrality_value,agree,disagree,1.0
+correct_false_all_10,doc_neutrality_value,agree,completely-disagree,0.003909935202459863
+correct_false_all_10,doc_neutrality_value,neither-agree-nor-disagree,disagree,1.0
+correct_false_all_10,doc_neutrality_value,neither-agree-nor-disagree,completely-disagree,0.0001968601453515235
+correct_false_all_10,doc_neutrality_value,disagree,completely-disagree,0.003698873862584761
+wrong_true_all_10,doc_completeness_value,completely-agree,agree,1.0
+wrong_true_all_10,doc_completeness_value,completely-agree,neither-agree-nor-disagree,0.9420561061103133
+wrong_true_all_10,doc_completeness_value,completely-agree,disagree,1.0
+wrong_true_all_10,doc_completeness_value,completely-agree,completely-disagree,0.015031928399872557
+wrong_true_all_10,doc_completeness_value,agree,neither-agree-nor-disagree,1.0
+wrong_true_all_10,doc_completeness_value,agree,disagree,1.0
+wrong_true_all_10,doc_completeness_value,agree,completely-disagree,0.09016306160750408
+wrong_true_all_10,doc_completeness_value,neither-agree-nor-disagree,disagree,1.0
+wrong_true_all_10,doc_completeness_value,neither-agree-nor-disagree,completely-disagree,0.4932630785363411
+wrong_true_all_10,doc_completeness_value,disagree,completely-disagree,0.21292463447452584
+wrong_true_all_10,doc_speaker's-trustworthiness_value,completely-agree,agree,1.0
+wrong_true_all_10,doc_speaker's-trustworthiness_value,completely-agree,neither-agree-nor-disagree,0.6422219234819435
+wrong_true_all_10,doc_speaker's-trustworthiness_value,completely-agree,disagree,0.06288772404831074
+wrong_true_all_10,doc_speaker's-trustworthiness_value,completely-agree,completely-disagree,0.17226345697177464
+wrong_true_all_10,doc_speaker's-trustworthiness_value,agree,neither-agree-nor-disagree,0.7118325527738943
+wrong_true_all_10,doc_speaker's-trustworthiness_value,agree,disagree,0.056228981948210605
+wrong_true_all_10,doc_speaker's-trustworthiness_value,agree,completely-disagree,0.21922060786801806
+wrong_true_all_10,doc_speaker's-trustworthiness_value,neither-agree-nor-disagree,disagree,1.0
+wrong_true_all_10,doc_speaker's-trustworthiness_value,neither-agree-nor-disagree,completely-disagree,1.0
+wrong_true_all_10,doc_speaker's-trustworthiness_value,disagree,completely-disagree,1.0
+correct_false_all_10,doc_speaker's-trustworthiness_value,completely-agree,agree,0.9873155134067051
+correct_false_all_10,doc_speaker's-trustworthiness_value,completely-agree,neither-agree-nor-disagree,0.033188931076175404
+correct_false_all_10,doc_speaker's-trustworthiness_value,completely-agree,disagree,0.014653281379534741
+correct_false_all_10,doc_speaker's-trustworthiness_value,completely-agree,completely-disagree,0.0010923070133818079
+correct_false_all_10,doc_speaker's-trustworthiness_value,agree,neither-agree-nor-disagree,0.6899811707098052
+correct_false_all_10,doc_speaker's-trustworthiness_value,agree,disagree,0.3130168038235527
+correct_false_all_10,doc_speaker's-trustworthiness_value,agree,completely-disagree,0.023508080364049933
+correct_false_all_10,doc_speaker's-trustworthiness_value,neither-agree-nor-disagree,disagree,1.0
+correct_false_all_10,doc_speaker's-trustworthiness_value,neither-agree-nor-disagree,completely-disagree,0.9500401317878504
+correct_false_all_10,doc_speaker's-trustworthiness_value,disagree,completely-disagree,1.0
+wrong_false_all_10,doc_speaker's-trustworthiness_value,completely-agree,agree,1.0
+wrong_false_all_10,doc_speaker's-trustworthiness_value,completely-agree,neither-agree-nor-disagree,1.0
+wrong_false_all_10,doc_speaker's-trustworthiness_value,completely-agree,disagree,0.005165339876878121
+wrong_false_all_10,doc_speaker's-trustworthiness_value,completely-agree,completely-disagree,0.11217148944673092
+wrong_false_all_10,doc_speaker's-trustworthiness_value,agree,neither-agree-nor-disagree,1.0
+wrong_false_all_10,doc_speaker's-trustworthiness_value,agree,disagree,0.006559773763098222
+wrong_false_all_10,doc_speaker's-trustworthiness_value,agree,completely-disagree,0.16688863035451043
+wrong_false_all_10,doc_speaker's-trustworthiness_value,neither-agree-nor-disagree,disagree,0.03313549355787318
+wrong_false_all_10,doc_speaker's-trustworthiness_value,neither-agree-nor-disagree,completely-disagree,0.5030883601768378
+wrong_false_all_10,doc_speaker's-trustworthiness_value,disagree,completely-disagree,1.0
+wrong_true_all_10,doc_informativeness_value,completely-agree,agree,0.9595625653204553
+wrong_true_all_10,doc_informativeness_value,completely-agree,neither-agree-nor-disagree,0.15708665437963967
+wrong_true_all_10,doc_informativeness_value,completely-agree,disagree,0.025121717325016692
+wrong_true_all_10,doc_informativeness_value,completely-agree,completely-disagree,1.0
+wrong_true_all_10,doc_informativeness_value,agree,neither-agree-nor-disagree,1.0
+wrong_true_all_10,doc_informativeness_value,agree,disagree,0.4382108820497961
+wrong_true_all_10,doc_informativeness_value,agree,completely-disagree,1.0
+wrong_true_all_10,doc_informativeness_value,neither-agree-nor-disagree,disagree,1.0
+wrong_true_all_10,doc_informativeness_value,neither-agree-nor-disagree,completely-disagree,1.0
+wrong_true_all_10,doc_informativeness_value,disagree,completely-disagree,1.0
+correct_true_all_10,doc_informativeness_value,completely-agree,agree,0.2985807163139641
+correct_true_all_10,doc_informativeness_value,completely-agree,neither-agree-nor-disagree,0.16158048474397554
+correct_true_all_10,doc_informativeness_value,completely-agree,disagree,0.043304018190460425
+correct_true_all_10,doc_informativeness_value,completely-agree,completely-disagree,0.29182299855252886
+correct_true_all_10,doc_informativeness_value,agree,neither-agree-nor-disagree,1.0
+correct_true_all_10,doc_informativeness_value,agree,disagree,0.8488450540421443
+correct_true_all_10,doc_informativeness_value,agree,completely-disagree,1.0
+correct_true_all_10,doc_informativeness_value,neither-agree-nor-disagree,disagree,1.0
+correct_true_all_10,doc_informativeness_value,neither-agree-nor-disagree,completely-disagree,1.0
+correct_true_all_10,doc_informativeness_value,disagree,completely-disagree,1.0
+wrong_false_all_10,doc_informativeness_value,completely-agree,agree,1.0
+wrong_false_all_10,doc_informativeness_value,completely-agree,neither-agree-nor-disagree,0.875264694582474
+wrong_false_all_10,doc_informativeness_value,completely-agree,disagree,0.14956122378588
+wrong_false_all_10,doc_informativeness_value,completely-agree,completely-disagree,0.04770868691011122
+wrong_false_all_10,doc_informativeness_value,agree,neither-agree-nor-disagree,1.0
+wrong_false_all_10,doc_informativeness_value,agree,disagree,0.9171443250479844
+wrong_false_all_10,doc_informativeness_value,agree,completely-disagree,0.24204393772578453
+wrong_false_all_10,doc_informativeness_value,neither-agree-nor-disagree,disagree,1.0
+wrong_false_all_10,doc_informativeness_value,neither-agree-nor-disagree,completely-disagree,0.732657126625481
+wrong_false_all_10,doc_informativeness_value,disagree,completely-disagree,1.0
+correct_false_all_10,doc_overall-truthfulness_url,en.wikipedia.org,www.theguardian.com,1.0
+correct_false_all_10,doc_overall-truthfulness_url,en.wikipedia.org,www.youtube.com,3.33649472755574e-05
+correct_false_all_10,doc_overall-truthfulness_url,www.theguardian.com,www.youtube.com,0.0246707270445784
+wrong_true_all_10,query_amount,6,4,1.0
+wrong_true_all_10,query_amount,6,3,1.0
+wrong_true_all_10,query_amount,6,2,0.4193239092385299
+wrong_true_all_10,query_amount,6,1,0.08465676900260637
+wrong_true_all_10,query_amount,4,3,1.0
+wrong_true_all_10,query_amount,4,2,1.0
+wrong_true_all_10,query_amount,4,1,0.6495992471666535
+wrong_true_all_10,query_amount,3,2,1.0
+wrong_true_all_10,query_amount,3,1,0.2831135799437062
+wrong_true_all_10,query_amount,2,1,1.0

@@ -1,0 +1,2720 @@
+file,type,value,rate
+correct_false_abc_5,current_try,1,1.02
+correct_false_all_10,current_try,1,1.01
+correct_false_politifact_5,current_try,1,1.0
+correct_true_abc_5,current_try,1,1.0
+correct_true_all_10,current_try,1,0.99
+correct_true_all_10,current_try,2,0.01
+correct_true_politifact_5,current_try,1,0.98
+correct_true_politifact_5,current_try,2,0.02
+wrong_false_abc_5,current_try,1,0.98
+wrong_false_abc_5,current_try,2,0.02
+wrong_false_all_10,current_try,1,0.98
+wrong_false_all_10,current_try,2,0.01
+wrong_false_politifact_5,current_try,1,1.0
+wrong_true_abc_5,current_try,1,1.0
+wrong_true_all_10,current_try,1,1.0
+wrong_true_politifact_5,current_try,1,1.0
+correct_false_abc_5,q_0_age_answer,19-25,0.3
+correct_false_abc_5,q_0_age_answer,26-35,0.38
+correct_false_abc_5,q_0_age_answer,36-50,0.32
+correct_false_abc_5,q_0_age_answer,50-80,0.02
+correct_false_all_10,q_0_age_answer,19-25,0.24
+correct_false_all_10,q_0_age_answer,26-35,0.41
+correct_false_all_10,q_0_age_answer,36-50,0.31
+correct_false_all_10,q_0_age_answer,50-80,0.05
+correct_false_politifact_5,q_0_age_answer,19-25,0.18
+correct_false_politifact_5,q_0_age_answer,26-35,0.44
+correct_false_politifact_5,q_0_age_answer,36-50,0.3
+correct_false_politifact_5,q_0_age_answer,50-80,0.08
+correct_true_abc_5,q_0_age_answer,19-25,0.16
+correct_true_abc_5,q_0_age_answer,26-35,0.5
+correct_true_abc_5,q_0_age_answer,36-50,0.26
+correct_true_abc_5,q_0_age_answer,50-80,0.08
+correct_true_all_10,q_0_age_answer,19-25,0.19
+correct_true_all_10,q_0_age_answer,26-35,0.48
+correct_true_all_10,q_0_age_answer,36-50,0.24
+correct_true_all_10,q_0_age_answer,50-80,0.09
+correct_true_politifact_5,q_0_age_answer,19-25,0.22
+correct_true_politifact_5,q_0_age_answer,26-35,0.46
+correct_true_politifact_5,q_0_age_answer,36-50,0.22
+correct_true_politifact_5,q_0_age_answer,50-80,0.1
+wrong_false_abc_5,q_0_age_answer,19-25,0.16
+wrong_false_abc_5,q_0_age_answer,26-35,0.46
+wrong_false_abc_5,q_0_age_answer,36-50,0.24
+wrong_false_abc_5,q_0_age_answer,50-80,0.14
+wrong_false_all_10,q_0_age_answer,19-25,0.2
+wrong_false_all_10,q_0_age_answer,26-35,0.47
+wrong_false_all_10,q_0_age_answer,36-50,0.19
+wrong_false_all_10,q_0_age_answer,50-80,0.13
+wrong_false_politifact_5,q_0_age_answer,19-25,0.2
+wrong_false_politifact_5,q_0_age_answer,26-35,0.52
+wrong_false_politifact_5,q_0_age_answer,36-50,0.14
+wrong_false_politifact_5,q_0_age_answer,50-80,0.14
+wrong_true_abc_5,q_0_age_answer,19-25,0.12
+wrong_true_abc_5,q_0_age_answer,26-35,0.5
+wrong_true_abc_5,q_0_age_answer,36-50,0.3
+wrong_true_abc_5,q_0_age_answer,50-80,0.08
+wrong_true_all_10,q_0_age_answer,19-25,0.19
+wrong_true_all_10,q_0_age_answer,26-35,0.46
+wrong_true_all_10,q_0_age_answer,36-50,0.25
+wrong_true_all_10,q_0_age_answer,50-80,0.1
+wrong_true_politifact_5,q_0_age_answer,19-25,0.28
+wrong_true_politifact_5,q_0_age_answer,26-35,0.32
+wrong_true_politifact_5,q_0_age_answer,36-50,0.36
+wrong_true_politifact_5,q_0_age_answer,50-80,0.04
+correct_false_abc_5,q_0_school_answer,4 year college/bachelor degree,0.5
+correct_false_abc_5,q_0_school_answer,High school graduate or GED (etc.),0.08
+correct_false_abc_5,q_0_school_answer,Postgrad. or professional degree (etc.),0.18
+correct_false_abc_5,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.06
+correct_false_abc_5,q_0_school_answer,Some college (etc.),0.2
+correct_false_all_10,q_0_school_answer,4 year college/bachelor degree,0.43
+correct_false_all_10,q_0_school_answer,High school graduate or GED (etc.),0.08
+correct_false_all_10,q_0_school_answer,Postgrad. or professional degree (etc.),0.2
+correct_false_all_10,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.05
+correct_false_all_10,q_0_school_answer,Some college (etc.),0.25
+correct_false_politifact_5,q_0_school_answer,4 year college/bachelor degree,0.36
+correct_false_politifact_5,q_0_school_answer,High school graduate or GED (etc.),0.08
+correct_false_politifact_5,q_0_school_answer,Postgrad. or professional degree (etc.),0.22
+correct_false_politifact_5,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.04
+correct_false_politifact_5,q_0_school_answer,Some college (etc.),0.3
+correct_true_abc_5,q_0_school_answer,4 year college/bachelor degree,0.44
+correct_true_abc_5,q_0_school_answer,High school graduate or GED (etc.),0.12
+correct_true_abc_5,q_0_school_answer,Postgrad. or professional degree (etc.),0.3
+correct_true_abc_5,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.04
+correct_true_abc_5,q_0_school_answer,Some college (etc.),0.1
+correct_true_all_10,q_0_school_answer,4 year college/bachelor degree,0.54
+correct_true_all_10,q_0_school_answer,High school graduate or GED (etc.),0.1
+correct_true_all_10,q_0_school_answer,Postgrad. or professional degree (etc.),0.2
+correct_true_all_10,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.05
+correct_true_all_10,q_0_school_answer,Some college (etc.),0.11
+correct_true_politifact_5,q_0_school_answer,4 year college/bachelor degree,0.64
+correct_true_politifact_5,q_0_school_answer,High school graduate or GED (etc.),0.08
+correct_true_politifact_5,q_0_school_answer,Postgrad. or professional degree (etc.),0.1
+correct_true_politifact_5,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.06
+correct_true_politifact_5,q_0_school_answer,Some college (etc.),0.12
+wrong_false_abc_5,q_0_school_answer,4 year college/bachelor degree,0.48
+wrong_false_abc_5,q_0_school_answer,High school graduate or GED (etc.),0.06
+wrong_false_abc_5,q_0_school_answer,Postgrad. or professional degree (etc.),0.22
+wrong_false_abc_5,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.06
+wrong_false_abc_5,q_0_school_answer,Some college (etc.),0.18
+wrong_false_all_10,q_0_school_answer,4 year college/bachelor degree,0.56
+wrong_false_all_10,q_0_school_answer,High school graduate or GED (etc.),0.05
+wrong_false_all_10,q_0_school_answer,Postgrad. or professional degree (etc.),0.17
+wrong_false_all_10,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.06
+wrong_false_all_10,q_0_school_answer,Some college (etc.),0.15
+wrong_false_politifact_5,q_0_school_answer,4 year college/bachelor degree,0.66
+wrong_false_politifact_5,q_0_school_answer,High school graduate or GED (etc.),0.04
+wrong_false_politifact_5,q_0_school_answer,Postgrad. or professional degree (etc.),0.1
+wrong_false_politifact_5,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.04
+wrong_false_politifact_5,q_0_school_answer,Some college (etc.),0.16
+wrong_true_abc_5,q_0_school_answer,4 year college/bachelor degree,0.48
+wrong_true_abc_5,q_0_school_answer,High school graduate or GED (etc.),0.04
+wrong_true_abc_5,q_0_school_answer,Postgrad. or professional degree (etc.),0.14
+wrong_true_abc_5,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.06
+wrong_true_abc_5,q_0_school_answer,Some college (etc.),0.28
+wrong_true_all_10,q_0_school_answer,4 year college/bachelor degree,0.47
+wrong_true_all_10,q_0_school_answer,High school graduate or GED (etc.),0.05
+wrong_true_all_10,q_0_school_answer,Postgrad. or professional degree (etc.),0.18
+wrong_true_all_10,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.05
+wrong_true_all_10,q_0_school_answer,Some college (etc.),0.25
+wrong_true_politifact_5,q_0_school_answer,4 year college/bachelor degree,0.46
+wrong_true_politifact_5,q_0_school_answer,High school graduate or GED (etc.),0.06
+wrong_true_politifact_5,q_0_school_answer,Postgrad. or professional degree (etc.),0.18
+wrong_true_politifact_5,q_0_school_answer,"Postgrad. or professional schooling, no degree",0.06
+wrong_true_politifact_5,q_0_school_answer,Some college (etc.),0.24
+correct_false_abc_5,q_0_taxes_answer,"10,000 to less than 20,000",0.02
+correct_false_abc_5,q_0_taxes_answer,"100,000 to less than 150,000",0.1
+correct_false_abc_5,q_0_taxes_answer,"150,000 or more",0.04
+correct_false_abc_5,q_0_taxes_answer,"20,000 to less than 30,000",0.06
+correct_false_abc_5,q_0_taxes_answer,"30,000 to less than 40,000",0.18
+correct_false_abc_5,q_0_taxes_answer,"40,000 to less than 50,000",0.1
+correct_false_abc_5,q_0_taxes_answer,"50,000 to less than 75,000",0.26
+correct_false_abc_5,q_0_taxes_answer,"75,000 to less than 100,000",0.18
+correct_false_abc_5,q_0_taxes_answer,"Less than 10,000",0.08
+correct_false_all_10,q_0_taxes_answer,"10,000 to less than 20,000",0.04
+correct_false_all_10,q_0_taxes_answer,"100,000 to less than 150,000",0.09
+correct_false_all_10,q_0_taxes_answer,"150,000 or more",0.05
+correct_false_all_10,q_0_taxes_answer,"20,000 to less than 30,000",0.11
+correct_false_all_10,q_0_taxes_answer,"30,000 to less than 40,000",0.15
+correct_false_all_10,q_0_taxes_answer,"40,000 to less than 50,000",0.11
+correct_false_all_10,q_0_taxes_answer,"50,000 to less than 75,000",0.25
+correct_false_all_10,q_0_taxes_answer,"75,000 to less than 100,000",0.14
+correct_false_all_10,q_0_taxes_answer,"Less than 10,000",0.07
+correct_false_politifact_5,q_0_taxes_answer,"10,000 to less than 20,000",0.06
+correct_false_politifact_5,q_0_taxes_answer,"100,000 to less than 150,000",0.08
+correct_false_politifact_5,q_0_taxes_answer,"150,000 or more",0.06
+correct_false_politifact_5,q_0_taxes_answer,"20,000 to less than 30,000",0.16
+correct_false_politifact_5,q_0_taxes_answer,"30,000 to less than 40,000",0.12
+correct_false_politifact_5,q_0_taxes_answer,"40,000 to less than 50,000",0.12
+correct_false_politifact_5,q_0_taxes_answer,"50,000 to less than 75,000",0.24
+correct_false_politifact_5,q_0_taxes_answer,"75,000 to less than 100,000",0.1
+correct_false_politifact_5,q_0_taxes_answer,"Less than 10,000",0.06
+correct_true_abc_5,q_0_taxes_answer,"10,000 to less than 20,000",0.02
+correct_true_abc_5,q_0_taxes_answer,"100,000 to less than 150,000",0.12
+correct_true_abc_5,q_0_taxes_answer,"150,000 or more",0.04
+correct_true_abc_5,q_0_taxes_answer,"20,000 to less than 30,000",0.06
+correct_true_abc_5,q_0_taxes_answer,"30,000 to less than 40,000",0.08
+correct_true_abc_5,q_0_taxes_answer,"40,000 to less than 50,000",0.2
+correct_true_abc_5,q_0_taxes_answer,"50,000 to less than 75,000",0.24
+correct_true_abc_5,q_0_taxes_answer,"75,000 to less than 100,000",0.22
+correct_true_abc_5,q_0_taxes_answer,"Less than 10,000",0.02
+correct_true_all_10,q_0_taxes_answer,"10,000 to less than 20,000",0.03
+correct_true_all_10,q_0_taxes_answer,"100,000 to less than 150,000",0.09
+correct_true_all_10,q_0_taxes_answer,"150,000 or more",0.06
+correct_true_all_10,q_0_taxes_answer,"20,000 to less than 30,000",0.06
+correct_true_all_10,q_0_taxes_answer,"30,000 to less than 40,000",0.12
+correct_true_all_10,q_0_taxes_answer,"40,000 to less than 50,000",0.21
+correct_true_all_10,q_0_taxes_answer,"50,000 to less than 75,000",0.24
+correct_true_all_10,q_0_taxes_answer,"75,000 to less than 100,000",0.18
+correct_true_all_10,q_0_taxes_answer,"Less than 10,000",0.01
+correct_true_politifact_5,q_0_taxes_answer,"10,000 to less than 20,000",0.04
+correct_true_politifact_5,q_0_taxes_answer,"100,000 to less than 150,000",0.06
+correct_true_politifact_5,q_0_taxes_answer,"150,000 or more",0.08
+correct_true_politifact_5,q_0_taxes_answer,"20,000 to less than 30,000",0.06
+correct_true_politifact_5,q_0_taxes_answer,"30,000 to less than 40,000",0.16
+correct_true_politifact_5,q_0_taxes_answer,"40,000 to less than 50,000",0.22
+correct_true_politifact_5,q_0_taxes_answer,"50,000 to less than 75,000",0.24
+correct_true_politifact_5,q_0_taxes_answer,"75,000 to less than 100,000",0.14
+wrong_false_abc_5,q_0_taxes_answer,"10,000 to less than 20,000",0.06
+wrong_false_abc_5,q_0_taxes_answer,"100,000 to less than 150,000",0.06
+wrong_false_abc_5,q_0_taxes_answer,"150,000 or more",0.04
+wrong_false_abc_5,q_0_taxes_answer,"20,000 to less than 30,000",0.04
+wrong_false_abc_5,q_0_taxes_answer,"30,000 to less than 40,000",0.14
+wrong_false_abc_5,q_0_taxes_answer,"40,000 to less than 50,000",0.1
+wrong_false_abc_5,q_0_taxes_answer,"50,000 to less than 75,000",0.3
+wrong_false_abc_5,q_0_taxes_answer,"75,000 to less than 100,000",0.26
+wrong_false_all_10,q_0_taxes_answer,"10,000 to less than 20,000",0.09
+wrong_false_all_10,q_0_taxes_answer,"100,000 to less than 150,000",0.04
+wrong_false_all_10,q_0_taxes_answer,"150,000 or more",0.04
+wrong_false_all_10,q_0_taxes_answer,"20,000 to less than 30,000",0.03
+wrong_false_all_10,q_0_taxes_answer,"30,000 to less than 40,000",0.13
+wrong_false_all_10,q_0_taxes_answer,"40,000 to less than 50,000",0.13
+wrong_false_all_10,q_0_taxes_answer,"50,000 to less than 75,000",0.27
+wrong_false_all_10,q_0_taxes_answer,"75,000 to less than 100,000",0.22
+wrong_false_all_10,q_0_taxes_answer,"Less than 10,000",0.04
+wrong_false_politifact_5,q_0_taxes_answer,"10,000 to less than 20,000",0.12
+wrong_false_politifact_5,q_0_taxes_answer,"100,000 to less than 150,000",0.02
+wrong_false_politifact_5,q_0_taxes_answer,"150,000 or more",0.06
+wrong_false_politifact_5,q_0_taxes_answer,"20,000 to less than 30,000",0.04
+wrong_false_politifact_5,q_0_taxes_answer,"30,000 to less than 40,000",0.14
+wrong_false_politifact_5,q_0_taxes_answer,"40,000 to less than 50,000",0.16
+wrong_false_politifact_5,q_0_taxes_answer,"50,000 to less than 75,000",0.26
+wrong_false_politifact_5,q_0_taxes_answer,"75,000 to less than 100,000",0.16
+wrong_false_politifact_5,q_0_taxes_answer,"Less than 10,000",0.04
+wrong_true_abc_5,q_0_taxes_answer,"10,000 to less than 20,000",0.1
+wrong_true_abc_5,q_0_taxes_answer,"100,000 to less than 150,000",0.08
+wrong_true_abc_5,q_0_taxes_answer,"150,000 or more",0.1
+wrong_true_abc_5,q_0_taxes_answer,"20,000 to less than 30,000",0.08
+wrong_true_abc_5,q_0_taxes_answer,"30,000 to less than 40,000",0.18
+wrong_true_abc_5,q_0_taxes_answer,"40,000 to less than 50,000",0.12
+wrong_true_abc_5,q_0_taxes_answer,"50,000 to less than 75,000",0.14
+wrong_true_abc_5,q_0_taxes_answer,"75,000 to less than 100,000",0.16
+wrong_true_abc_5,q_0_taxes_answer,"Less than 10,000",0.04
+wrong_true_all_10,q_0_taxes_answer,"10,000 to less than 20,000",0.1
+wrong_true_all_10,q_0_taxes_answer,"100,000 to less than 150,000",0.06
+wrong_true_all_10,q_0_taxes_answer,"150,000 or more",0.06
+wrong_true_all_10,q_0_taxes_answer,"20,000 to less than 30,000",0.05
+wrong_true_all_10,q_0_taxes_answer,"30,000 to less than 40,000",0.16
+wrong_true_all_10,q_0_taxes_answer,"40,000 to less than 50,000",0.15
+wrong_true_all_10,q_0_taxes_answer,"50,000 to less than 75,000",0.19
+wrong_true_all_10,q_0_taxes_answer,"75,000 to less than 100,000",0.19
+wrong_true_all_10,q_0_taxes_answer,"Less than 10,000",0.04
+wrong_true_politifact_5,q_0_taxes_answer,"10,000 to less than 20,000",0.1
+wrong_true_politifact_5,q_0_taxes_answer,"100,000 to less than 150,000",0.06
+wrong_true_politifact_5,q_0_taxes_answer,"150,000 or more",0.08
+wrong_true_politifact_5,q_0_taxes_answer,"20,000 to less than 30,000",0.06
+wrong_true_politifact_5,q_0_taxes_answer,"30,000 to less than 40,000",0.1
+wrong_true_politifact_5,q_0_taxes_answer,"40,000 to less than 50,000",0.2
+wrong_true_politifact_5,q_0_taxes_answer,"50,000 to less than 75,000",0.1
+wrong_true_politifact_5,q_0_taxes_answer,"75,000 to less than 100,000",0.24
+wrong_true_politifact_5,q_0_taxes_answer,"Less than 10,000",0.06
+correct_false_abc_5,q_0_political_views_answer,Conservative,0.18
+correct_false_abc_5,q_0_political_views_answer,Liberal,0.38
+correct_false_abc_5,q_0_political_views_answer,Moderate,0.22
+correct_false_abc_5,q_0_political_views_answer,Very conservative,0.1
+correct_false_abc_5,q_0_political_views_answer,Very liberal,0.14
+correct_false_all_10,q_0_political_views_answer,Conservative,0.17
+correct_false_all_10,q_0_political_views_answer,Liberal,0.34
+correct_false_all_10,q_0_political_views_answer,Moderate,0.19
+correct_false_all_10,q_0_political_views_answer,Very conservative,0.1
+correct_false_all_10,q_0_political_views_answer,Very liberal,0.21
+correct_false_politifact_5,q_0_political_views_answer,Conservative,0.16
+correct_false_politifact_5,q_0_political_views_answer,Liberal,0.3
+correct_false_politifact_5,q_0_political_views_answer,Moderate,0.16
+correct_false_politifact_5,q_0_political_views_answer,Very conservative,0.1
+correct_false_politifact_5,q_0_political_views_answer,Very liberal,0.28
+correct_true_abc_5,q_0_political_views_answer,Conservative,0.2
+correct_true_abc_5,q_0_political_views_answer,Liberal,0.26
+correct_true_abc_5,q_0_political_views_answer,Moderate,0.2
+correct_true_abc_5,q_0_political_views_answer,Very conservative,0.18
+correct_true_abc_5,q_0_political_views_answer,Very liberal,0.16
+correct_true_all_10,q_0_political_views_answer,Conservative,0.16
+correct_true_all_10,q_0_political_views_answer,Liberal,0.25
+correct_true_all_10,q_0_political_views_answer,Moderate,0.27
+correct_true_all_10,q_0_political_views_answer,Very conservative,0.16
+correct_true_all_10,q_0_political_views_answer,Very liberal,0.16
+correct_true_politifact_5,q_0_political_views_answer,Conservative,0.12
+correct_true_politifact_5,q_0_political_views_answer,Liberal,0.24
+correct_true_politifact_5,q_0_political_views_answer,Moderate,0.34
+correct_true_politifact_5,q_0_political_views_answer,Very conservative,0.14
+correct_true_politifact_5,q_0_political_views_answer,Very liberal,0.16
+wrong_false_abc_5,q_0_political_views_answer,Conservative,0.12
+wrong_false_abc_5,q_0_political_views_answer,Liberal,0.22
+wrong_false_abc_5,q_0_political_views_answer,Moderate,0.28
+wrong_false_abc_5,q_0_political_views_answer,Very conservative,0.16
+wrong_false_abc_5,q_0_political_views_answer,Very liberal,0.22
+wrong_false_all_10,q_0_political_views_answer,Conservative,0.12
+wrong_false_all_10,q_0_political_views_answer,Liberal,0.31
+wrong_false_all_10,q_0_political_views_answer,Moderate,0.27
+wrong_false_all_10,q_0_political_views_answer,Very conservative,0.16
+wrong_false_all_10,q_0_political_views_answer,Very liberal,0.13
+wrong_false_politifact_5,q_0_political_views_answer,Conservative,0.1
+wrong_false_politifact_5,q_0_political_views_answer,Liberal,0.38
+wrong_false_politifact_5,q_0_political_views_answer,Moderate,0.32
+wrong_false_politifact_5,q_0_political_views_answer,Very conservative,0.14
+wrong_false_politifact_5,q_0_political_views_answer,Very liberal,0.06
+wrong_true_abc_5,q_0_political_views_answer,Conservative,0.2
+wrong_true_abc_5,q_0_political_views_answer,Liberal,0.38
+wrong_true_abc_5,q_0_political_views_answer,Moderate,0.22
+wrong_true_abc_5,q_0_political_views_answer,Very conservative,0.04
+wrong_true_abc_5,q_0_political_views_answer,Very liberal,0.16
+wrong_true_all_10,q_0_political_views_answer,Conservative,0.19
+wrong_true_all_10,q_0_political_views_answer,Liberal,0.37
+wrong_true_all_10,q_0_political_views_answer,Moderate,0.2
+wrong_true_all_10,q_0_political_views_answer,Very conservative,0.07
+wrong_true_all_10,q_0_political_views_answer,Very liberal,0.17
+wrong_true_politifact_5,q_0_political_views_answer,Conservative,0.28
+wrong_true_politifact_5,q_0_political_views_answer,Liberal,0.32
+wrong_true_politifact_5,q_0_political_views_answer,Moderate,0.22
+wrong_true_politifact_5,q_0_political_views_answer,Very conservative,0.08
+wrong_true_politifact_5,q_0_political_views_answer,Very liberal,0.1
+correct_false_abc_5,q_0_consideration_answer,Democrat,0.48
+correct_false_abc_5,q_0_consideration_answer,Independent,0.28
+correct_false_abc_5,q_0_consideration_answer,Republican,0.24
+correct_false_abc_5,q_0_consideration_answer,Something else,0.02
+correct_false_all_10,q_0_consideration_answer,Democrat,0.45
+correct_false_all_10,q_0_consideration_answer,Independent,0.3
+correct_false_all_10,q_0_consideration_answer,Republican,0.24
+correct_false_all_10,q_0_consideration_answer,Something else,0.02
+correct_false_politifact_5,q_0_consideration_answer,Democrat,0.42
+correct_false_politifact_5,q_0_consideration_answer,Independent,0.32
+correct_false_politifact_5,q_0_consideration_answer,Republican,0.24
+correct_false_politifact_5,q_0_consideration_answer,Something else,0.02
+correct_true_abc_5,q_0_consideration_answer,Democrat,0.34
+correct_true_abc_5,q_0_consideration_answer,Independent,0.22
+correct_true_abc_5,q_0_consideration_answer,Republican,0.44
+correct_true_all_10,q_0_consideration_answer,Democrat,0.43
+correct_true_all_10,q_0_consideration_answer,Independent,0.22
+correct_true_all_10,q_0_consideration_answer,Republican,0.34
+correct_true_all_10,q_0_consideration_answer,Something else,0.01
+correct_true_politifact_5,q_0_consideration_answer,Democrat,0.52
+correct_true_politifact_5,q_0_consideration_answer,Independent,0.22
+correct_true_politifact_5,q_0_consideration_answer,Republican,0.24
+correct_true_politifact_5,q_0_consideration_answer,Something else,0.02
+wrong_false_abc_5,q_0_consideration_answer,Democrat,0.46
+wrong_false_abc_5,q_0_consideration_answer,Independent,0.22
+wrong_false_abc_5,q_0_consideration_answer,Republican,0.3
+wrong_false_abc_5,q_0_consideration_answer,Something else,0.02
+wrong_false_all_10,q_0_consideration_answer,Democrat,0.48
+wrong_false_all_10,q_0_consideration_answer,Independent,0.21
+wrong_false_all_10,q_0_consideration_answer,Republican,0.27
+wrong_false_all_10,q_0_consideration_answer,Something else,0.03
+wrong_false_politifact_5,q_0_consideration_answer,Democrat,0.54
+wrong_false_politifact_5,q_0_consideration_answer,Independent,0.2
+wrong_false_politifact_5,q_0_consideration_answer,Republican,0.24
+wrong_false_politifact_5,q_0_consideration_answer,Something else,0.02
+wrong_true_abc_5,q_0_consideration_answer,Democrat,0.48
+wrong_true_abc_5,q_0_consideration_answer,Independent,0.24
+wrong_true_abc_5,q_0_consideration_answer,Republican,0.26
+wrong_true_abc_5,q_0_consideration_answer,Something else,0.02
+wrong_true_all_10,q_0_consideration_answer,Democrat,0.48
+wrong_true_all_10,q_0_consideration_answer,Independent,0.23
+wrong_true_all_10,q_0_consideration_answer,Republican,0.27
+wrong_true_all_10,q_0_consideration_answer,Something else,0.02
+wrong_true_politifact_5,q_0_consideration_answer,Democrat,0.44
+wrong_true_politifact_5,q_0_consideration_answer,Independent,0.22
+wrong_true_politifact_5,q_0_consideration_answer,Republican,0.32
+wrong_true_politifact_5,q_0_consideration_answer,Something else,0.02
+correct_false_abc_5,q_0_southern_border_answer,Agree,0.34
+correct_false_abc_5,q_0_southern_border_answer,Disagree,0.58
+correct_false_abc_5,q_0_southern_border_answer,No opinion either way,0.1
+correct_false_all_10,q_0_southern_border_answer,Agree,0.34
+correct_false_all_10,q_0_southern_border_answer,Disagree,0.6
+correct_false_all_10,q_0_southern_border_answer,No opinion either way,0.07
+correct_false_politifact_5,q_0_southern_border_answer,Agree,0.34
+correct_false_politifact_5,q_0_southern_border_answer,Disagree,0.62
+correct_false_politifact_5,q_0_southern_border_answer,No opinion either way,0.04
+correct_true_abc_5,q_0_southern_border_answer,Agree,0.46
+correct_true_abc_5,q_0_southern_border_answer,Disagree,0.48
+correct_true_abc_5,q_0_southern_border_answer,No opinion either way,0.06
+correct_true_all_10,q_0_southern_border_answer,Agree,0.5
+correct_true_all_10,q_0_southern_border_answer,Disagree,0.44
+correct_true_all_10,q_0_southern_border_answer,No opinion either way,0.06
+correct_true_politifact_5,q_0_southern_border_answer,Agree,0.54
+correct_true_politifact_5,q_0_southern_border_answer,Disagree,0.4
+correct_true_politifact_5,q_0_southern_border_answer,No opinion either way,0.06
+wrong_false_abc_5,q_0_southern_border_answer,Agree,0.54
+wrong_false_abc_5,q_0_southern_border_answer,Disagree,0.44
+wrong_false_abc_5,q_0_southern_border_answer,No opinion either way,0.02
+wrong_false_all_10,q_0_southern_border_answer,Agree,0.46
+wrong_false_all_10,q_0_southern_border_answer,Disagree,0.47
+wrong_false_all_10,q_0_southern_border_answer,No opinion either way,0.06
+wrong_false_politifact_5,q_0_southern_border_answer,Agree,0.44
+wrong_false_politifact_5,q_0_southern_border_answer,Disagree,0.5
+wrong_false_politifact_5,q_0_southern_border_answer,No opinion either way,0.06
+wrong_true_abc_5,q_0_southern_border_answer,Agree,0.38
+wrong_true_abc_5,q_0_southern_border_answer,Disagree,0.54
+wrong_true_abc_5,q_0_southern_border_answer,No opinion either way,0.08
+wrong_true_all_10,q_0_southern_border_answer,Agree,0.37
+wrong_true_all_10,q_0_southern_border_answer,Disagree,0.54
+wrong_true_all_10,q_0_southern_border_answer,No opinion either way,0.09
+wrong_true_politifact_5,q_0_southern_border_answer,Agree,0.44
+wrong_true_politifact_5,q_0_southern_border_answer,Disagree,0.46
+wrong_true_politifact_5,q_0_southern_border_answer,No opinion either way,0.1
+correct_false_abc_5,q_0_environment_answer,Agree,0.8
+correct_false_abc_5,q_0_environment_answer,Disagree,0.12
+correct_false_abc_5,q_0_environment_answer,No opinion either way,0.1
+correct_false_all_10,q_0_environment_answer,Agree,0.79
+correct_false_all_10,q_0_environment_answer,Disagree,0.14
+correct_false_all_10,q_0_environment_answer,No opinion either way,0.08
+correct_false_politifact_5,q_0_environment_answer,Agree,0.78
+correct_false_politifact_5,q_0_environment_answer,Disagree,0.16
+correct_false_politifact_5,q_0_environment_answer,No opinion either way,0.06
+correct_true_abc_5,q_0_environment_answer,Agree,0.82
+correct_true_abc_5,q_0_environment_answer,Disagree,0.14
+correct_true_abc_5,q_0_environment_answer,No opinion either way,0.04
+correct_true_all_10,q_0_environment_answer,Agree,0.83
+correct_true_all_10,q_0_environment_answer,Disagree,0.1
+correct_true_all_10,q_0_environment_answer,No opinion either way,0.07
+correct_true_politifact_5,q_0_environment_answer,Agree,0.84
+correct_true_politifact_5,q_0_environment_answer,Disagree,0.06
+correct_true_politifact_5,q_0_environment_answer,No opinion either way,0.1
+wrong_false_abc_5,q_0_environment_answer,Agree,0.88
+wrong_false_abc_5,q_0_environment_answer,Disagree,0.06
+wrong_false_abc_5,q_0_environment_answer,No opinion either way,0.06
+wrong_false_all_10,q_0_environment_answer,Agree,0.89
+wrong_false_all_10,q_0_environment_answer,Disagree,0.04
+wrong_false_all_10,q_0_environment_answer,No opinion either way,0.06
+wrong_false_politifact_5,q_0_environment_answer,Agree,0.9
+wrong_false_politifact_5,q_0_environment_answer,Disagree,0.02
+wrong_false_politifact_5,q_0_environment_answer,No opinion either way,0.08
+wrong_true_abc_5,q_0_environment_answer,Agree,0.8
+wrong_true_abc_5,q_0_environment_answer,Disagree,0.12
+wrong_true_abc_5,q_0_environment_answer,No opinion either way,0.08
+wrong_true_all_10,q_0_environment_answer,Agree,0.83
+wrong_true_all_10,q_0_environment_answer,Disagree,0.11
+wrong_true_all_10,q_0_environment_answer,No opinion either way,0.06
+wrong_true_politifact_5,q_0_environment_answer,Agree,0.84
+wrong_true_politifact_5,q_0_environment_answer,Disagree,0.12
+wrong_true_politifact_5,q_0_environment_answer,No opinion either way,0.04
+correct_false_abc_5,q_1_farmers_value,correct value,0.52
+correct_false_abc_5,q_1_farmers_value,wrong value,0.5
+correct_false_all_10,q_1_farmers_value,correct value,0.52
+correct_false_all_10,q_1_farmers_value,wrong value,0.49
+correct_false_politifact_5,q_1_farmers_value,correct value,0.52
+correct_false_politifact_5,q_1_farmers_value,wrong value,0.48
+correct_true_abc_5,q_1_farmers_value,correct value,0.52
+correct_true_abc_5,q_1_farmers_value,wrong value,0.48
+correct_true_all_10,q_1_farmers_value,correct value,0.52
+correct_true_all_10,q_1_farmers_value,wrong value,0.48
+correct_true_politifact_5,q_1_farmers_value,correct value,0.52
+correct_true_politifact_5,q_1_farmers_value,wrong value,0.48
+wrong_false_abc_5,q_1_farmers_value,correct value,0.48
+wrong_false_abc_5,q_1_farmers_value,wrong value,0.52
+wrong_false_all_10,q_1_farmers_value,correct value,0.45
+wrong_false_all_10,q_1_farmers_value,wrong value,0.54
+wrong_false_politifact_5,q_1_farmers_value,correct value,0.46
+wrong_false_politifact_5,q_1_farmers_value,wrong value,0.54
+wrong_true_abc_5,q_1_farmers_value,correct value,0.48
+wrong_true_abc_5,q_1_farmers_value,wrong value,0.52
+wrong_true_all_10,q_1_farmers_value,correct value,0.48
+wrong_true_all_10,q_1_farmers_value,wrong value,0.52
+wrong_true_politifact_5,q_1_farmers_value,correct value,0.44
+wrong_true_politifact_5,q_1_farmers_value,wrong value,0.56
+correct_false_abc_5,q_2_marks_value,correct value,0.32
+correct_false_abc_5,q_2_marks_value,wrong value,0.7
+correct_false_all_10,q_2_marks_value,correct value,0.35
+correct_false_all_10,q_2_marks_value,wrong value,0.66
+correct_false_politifact_5,q_2_marks_value,correct value,0.38
+correct_false_politifact_5,q_2_marks_value,wrong value,0.62
+correct_true_abc_5,q_2_marks_value,correct value,0.3
+correct_true_abc_5,q_2_marks_value,wrong value,0.7
+correct_true_all_10,q_2_marks_value,correct value,0.28
+correct_true_all_10,q_2_marks_value,wrong value,0.72
+correct_true_politifact_5,q_2_marks_value,correct value,0.26
+correct_true_politifact_5,q_2_marks_value,wrong value,0.74
+wrong_false_abc_5,q_2_marks_value,correct value,0.36
+wrong_false_abc_5,q_2_marks_value,wrong value,0.64
+wrong_false_all_10,q_2_marks_value,correct value,0.31
+wrong_false_all_10,q_2_marks_value,wrong value,0.68
+wrong_false_politifact_5,q_2_marks_value,correct value,0.28
+wrong_false_politifact_5,q_2_marks_value,wrong value,0.72
+wrong_true_abc_5,q_2_marks_value,correct value,0.34
+wrong_true_abc_5,q_2_marks_value,wrong value,0.66
+wrong_true_all_10,q_2_marks_value,correct value,0.35
+wrong_true_all_10,q_2_marks_value,wrong value,0.65
+wrong_true_politifact_5,q_2_marks_value,correct value,0.22
+wrong_true_politifact_5,q_2_marks_value,wrong value,0.78
+correct_false_abc_5,q_3_athletics_value,correct value,0.48
+correct_false_abc_5,q_3_athletics_value,wrong value,0.54
+correct_false_all_10,q_3_athletics_value,correct value,0.49
+correct_false_all_10,q_3_athletics_value,wrong value,0.52
+correct_false_politifact_5,q_3_athletics_value,correct value,0.5
+correct_false_politifact_5,q_3_athletics_value,wrong value,0.5
+correct_true_abc_5,q_3_athletics_value,correct value,0.5
+correct_true_abc_5,q_3_athletics_value,wrong value,0.5
+correct_true_all_10,q_3_athletics_value,correct value,0.41
+correct_true_all_10,q_3_athletics_value,wrong value,0.59
+correct_true_politifact_5,q_3_athletics_value,correct value,0.32
+correct_true_politifact_5,q_3_athletics_value,wrong value,0.68
+wrong_false_abc_5,q_3_athletics_value,correct value,0.4
+wrong_false_abc_5,q_3_athletics_value,wrong value,0.6
+wrong_false_all_10,q_3_athletics_value,correct value,0.37
+wrong_false_all_10,q_3_athletics_value,wrong value,0.62
+wrong_false_politifact_5,q_3_athletics_value,correct value,0.34
+wrong_false_politifact_5,q_3_athletics_value,wrong value,0.66
+wrong_true_abc_5,q_3_athletics_value,correct value,0.36
+wrong_true_abc_5,q_3_athletics_value,wrong value,0.64
+wrong_true_all_10,q_3_athletics_value,correct value,0.39
+wrong_true_all_10,q_3_athletics_value,wrong value,0.61
+wrong_true_politifact_5,q_3_athletics_value,correct value,0.26
+wrong_true_politifact_5,q_3_athletics_value,wrong value,0.74
+correct_false_abc_5,doc_index,0.0,0.1
+correct_false_abc_5,doc_index,1.0,0.06
+correct_false_abc_5,doc_index,2.0,0.12
+correct_false_abc_5,doc_index,8.0,0.24
+correct_false_abc_5,doc_index,9.0,0.14
+correct_false_abc_5,doc_index,10.0,0.36
+correct_false_all_10,doc_index,0.0,0.06
+correct_false_all_10,doc_index,1.0,0.07
+correct_false_all_10,doc_index,2.0,0.13
+correct_false_all_10,doc_index,3.0,0.06
+correct_false_all_10,doc_index,4.0,0.09
+correct_false_all_10,doc_index,5.0,0.08
+correct_false_all_10,doc_index,6.0,0.06
+correct_false_all_10,doc_index,7.0,0.05
+correct_false_all_10,doc_index,8.0,0.12
+correct_false_all_10,doc_index,9.0,0.08
+correct_false_all_10,doc_index,10.0,0.21
+correct_false_politifact_5,doc_index,0.0,0.02
+correct_false_politifact_5,doc_index,1.0,0.08
+correct_false_politifact_5,doc_index,2.0,0.14
+correct_false_politifact_5,doc_index,3.0,0.12
+correct_false_politifact_5,doc_index,4.0,0.18
+correct_false_politifact_5,doc_index,5.0,0.16
+correct_false_politifact_5,doc_index,6.0,0.12
+correct_false_politifact_5,doc_index,7.0,0.1
+correct_false_politifact_5,doc_index,9.0,0.02
+correct_false_politifact_5,doc_index,10.0,0.06
+correct_true_abc_5,doc_index,0.0,0.04
+correct_true_abc_5,doc_index,1.0,0.04
+correct_true_abc_5,doc_index,2.0,0.16
+correct_true_abc_5,doc_index,8.0,0.3
+correct_true_abc_5,doc_index,9.0,0.28
+correct_true_abc_5,doc_index,10.0,0.18
+correct_true_all_10,doc_index,0.0,0.06
+correct_true_all_10,doc_index,1.0,0.08
+correct_true_all_10,doc_index,2.0,0.11
+correct_true_all_10,doc_index,3.0,0.08
+correct_true_all_10,doc_index,4.0,0.04
+correct_true_all_10,doc_index,5.0,0.05
+correct_true_all_10,doc_index,6.0,0.04
+correct_true_all_10,doc_index,7.0,0.08
+correct_true_all_10,doc_index,8.0,0.18
+correct_true_all_10,doc_index,9.0,0.16
+correct_true_all_10,doc_index,10.0,0.12
+correct_true_politifact_5,doc_index,0.0,0.08
+correct_true_politifact_5,doc_index,1.0,0.12
+correct_true_politifact_5,doc_index,2.0,0.06
+correct_true_politifact_5,doc_index,3.0,0.16
+correct_true_politifact_5,doc_index,4.0,0.08
+correct_true_politifact_5,doc_index,5.0,0.1
+correct_true_politifact_5,doc_index,6.0,0.08
+correct_true_politifact_5,doc_index,7.0,0.16
+correct_true_politifact_5,doc_index,8.0,0.06
+correct_true_politifact_5,doc_index,9.0,0.04
+correct_true_politifact_5,doc_index,10.0,0.06
+wrong_false_abc_5,doc_index,0.0,0.06
+wrong_false_abc_5,doc_index,1.0,0.12
+wrong_false_abc_5,doc_index,2.0,0.06
+wrong_false_abc_5,doc_index,8.0,0.14
+wrong_false_abc_5,doc_index,9.0,0.32
+wrong_false_abc_5,doc_index,10.0,0.3
+wrong_false_all_10,doc_index,0.0,0.08
+wrong_false_all_10,doc_index,1.0,0.1
+wrong_false_all_10,doc_index,2.0,0.08
+wrong_false_all_10,doc_index,3.0,0.03
+wrong_false_all_10,doc_index,4.0,0.05
+wrong_false_all_10,doc_index,5.0,0.02
+wrong_false_all_10,doc_index,6.0,0.04
+wrong_false_all_10,doc_index,7.0,0.08
+wrong_false_all_10,doc_index,8.0,0.1
+wrong_false_all_10,doc_index,9.0,0.2
+wrong_false_all_10,doc_index,10.0,0.21
+wrong_false_politifact_5,doc_index,0.0,0.08
+wrong_false_politifact_5,doc_index,1.0,0.06
+wrong_false_politifact_5,doc_index,2.0,0.14
+wrong_false_politifact_5,doc_index,3.0,0.06
+wrong_false_politifact_5,doc_index,4.0,0.14
+wrong_false_politifact_5,doc_index,5.0,0.06
+wrong_false_politifact_5,doc_index,6.0,0.08
+wrong_false_politifact_5,doc_index,7.0,0.2
+wrong_false_politifact_5,doc_index,8.0,0.04
+wrong_false_politifact_5,doc_index,9.0,0.08
+wrong_false_politifact_5,doc_index,10.0,0.06
+wrong_true_abc_5,doc_index,0.0,0.06
+wrong_true_abc_5,doc_index,1.0,0.14
+wrong_true_abc_5,doc_index,2.0,0.08
+wrong_true_abc_5,doc_index,8.0,0.3
+wrong_true_abc_5,doc_index,9.0,0.2
+wrong_true_abc_5,doc_index,10.0,0.22
+wrong_true_all_10,doc_index,0.0,0.1
+wrong_true_all_10,doc_index,1.0,0.08
+wrong_true_all_10,doc_index,2.0,0.03
+wrong_true_all_10,doc_index,3.0,0.08
+wrong_true_all_10,doc_index,4.0,0.06
+wrong_true_all_10,doc_index,5.0,0.14
+wrong_true_all_10,doc_index,6.0,0.16
+wrong_true_all_10,doc_index,7.0,0.06
+wrong_true_all_10,doc_index,8.0,0.08
+wrong_true_all_10,doc_index,9.0,0.06
+wrong_true_all_10,doc_index,10.0,0.15
+wrong_true_politifact_5,doc_index,0.0,0.1
+wrong_true_politifact_5,doc_index,1.0,0.08
+wrong_true_politifact_5,doc_index,2.0,0.02
+wrong_true_politifact_5,doc_index,3.0,0.06
+wrong_true_politifact_5,doc_index,4.0,0.06
+wrong_true_politifact_5,doc_index,5.0,0.2
+wrong_true_politifact_5,doc_index,6.0,0.24
+wrong_true_politifact_5,doc_index,7.0,0.06
+wrong_true_politifact_5,doc_index,8.0,0.06
+wrong_true_politifact_5,doc_index,9.0,0.04
+wrong_true_politifact_5,doc_index,10.0,0.08
+correct_false_abc_5,doc_name,Labor,0.6
+correct_false_abc_5,doc_name,Liberal,0.42
+correct_false_all_10,doc_name,DEM,0.3
+correct_false_all_10,doc_name,Labor,0.3
+correct_false_all_10,doc_name,Liberal,0.21
+correct_false_all_10,doc_name,REP,0.2
+correct_false_politifact_5,doc_name,DEM,0.6
+correct_false_politifact_5,doc_name,REP,0.4
+correct_true_abc_5,doc_name,Labor,0.4
+correct_true_abc_5,doc_name,Liberal,0.6
+correct_true_all_10,doc_name,DEM,0.5
+correct_true_all_10,doc_name,Labor,0.2
+correct_true_all_10,doc_name,Liberal,0.3
+correct_true_politifact_5,doc_name,DEM,1.0
+wrong_false_abc_5,doc_name,Labor,0.6
+wrong_false_abc_5,doc_name,Liberal,0.4
+wrong_false_all_10,doc_name,DEM,0.3
+wrong_false_all_10,doc_name,Labor,0.3
+wrong_false_all_10,doc_name,Liberal,0.29
+wrong_false_all_10,doc_name,REP,0.1
+wrong_false_politifact_5,doc_name,DEM,0.8
+wrong_false_politifact_5,doc_name,REP,0.2
+wrong_true_abc_5,doc_name,Labor,0.4
+wrong_true_abc_5,doc_name,Liberal,0.6
+wrong_true_all_10,doc_name,DEM,0.2
+wrong_true_all_10,doc_name,Labor,0.1
+wrong_true_all_10,doc_name,Liberal,0.1
+wrong_true_all_10,doc_name,REP,0.6
+wrong_true_politifact_5,doc_name,DEM,0.4
+wrong_true_politifact_5,doc_name,REP,0.6
+correct_false_abc_5,doc_claimant,Anthony Albanese,0.2
+correct_false_abc_5,doc_claimant,Joe Hockey,0.22
+correct_false_abc_5,doc_claimant,Kevin Rudd,0.2
+correct_false_abc_5,doc_claimant,Michelle Rowland,0.2
+correct_false_abc_5,doc_claimant,Tony Abbott,0.2
+correct_false_all_10,doc_claimant,Anthony Albanese,0.1
+correct_false_all_10,doc_claimant,Eric Cantor,0.1
+correct_false_all_10,doc_claimant,Graeme Zielinski,0.1
+correct_false_all_10,doc_claimant,Joe Hockey,0.11
+correct_false_all_10,doc_claimant,Kevin Rudd,0.1
+correct_false_all_10,doc_claimant,Mary Burke,0.1
+correct_false_all_10,doc_claimant,Michelle Rowland,0.1
+correct_false_all_10,doc_claimant,Mitt Romney,0.1
+correct_false_all_10,doc_claimant,Paul Hirschbiel,0.1
+correct_false_all_10,doc_claimant,Tony Abbott,0.1
+correct_false_politifact_5,doc_claimant,Eric Cantor,0.2
+correct_false_politifact_5,doc_claimant,Graeme Zielinski,0.2
+correct_false_politifact_5,doc_claimant,Mary Burke,0.2
+correct_false_politifact_5,doc_claimant,Mitt Romney,0.2
+correct_false_politifact_5,doc_claimant,Paul Hirschbiel,0.2
+correct_true_abc_5,doc_claimant,Chris Bowen,0.2
+correct_true_abc_5,doc_claimant,George Brandis,0.2
+correct_true_abc_5,doc_claimant,Kevin Rudd,0.2
+correct_true_abc_5,doc_claimant,Scott Morrison,0.2
+correct_true_abc_5,doc_claimant,Tony Abbott,0.2
+correct_true_all_10,doc_claimant,Alan Grayson,0.1
+correct_true_all_10,doc_claimant,Chris Bowen,0.1
+correct_true_all_10,doc_claimant,Dennis Kucinich,0.1
+correct_true_all_10,doc_claimant,George Brandis,0.1
+correct_true_all_10,doc_claimant,Hillary Clinton,0.1
+correct_true_all_10,doc_claimant,Kevin Rudd,0.1
+correct_true_all_10,doc_claimant,Marcia Fudge,0.1
+correct_true_all_10,doc_claimant,Scott Morrison,0.1
+correct_true_all_10,doc_claimant,Tony Abbott,0.1
+correct_true_all_10,doc_claimant,Yvette Mcgee Brown,0.1
+correct_true_politifact_5,doc_claimant,Alan Grayson,0.2
+correct_true_politifact_5,doc_claimant,Dennis Kucinich,0.2
+correct_true_politifact_5,doc_claimant,Hillary Clinton,0.2
+correct_true_politifact_5,doc_claimant,Marcia Fudge,0.2
+correct_true_politifact_5,doc_claimant,Yvette Mcgee Brown,0.2
+wrong_false_abc_5,doc_claimant,Chris Bowen,0.2
+wrong_false_abc_5,doc_claimant,Christopher Pyne,0.2
+wrong_false_abc_5,doc_claimant,Kevin Rudd,0.4
+wrong_false_abc_5,doc_claimant,Tony Abbott,0.2
+wrong_false_all_10,doc_claimant,Barry O'Farrell,0.09
+wrong_false_all_10,doc_claimant,Chris Bowen,0.1
+wrong_false_all_10,doc_claimant,Chris Christie,0.1
+wrong_false_all_10,doc_claimant,Christopher Pyne,0.1
+wrong_false_all_10,doc_claimant,David Cicilline,0.1
+wrong_false_all_10,doc_claimant,Gina Raimondo,0.1
+wrong_false_all_10,doc_claimant,Kevin Rudd,0.2
+wrong_false_all_10,doc_claimant,Lena Taylor,0.1
+wrong_false_all_10,doc_claimant,Tony Abbott,0.1
+wrong_false_politifact_5,doc_claimant,Chris Christie,0.2
+wrong_false_politifact_5,doc_claimant,David Cicilline,0.2
+wrong_false_politifact_5,doc_claimant,Gina Raimondo,0.2
+wrong_false_politifact_5,doc_claimant,Lena Taylor,0.2
+wrong_false_politifact_5,doc_claimant,Sandra Cunningham,0.2
+wrong_true_abc_5,doc_claimant,Annastacia Palaszczuk,0.2
+wrong_true_abc_5,doc_claimant,Barry O'Farrell,0.2
+wrong_true_abc_5,doc_claimant,Joe Hockey,0.2
+wrong_true_abc_5,doc_claimant,Kevin Rudd,0.2
+wrong_true_abc_5,doc_claimant,Mathias Cormann,0.2
+wrong_true_all_10,doc_claimant,Barack Obama,0.1
+wrong_true_all_10,doc_claimant,Blue Oregon,0.1
+wrong_true_all_10,doc_claimant,Dean Cannon,0.1
+wrong_true_all_10,doc_claimant,Eric Cantor,0.1
+wrong_true_all_10,doc_claimant,Jason Isaac,0.1
+wrong_true_all_10,doc_claimant,Joe Hockey,0.1
+wrong_true_all_10,doc_claimant,Josh Mandel,0.1
+wrong_true_all_10,doc_claimant,Kevin Rudd,0.1
+wrong_true_all_10,doc_claimant,Ron Desantis,0.1
+wrong_true_all_10,doc_claimant,Scott Walker,0.1
+wrong_true_politifact_5,doc_claimant,Barack Obama,0.2
+wrong_true_politifact_5,doc_claimant,Blue Oregon,0.2
+wrong_true_politifact_5,doc_claimant,Josh Mandel,0.2
+wrong_true_politifact_5,doc_claimant,Ron Desantis,0.2
+wrong_true_politifact_5,doc_claimant,Scott Walker,0.2
+correct_false_abc_5,doc_date,2013.0,0.62
+correct_false_abc_5,doc_date,2014.0,0.4
+correct_false_all_10,doc_date,2012.0,0.3
+correct_false_all_10,doc_date,2013.0,0.41
+correct_false_all_10,doc_date,2014.0,0.3
+correct_false_politifact_5,doc_date,2012.0,0.6
+correct_false_politifact_5,doc_date,2013.0,0.2
+correct_false_politifact_5,doc_date,2014.0,0.2
+correct_true_abc_5,doc_date,2013.0,0.8
+correct_true_abc_5,doc_date,2014.0,0.2
+correct_true_all_10,doc_date,2007.0,0.1
+correct_true_all_10,doc_date,2010.0,0.2
+correct_true_all_10,doc_date,2011.0,0.1
+correct_true_all_10,doc_date,2012.0,0.1
+correct_true_all_10,doc_date,2013.0,0.4
+correct_true_all_10,doc_date,2014.0,0.1
+correct_true_politifact_5,doc_date,2007.0,0.2
+correct_true_politifact_5,doc_date,2010.0,0.4
+correct_true_politifact_5,doc_date,2011.0,0.2
+correct_true_politifact_5,doc_date,2012.0,0.2
+wrong_false_abc_5,doc_date,2013.0,1.0
+wrong_false_all_10,doc_date,2011.0,0.2
+wrong_false_all_10,doc_date,2012.0,0.1
+wrong_false_all_10,doc_date,2013.0,0.59
+wrong_false_all_10,doc_date,2014.0,0.1
+wrong_false_politifact_5,doc_date,2011.0,0.6
+wrong_false_politifact_5,doc_date,2012.0,0.2
+wrong_false_politifact_5,doc_date,2014.0,0.2
+wrong_true_abc_5,doc_date,2013.0,0.6
+wrong_true_abc_5,doc_date,2014.0,0.2
+wrong_true_abc_5,doc_date,2015.0,0.2
+wrong_true_all_10,doc_date,2008.0,0.1
+wrong_true_all_10,doc_date,2010.0,0.2
+wrong_true_all_10,doc_date,2011.0,0.2
+wrong_true_all_10,doc_date,2013.0,0.3
+wrong_true_all_10,doc_date,2014.0,0.2
+wrong_true_politifact_5,doc_date,2008.0,0.2
+wrong_true_politifact_5,doc_date,2010.0,0.2
+wrong_true_politifact_5,doc_date,2011.0,0.2
+wrong_true_politifact_5,doc_date,2013.0,0.2
+wrong_true_politifact_5,doc_date,2014.0,0.2
+correct_false_abc_5,doc_source,abc,1.02
+correct_false_all_10,doc_source,abc,0.51
+correct_false_all_10,doc_source,politifact,0.5
+correct_false_politifact_5,doc_source,politifact,1.0
+correct_true_abc_5,doc_source,abc,1.0
+correct_true_all_10,doc_source,abc,0.5
+correct_true_all_10,doc_source,politifact,0.5
+correct_true_politifact_5,doc_source,politifact,1.0
+wrong_false_abc_5,doc_source,abc,1.0
+wrong_false_all_10,doc_source,abc,0.59
+wrong_false_all_10,doc_source,politifact,0.4
+wrong_false_politifact_5,doc_source,politifact,1.0
+wrong_true_abc_5,doc_source,abc,1.0
+wrong_true_all_10,doc_source,abc,0.2
+wrong_true_all_10,doc_source,politifact,0.8
+wrong_true_politifact_5,doc_source,politifact,1.0
+correct_false_abc_5,doc_overall-truthfulness_value,-2.0,0.26
+correct_false_abc_5,doc_overall-truthfulness_value,-1.0,0.26
+correct_false_abc_5,doc_overall-truthfulness_value,0.0,0.22
+correct_false_abc_5,doc_overall-truthfulness_value,1.0,0.2
+correct_false_abc_5,doc_overall-truthfulness_value,2.0,0.08
+correct_false_all_10,doc_overall-truthfulness_value,-2.0,0.27
+correct_false_all_10,doc_overall-truthfulness_value,-1.0,0.23
+correct_false_all_10,doc_overall-truthfulness_value,0.0,0.27
+correct_false_all_10,doc_overall-truthfulness_value,1.0,0.14
+correct_false_all_10,doc_overall-truthfulness_value,2.0,0.1
+correct_false_politifact_5,doc_overall-truthfulness_value,-2.0,0.28
+correct_false_politifact_5,doc_overall-truthfulness_value,-1.0,0.2
+correct_false_politifact_5,doc_overall-truthfulness_value,0.0,0.32
+correct_false_politifact_5,doc_overall-truthfulness_value,1.0,0.08
+correct_false_politifact_5,doc_overall-truthfulness_value,2.0,0.12
+correct_true_abc_5,doc_overall-truthfulness_value,-2.0,0.02
+correct_true_abc_5,doc_overall-truthfulness_value,-1.0,0.04
+correct_true_abc_5,doc_overall-truthfulness_value,0.0,0.2
+correct_true_abc_5,doc_overall-truthfulness_value,1.0,0.32
+correct_true_abc_5,doc_overall-truthfulness_value,2.0,0.42
+correct_true_all_10,doc_overall-truthfulness_value,-2.0,0.03
+correct_true_all_10,doc_overall-truthfulness_value,-1.0,0.04
+correct_true_all_10,doc_overall-truthfulness_value,0.0,0.14
+correct_true_all_10,doc_overall-truthfulness_value,1.0,0.34
+correct_true_all_10,doc_overall-truthfulness_value,2.0,0.45
+correct_true_politifact_5,doc_overall-truthfulness_value,-2.0,0.04
+correct_true_politifact_5,doc_overall-truthfulness_value,-1.0,0.04
+correct_true_politifact_5,doc_overall-truthfulness_value,0.0,0.08
+correct_true_politifact_5,doc_overall-truthfulness_value,1.0,0.36
+correct_true_politifact_5,doc_overall-truthfulness_value,2.0,0.48
+wrong_false_abc_5,doc_overall-truthfulness_value,-1.0,0.12
+wrong_false_abc_5,doc_overall-truthfulness_value,0.0,0.18
+wrong_false_abc_5,doc_overall-truthfulness_value,1.0,0.46
+wrong_false_abc_5,doc_overall-truthfulness_value,2.0,0.24
+wrong_false_all_10,doc_overall-truthfulness_value,-2.0,0.01
+wrong_false_all_10,doc_overall-truthfulness_value,-1.0,0.1
+wrong_false_all_10,doc_overall-truthfulness_value,0.0,0.21
+wrong_false_all_10,doc_overall-truthfulness_value,1.0,0.42
+wrong_false_all_10,doc_overall-truthfulness_value,2.0,0.25
+wrong_false_politifact_5,doc_overall-truthfulness_value,-2.0,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_value,-1.0,0.1
+wrong_false_politifact_5,doc_overall-truthfulness_value,0.0,0.2
+wrong_false_politifact_5,doc_overall-truthfulness_value,1.0,0.46
+wrong_false_politifact_5,doc_overall-truthfulness_value,2.0,0.22
+wrong_true_abc_5,doc_overall-truthfulness_value,-2.0,0.04
+wrong_true_abc_5,doc_overall-truthfulness_value,-1.0,0.16
+wrong_true_abc_5,doc_overall-truthfulness_value,0.0,0.36
+wrong_true_abc_5,doc_overall-truthfulness_value,1.0,0.3
+wrong_true_abc_5,doc_overall-truthfulness_value,2.0,0.14
+wrong_true_all_10,doc_overall-truthfulness_value,-2.0,0.06
+wrong_true_all_10,doc_overall-truthfulness_value,-1.0,0.21
+wrong_true_all_10,doc_overall-truthfulness_value,0.0,0.28
+wrong_true_all_10,doc_overall-truthfulness_value,1.0,0.33
+wrong_true_all_10,doc_overall-truthfulness_value,2.0,0.12
+wrong_true_politifact_5,doc_overall-truthfulness_value,-2.0,0.06
+wrong_true_politifact_5,doc_overall-truthfulness_value,-1.0,0.28
+wrong_true_politifact_5,doc_overall-truthfulness_value,0.0,0.22
+wrong_true_politifact_5,doc_overall-truthfulness_value,1.0,0.32
+wrong_true_politifact_5,doc_overall-truthfulness_value,2.0,0.12
+correct_false_abc_5,doc_confidence_value,-2.0,0.34
+correct_false_abc_5,doc_confidence_value,-1.0,0.3
+correct_false_abc_5,doc_confidence_value,0.0,0.12
+correct_false_abc_5,doc_confidence_value,1.0,0.2
+correct_false_abc_5,doc_confidence_value,2.0,0.06
+correct_false_all_10,doc_confidence_value,-2.0,0.23
+correct_false_all_10,doc_confidence_value,-1.0,0.28
+correct_false_all_10,doc_confidence_value,0.0,0.16
+correct_false_all_10,doc_confidence_value,1.0,0.26
+correct_false_all_10,doc_confidence_value,2.0,0.08
+correct_false_politifact_5,doc_confidence_value,-2.0,0.12
+correct_false_politifact_5,doc_confidence_value,-1.0,0.26
+correct_false_politifact_5,doc_confidence_value,0.0,0.2
+correct_false_politifact_5,doc_confidence_value,1.0,0.32
+correct_false_politifact_5,doc_confidence_value,2.0,0.1
+correct_true_abc_5,doc_confidence_value,-2.0,0.16
+correct_true_abc_5,doc_confidence_value,-1.0,0.08
+correct_true_abc_5,doc_confidence_value,0.0,0.2
+correct_true_abc_5,doc_confidence_value,1.0,0.4
+correct_true_abc_5,doc_confidence_value,2.0,0.16
+correct_true_all_10,doc_confidence_value,-2.0,0.12
+correct_true_all_10,doc_confidence_value,-1.0,0.08
+correct_true_all_10,doc_confidence_value,0.0,0.27
+correct_true_all_10,doc_confidence_value,1.0,0.34
+correct_true_all_10,doc_confidence_value,2.0,0.19
+correct_true_politifact_5,doc_confidence_value,-2.0,0.08
+correct_true_politifact_5,doc_confidence_value,-1.0,0.08
+correct_true_politifact_5,doc_confidence_value,0.0,0.34
+correct_true_politifact_5,doc_confidence_value,1.0,0.28
+correct_true_politifact_5,doc_confidence_value,2.0,0.22
+wrong_false_abc_5,doc_confidence_value,-2.0,0.28
+wrong_false_abc_5,doc_confidence_value,-1.0,0.16
+wrong_false_abc_5,doc_confidence_value,0.0,0.24
+wrong_false_abc_5,doc_confidence_value,1.0,0.26
+wrong_false_abc_5,doc_confidence_value,2.0,0.06
+wrong_false_all_10,doc_confidence_value,-2.0,0.23
+wrong_false_all_10,doc_confidence_value,-1.0,0.14
+wrong_false_all_10,doc_confidence_value,0.0,0.25
+wrong_false_all_10,doc_confidence_value,1.0,0.26
+wrong_false_all_10,doc_confidence_value,2.0,0.11
+wrong_false_politifact_5,doc_confidence_value,-2.0,0.18
+wrong_false_politifact_5,doc_confidence_value,-1.0,0.14
+wrong_false_politifact_5,doc_confidence_value,0.0,0.22
+wrong_false_politifact_5,doc_confidence_value,1.0,0.32
+wrong_false_politifact_5,doc_confidence_value,2.0,0.14
+wrong_true_abc_5,doc_confidence_value,-2.0,0.28
+wrong_true_abc_5,doc_confidence_value,-1.0,0.26
+wrong_true_abc_5,doc_confidence_value,0.0,0.14
+wrong_true_abc_5,doc_confidence_value,1.0,0.28
+wrong_true_abc_5,doc_confidence_value,2.0,0.04
+wrong_true_all_10,doc_confidence_value,-2.0,0.26
+wrong_true_all_10,doc_confidence_value,-1.0,0.2
+wrong_true_all_10,doc_confidence_value,0.0,0.22
+wrong_true_all_10,doc_confidence_value,1.0,0.25
+wrong_true_all_10,doc_confidence_value,2.0,0.07
+wrong_true_politifact_5,doc_confidence_value,-2.0,0.22
+wrong_true_politifact_5,doc_confidence_value,-1.0,0.18
+wrong_true_politifact_5,doc_confidence_value,0.0,0.28
+wrong_true_politifact_5,doc_confidence_value,1.0,0.26
+wrong_true_politifact_5,doc_confidence_value,2.0,0.06
+correct_false_abc_5,doc_correctness_value,-2.0,0.26
+correct_false_abc_5,doc_correctness_value,-1.0,0.24
+correct_false_abc_5,doc_correctness_value,0.0,0.24
+correct_false_abc_5,doc_correctness_value,1.0,0.22
+correct_false_abc_5,doc_correctness_value,2.0,0.06
+correct_false_all_10,doc_correctness_value,-2.0,0.26
+correct_false_all_10,doc_correctness_value,-1.0,0.22
+correct_false_all_10,doc_correctness_value,0.0,0.24
+correct_false_all_10,doc_correctness_value,1.0,0.24
+correct_false_all_10,doc_correctness_value,2.0,0.05
+correct_false_politifact_5,doc_correctness_value,-2.0,0.26
+correct_false_politifact_5,doc_correctness_value,-1.0,0.2
+correct_false_politifact_5,doc_correctness_value,0.0,0.24
+correct_false_politifact_5,doc_correctness_value,1.0,0.26
+correct_false_politifact_5,doc_correctness_value,2.0,0.04
+correct_true_abc_5,doc_correctness_value,-2.0,0.02
+correct_true_abc_5,doc_correctness_value,-1.0,0.02
+correct_true_abc_5,doc_correctness_value,0.0,0.2
+correct_true_abc_5,doc_correctness_value,1.0,0.42
+correct_true_abc_5,doc_correctness_value,2.0,0.34
+correct_true_all_10,doc_correctness_value,-2.0,0.04
+correct_true_all_10,doc_correctness_value,-1.0,0.04
+correct_true_all_10,doc_correctness_value,0.0,0.17
+correct_true_all_10,doc_correctness_value,1.0,0.41
+correct_true_all_10,doc_correctness_value,2.0,0.34
+correct_true_politifact_5,doc_correctness_value,-2.0,0.06
+correct_true_politifact_5,doc_correctness_value,-1.0,0.06
+correct_true_politifact_5,doc_correctness_value,0.0,0.14
+correct_true_politifact_5,doc_correctness_value,1.0,0.4
+correct_true_politifact_5,doc_correctness_value,2.0,0.34
+wrong_false_abc_5,doc_correctness_value,-1.0,0.22
+wrong_false_abc_5,doc_correctness_value,0.0,0.2
+wrong_false_abc_5,doc_correctness_value,1.0,0.38
+wrong_false_abc_5,doc_correctness_value,2.0,0.2
+wrong_false_all_10,doc_correctness_value,-2.0,0.02
+wrong_false_all_10,doc_correctness_value,-1.0,0.18
+wrong_false_all_10,doc_correctness_value,0.0,0.23
+wrong_false_all_10,doc_correctness_value,1.0,0.38
+wrong_false_all_10,doc_correctness_value,2.0,0.18
+wrong_false_politifact_5,doc_correctness_value,-2.0,0.02
+wrong_false_politifact_5,doc_correctness_value,-1.0,0.12
+wrong_false_politifact_5,doc_correctness_value,0.0,0.28
+wrong_false_politifact_5,doc_correctness_value,1.0,0.42
+wrong_false_politifact_5,doc_correctness_value,2.0,0.16
+wrong_true_abc_5,doc_correctness_value,-2.0,0.02
+wrong_true_abc_5,doc_correctness_value,-1.0,0.14
+wrong_true_abc_5,doc_correctness_value,0.0,0.26
+wrong_true_abc_5,doc_correctness_value,1.0,0.46
+wrong_true_abc_5,doc_correctness_value,2.0,0.12
+wrong_true_all_10,doc_correctness_value,-2.0,0.08
+wrong_true_all_10,doc_correctness_value,-1.0,0.24
+wrong_true_all_10,doc_correctness_value,0.0,0.24
+wrong_true_all_10,doc_correctness_value,1.0,0.37
+wrong_true_all_10,doc_correctness_value,2.0,0.07
+wrong_true_politifact_5,doc_correctness_value,-2.0,0.08
+wrong_true_politifact_5,doc_correctness_value,-1.0,0.3
+wrong_true_politifact_5,doc_correctness_value,0.0,0.28
+wrong_true_politifact_5,doc_correctness_value,1.0,0.24
+wrong_true_politifact_5,doc_correctness_value,2.0,0.1
+correct_false_abc_5,doc_neutrality_value,-2.0,0.32
+correct_false_abc_5,doc_neutrality_value,-1.0,0.2
+correct_false_abc_5,doc_neutrality_value,0.0,0.14
+correct_false_abc_5,doc_neutrality_value,1.0,0.3
+correct_false_abc_5,doc_neutrality_value,2.0,0.06
+correct_false_all_10,doc_neutrality_value,-2.0,0.35
+correct_false_all_10,doc_neutrality_value,-1.0,0.18
+correct_false_all_10,doc_neutrality_value,0.0,0.14
+correct_false_all_10,doc_neutrality_value,1.0,0.23
+correct_false_all_10,doc_neutrality_value,2.0,0.11
+correct_false_politifact_5,doc_neutrality_value,-2.0,0.38
+correct_false_politifact_5,doc_neutrality_value,-1.0,0.16
+correct_false_politifact_5,doc_neutrality_value,0.0,0.14
+correct_false_politifact_5,doc_neutrality_value,1.0,0.16
+correct_false_politifact_5,doc_neutrality_value,2.0,0.16
+correct_true_abc_5,doc_neutrality_value,-2.0,0.08
+correct_true_abc_5,doc_neutrality_value,-1.0,0.12
+correct_true_abc_5,doc_neutrality_value,0.0,0.2
+correct_true_abc_5,doc_neutrality_value,1.0,0.46
+correct_true_abc_5,doc_neutrality_value,2.0,0.14
+correct_true_all_10,doc_neutrality_value,-2.0,0.05
+correct_true_all_10,doc_neutrality_value,-1.0,0.1
+correct_true_all_10,doc_neutrality_value,0.0,0.21
+correct_true_all_10,doc_neutrality_value,1.0,0.4
+correct_true_all_10,doc_neutrality_value,2.0,0.24
+correct_true_politifact_5,doc_neutrality_value,-2.0,0.02
+correct_true_politifact_5,doc_neutrality_value,-1.0,0.08
+correct_true_politifact_5,doc_neutrality_value,0.0,0.22
+correct_true_politifact_5,doc_neutrality_value,1.0,0.34
+correct_true_politifact_5,doc_neutrality_value,2.0,0.34
+wrong_false_abc_5,doc_neutrality_value,-2.0,0.1
+wrong_false_abc_5,doc_neutrality_value,-1.0,0.26
+wrong_false_abc_5,doc_neutrality_value,0.0,0.26
+wrong_false_abc_5,doc_neutrality_value,1.0,0.3
+wrong_false_abc_5,doc_neutrality_value,2.0,0.08
+wrong_false_all_10,doc_neutrality_value,-2.0,0.09
+wrong_false_all_10,doc_neutrality_value,-1.0,0.24
+wrong_false_all_10,doc_neutrality_value,0.0,0.24
+wrong_false_all_10,doc_neutrality_value,1.0,0.32
+wrong_false_all_10,doc_neutrality_value,2.0,0.1
+wrong_false_politifact_5,doc_neutrality_value,-2.0,0.06
+wrong_false_politifact_5,doc_neutrality_value,-1.0,0.18
+wrong_false_politifact_5,doc_neutrality_value,0.0,0.22
+wrong_false_politifact_5,doc_neutrality_value,1.0,0.4
+wrong_false_politifact_5,doc_neutrality_value,2.0,0.14
+wrong_true_abc_5,doc_neutrality_value,-2.0,0.08
+wrong_true_abc_5,doc_neutrality_value,-1.0,0.28
+wrong_true_abc_5,doc_neutrality_value,0.0,0.14
+wrong_true_abc_5,doc_neutrality_value,1.0,0.38
+wrong_true_abc_5,doc_neutrality_value,2.0,0.12
+wrong_true_all_10,doc_neutrality_value,-2.0,0.12
+wrong_true_all_10,doc_neutrality_value,-1.0,0.15
+wrong_true_all_10,doc_neutrality_value,0.0,0.22
+wrong_true_all_10,doc_neutrality_value,1.0,0.36
+wrong_true_all_10,doc_neutrality_value,2.0,0.15
+wrong_true_politifact_5,doc_neutrality_value,-2.0,0.12
+wrong_true_politifact_5,doc_neutrality_value,-1.0,0.18
+wrong_true_politifact_5,doc_neutrality_value,0.0,0.32
+wrong_true_politifact_5,doc_neutrality_value,1.0,0.3
+wrong_true_politifact_5,doc_neutrality_value,2.0,0.08
+correct_false_abc_5,doc_comprehensibility_value,-2.0,0.04
+correct_false_abc_5,doc_comprehensibility_value,-1.0,0.1
+correct_false_abc_5,doc_comprehensibility_value,0.0,0.22
+correct_false_abc_5,doc_comprehensibility_value,1.0,0.4
+correct_false_abc_5,doc_comprehensibility_value,2.0,0.26
+correct_false_all_10,doc_comprehensibility_value,-2.0,0.04
+correct_false_all_10,doc_comprehensibility_value,-1.0,0.08
+correct_false_all_10,doc_comprehensibility_value,0.0,0.15
+correct_false_all_10,doc_comprehensibility_value,1.0,0.48
+correct_false_all_10,doc_comprehensibility_value,2.0,0.26
+correct_false_politifact_5,doc_comprehensibility_value,-2.0,0.04
+correct_false_politifact_5,doc_comprehensibility_value,-1.0,0.06
+correct_false_politifact_5,doc_comprehensibility_value,0.0,0.08
+correct_false_politifact_5,doc_comprehensibility_value,1.0,0.56
+correct_false_politifact_5,doc_comprehensibility_value,2.0,0.26
+correct_true_abc_5,doc_comprehensibility_value,-2.0,0.02
+correct_true_abc_5,doc_comprehensibility_value,-1.0,0.06
+correct_true_abc_5,doc_comprehensibility_value,0.0,0.12
+correct_true_abc_5,doc_comprehensibility_value,1.0,0.36
+correct_true_abc_5,doc_comprehensibility_value,2.0,0.44
+correct_true_all_10,doc_comprehensibility_value,-2.0,0.02
+correct_true_all_10,doc_comprehensibility_value,-1.0,0.05
+correct_true_all_10,doc_comprehensibility_value,0.0,0.09
+correct_true_all_10,doc_comprehensibility_value,1.0,0.39
+correct_true_all_10,doc_comprehensibility_value,2.0,0.45
+correct_true_politifact_5,doc_comprehensibility_value,-2.0,0.02
+correct_true_politifact_5,doc_comprehensibility_value,-1.0,0.04
+correct_true_politifact_5,doc_comprehensibility_value,0.0,0.06
+correct_true_politifact_5,doc_comprehensibility_value,1.0,0.42
+correct_true_politifact_5,doc_comprehensibility_value,2.0,0.46
+wrong_false_abc_5,doc_comprehensibility_value,-1.0,0.08
+wrong_false_abc_5,doc_comprehensibility_value,0.0,0.14
+wrong_false_abc_5,doc_comprehensibility_value,1.0,0.5
+wrong_false_abc_5,doc_comprehensibility_value,2.0,0.28
+wrong_false_all_10,doc_comprehensibility_value,-2.0,0.02
+wrong_false_all_10,doc_comprehensibility_value,-1.0,0.07
+wrong_false_all_10,doc_comprehensibility_value,0.0,0.14
+wrong_false_all_10,doc_comprehensibility_value,1.0,0.45
+wrong_false_all_10,doc_comprehensibility_value,2.0,0.31
+wrong_false_politifact_5,doc_comprehensibility_value,-2.0,0.04
+wrong_false_politifact_5,doc_comprehensibility_value,-1.0,0.04
+wrong_false_politifact_5,doc_comprehensibility_value,0.0,0.14
+wrong_false_politifact_5,doc_comprehensibility_value,1.0,0.48
+wrong_false_politifact_5,doc_comprehensibility_value,2.0,0.3
+wrong_true_abc_5,doc_comprehensibility_value,-2.0,0.02
+wrong_true_abc_5,doc_comprehensibility_value,-1.0,0.18
+wrong_true_abc_5,doc_comprehensibility_value,0.0,0.14
+wrong_true_abc_5,doc_comprehensibility_value,1.0,0.42
+wrong_true_abc_5,doc_comprehensibility_value,2.0,0.24
+wrong_true_all_10,doc_comprehensibility_value,-2.0,0.04
+wrong_true_all_10,doc_comprehensibility_value,-1.0,0.05
+wrong_true_all_10,doc_comprehensibility_value,0.0,0.11
+wrong_true_all_10,doc_comprehensibility_value,1.0,0.53
+wrong_true_all_10,doc_comprehensibility_value,2.0,0.27
+wrong_true_politifact_5,doc_comprehensibility_value,-2.0,0.04
+wrong_true_politifact_5,doc_comprehensibility_value,-1.0,0.04
+wrong_true_politifact_5,doc_comprehensibility_value,0.0,0.14
+wrong_true_politifact_5,doc_comprehensibility_value,1.0,0.58
+wrong_true_politifact_5,doc_comprehensibility_value,2.0,0.2
+correct_false_abc_5,doc_precision_value,-2.0,0.06
+correct_false_abc_5,doc_precision_value,-1.0,0.2
+correct_false_abc_5,doc_precision_value,0.0,0.24
+correct_false_abc_5,doc_precision_value,1.0,0.26
+correct_false_abc_5,doc_precision_value,2.0,0.26
+correct_false_all_10,doc_precision_value,-2.0,0.06
+correct_false_all_10,doc_precision_value,-1.0,0.14
+correct_false_all_10,doc_precision_value,0.0,0.19
+correct_false_all_10,doc_precision_value,1.0,0.38
+correct_false_all_10,doc_precision_value,2.0,0.24
+correct_false_politifact_5,doc_precision_value,-2.0,0.06
+correct_false_politifact_5,doc_precision_value,-1.0,0.08
+correct_false_politifact_5,doc_precision_value,0.0,0.14
+correct_false_politifact_5,doc_precision_value,1.0,0.5
+correct_false_politifact_5,doc_precision_value,2.0,0.22
+correct_true_abc_5,doc_precision_value,-1.0,0.12
+correct_true_abc_5,doc_precision_value,0.0,0.16
+correct_true_abc_5,doc_precision_value,1.0,0.48
+correct_true_abc_5,doc_precision_value,2.0,0.24
+correct_true_all_10,doc_precision_value,-2.0,0.01
+correct_true_all_10,doc_precision_value,-1.0,0.07
+correct_true_all_10,doc_precision_value,0.0,0.18
+correct_true_all_10,doc_precision_value,1.0,0.44
+correct_true_all_10,doc_precision_value,2.0,0.3
+correct_true_politifact_5,doc_precision_value,-2.0,0.02
+correct_true_politifact_5,doc_precision_value,-1.0,0.02
+correct_true_politifact_5,doc_precision_value,0.0,0.2
+correct_true_politifact_5,doc_precision_value,1.0,0.4
+correct_true_politifact_5,doc_precision_value,2.0,0.36
+wrong_false_abc_5,doc_precision_value,-2.0,0.04
+wrong_false_abc_5,doc_precision_value,-1.0,0.06
+wrong_false_abc_5,doc_precision_value,0.0,0.22
+wrong_false_abc_5,doc_precision_value,1.0,0.4
+wrong_false_abc_5,doc_precision_value,2.0,0.28
+wrong_false_all_10,doc_precision_value,-2.0,0.05
+wrong_false_all_10,doc_precision_value,-1.0,0.08
+wrong_false_all_10,doc_precision_value,0.0,0.18
+wrong_false_all_10,doc_precision_value,1.0,0.41
+wrong_false_all_10,doc_precision_value,2.0,0.27
+wrong_false_politifact_5,doc_precision_value,-2.0,0.02
+wrong_false_politifact_5,doc_precision_value,-1.0,0.08
+wrong_false_politifact_5,doc_precision_value,0.0,0.14
+wrong_false_politifact_5,doc_precision_value,1.0,0.52
+wrong_false_politifact_5,doc_precision_value,2.0,0.24
+wrong_true_abc_5,doc_precision_value,-2.0,0.02
+wrong_true_abc_5,doc_precision_value,-1.0,0.16
+wrong_true_abc_5,doc_precision_value,0.0,0.16
+wrong_true_abc_5,doc_precision_value,1.0,0.48
+wrong_true_abc_5,doc_precision_value,2.0,0.18
+wrong_true_all_10,doc_precision_value,-2.0,0.06
+wrong_true_all_10,doc_precision_value,-1.0,0.14
+wrong_true_all_10,doc_precision_value,0.0,0.12
+wrong_true_all_10,doc_precision_value,1.0,0.52
+wrong_true_all_10,doc_precision_value,2.0,0.16
+wrong_true_politifact_5,doc_precision_value,-2.0,0.06
+wrong_true_politifact_5,doc_precision_value,-1.0,0.18
+wrong_true_politifact_5,doc_precision_value,0.0,0.12
+wrong_true_politifact_5,doc_precision_value,1.0,0.5
+wrong_true_politifact_5,doc_precision_value,2.0,0.14
+correct_false_abc_5,doc_completeness_value,-2.0,0.14
+correct_false_abc_5,doc_completeness_value,-1.0,0.26
+correct_false_abc_5,doc_completeness_value,0.0,0.24
+correct_false_abc_5,doc_completeness_value,1.0,0.24
+correct_false_abc_5,doc_completeness_value,2.0,0.14
+correct_false_all_10,doc_completeness_value,-2.0,0.14
+correct_false_all_10,doc_completeness_value,-1.0,0.26
+correct_false_all_10,doc_completeness_value,0.0,0.2
+correct_false_all_10,doc_completeness_value,1.0,0.26
+correct_false_all_10,doc_completeness_value,2.0,0.15
+correct_false_politifact_5,doc_completeness_value,-2.0,0.14
+correct_false_politifact_5,doc_completeness_value,-1.0,0.26
+correct_false_politifact_5,doc_completeness_value,0.0,0.16
+correct_false_politifact_5,doc_completeness_value,1.0,0.28
+correct_false_politifact_5,doc_completeness_value,2.0,0.16
+correct_true_abc_5,doc_completeness_value,-2.0,0.04
+correct_true_abc_5,doc_completeness_value,-1.0,0.16
+correct_true_abc_5,doc_completeness_value,0.0,0.24
+correct_true_abc_5,doc_completeness_value,1.0,0.28
+correct_true_abc_5,doc_completeness_value,2.0,0.28
+correct_true_all_10,doc_completeness_value,-2.0,0.03
+correct_true_all_10,doc_completeness_value,-1.0,0.14
+correct_true_all_10,doc_completeness_value,0.0,0.24
+correct_true_all_10,doc_completeness_value,1.0,0.33
+correct_true_all_10,doc_completeness_value,2.0,0.26
+correct_true_politifact_5,doc_completeness_value,-2.0,0.02
+correct_true_politifact_5,doc_completeness_value,-1.0,0.12
+correct_true_politifact_5,doc_completeness_value,0.0,0.24
+correct_true_politifact_5,doc_completeness_value,1.0,0.38
+correct_true_politifact_5,doc_completeness_value,2.0,0.24
+wrong_false_abc_5,doc_completeness_value,-2.0,0.02
+wrong_false_abc_5,doc_completeness_value,-1.0,0.2
+wrong_false_abc_5,doc_completeness_value,0.0,0.3
+wrong_false_abc_5,doc_completeness_value,1.0,0.3
+wrong_false_abc_5,doc_completeness_value,2.0,0.18
+wrong_false_all_10,doc_completeness_value,-2.0,0.06
+wrong_false_all_10,doc_completeness_value,-1.0,0.19
+wrong_false_all_10,doc_completeness_value,0.0,0.27
+wrong_false_all_10,doc_completeness_value,1.0,0.3
+wrong_false_all_10,doc_completeness_value,2.0,0.17
+wrong_false_politifact_5,doc_completeness_value,-2.0,0.08
+wrong_false_politifact_5,doc_completeness_value,-1.0,0.18
+wrong_false_politifact_5,doc_completeness_value,0.0,0.2
+wrong_false_politifact_5,doc_completeness_value,1.0,0.38
+wrong_false_politifact_5,doc_completeness_value,2.0,0.16
+wrong_true_abc_5,doc_completeness_value,-2.0,0.06
+wrong_true_abc_5,doc_completeness_value,-1.0,0.24
+wrong_true_abc_5,doc_completeness_value,0.0,0.22
+wrong_true_abc_5,doc_completeness_value,1.0,0.36
+wrong_true_abc_5,doc_completeness_value,2.0,0.12
+wrong_true_all_10,doc_completeness_value,-2.0,0.11
+wrong_true_all_10,doc_completeness_value,-1.0,0.18
+wrong_true_all_10,doc_completeness_value,0.0,0.25
+wrong_true_all_10,doc_completeness_value,1.0,0.32
+wrong_true_all_10,doc_completeness_value,2.0,0.14
+wrong_true_politifact_5,doc_completeness_value,-2.0,0.12
+wrong_true_politifact_5,doc_completeness_value,-1.0,0.18
+wrong_true_politifact_5,doc_completeness_value,0.0,0.34
+wrong_true_politifact_5,doc_completeness_value,1.0,0.22
+wrong_true_politifact_5,doc_completeness_value,2.0,0.14
+correct_false_abc_5,doc_speaker's-trustworthiness_value,-2.0,0.2
+correct_false_abc_5,doc_speaker's-trustworthiness_value,-1.0,0.24
+correct_false_abc_5,doc_speaker's-trustworthiness_value,0.0,0.4
+correct_false_abc_5,doc_speaker's-trustworthiness_value,1.0,0.14
+correct_false_abc_5,doc_speaker's-trustworthiness_value,2.0,0.04
+correct_false_all_10,doc_speaker's-trustworthiness_value,-2.0,0.19
+correct_false_all_10,doc_speaker's-trustworthiness_value,-1.0,0.23
+correct_false_all_10,doc_speaker's-trustworthiness_value,0.0,0.37
+correct_false_all_10,doc_speaker's-trustworthiness_value,1.0,0.18
+correct_false_all_10,doc_speaker's-trustworthiness_value,2.0,0.04
+correct_false_politifact_5,doc_speaker's-trustworthiness_value,-2.0,0.18
+correct_false_politifact_5,doc_speaker's-trustworthiness_value,-1.0,0.22
+correct_false_politifact_5,doc_speaker's-trustworthiness_value,0.0,0.34
+correct_false_politifact_5,doc_speaker's-trustworthiness_value,1.0,0.22
+correct_false_politifact_5,doc_speaker's-trustworthiness_value,2.0,0.04
+correct_true_abc_5,doc_speaker's-trustworthiness_value,-2.0,0.02
+correct_true_abc_5,doc_speaker's-trustworthiness_value,-1.0,0.06
+correct_true_abc_5,doc_speaker's-trustworthiness_value,0.0,0.26
+correct_true_abc_5,doc_speaker's-trustworthiness_value,1.0,0.48
+correct_true_abc_5,doc_speaker's-trustworthiness_value,2.0,0.18
+correct_true_all_10,doc_speaker's-trustworthiness_value,-2.0,0.02
+correct_true_all_10,doc_speaker's-trustworthiness_value,-1.0,0.07
+correct_true_all_10,doc_speaker's-trustworthiness_value,0.0,0.26
+correct_true_all_10,doc_speaker's-trustworthiness_value,1.0,0.44
+correct_true_all_10,doc_speaker's-trustworthiness_value,2.0,0.21
+correct_true_politifact_5,doc_speaker's-trustworthiness_value,-2.0,0.02
+correct_true_politifact_5,doc_speaker's-trustworthiness_value,-1.0,0.08
+correct_true_politifact_5,doc_speaker's-trustworthiness_value,0.0,0.26
+correct_true_politifact_5,doc_speaker's-trustworthiness_value,1.0,0.4
+correct_true_politifact_5,doc_speaker's-trustworthiness_value,2.0,0.24
+wrong_false_abc_5,doc_speaker's-trustworthiness_value,-2.0,0.04
+wrong_false_abc_5,doc_speaker's-trustworthiness_value,-1.0,0.06
+wrong_false_abc_5,doc_speaker's-trustworthiness_value,0.0,0.42
+wrong_false_abc_5,doc_speaker's-trustworthiness_value,1.0,0.3
+wrong_false_abc_5,doc_speaker's-trustworthiness_value,2.0,0.18
+wrong_false_all_10,doc_speaker's-trustworthiness_value,-2.0,0.06
+wrong_false_all_10,doc_speaker's-trustworthiness_value,-1.0,0.07
+wrong_false_all_10,doc_speaker's-trustworthiness_value,0.0,0.36
+wrong_false_all_10,doc_speaker's-trustworthiness_value,1.0,0.32
+wrong_false_all_10,doc_speaker's-trustworthiness_value,2.0,0.18
+wrong_false_politifact_5,doc_speaker's-trustworthiness_value,-2.0,0.02
+wrong_false_politifact_5,doc_speaker's-trustworthiness_value,-1.0,0.14
+wrong_false_politifact_5,doc_speaker's-trustworthiness_value,0.0,0.28
+wrong_false_politifact_5,doc_speaker's-trustworthiness_value,1.0,0.38
+wrong_false_politifact_5,doc_speaker's-trustworthiness_value,2.0,0.18
+wrong_true_abc_5,doc_speaker's-trustworthiness_value,-2.0,0.02
+wrong_true_abc_5,doc_speaker's-trustworthiness_value,-1.0,0.12
+wrong_true_abc_5,doc_speaker's-trustworthiness_value,0.0,0.44
+wrong_true_abc_5,doc_speaker's-trustworthiness_value,1.0,0.28
+wrong_true_abc_5,doc_speaker's-trustworthiness_value,2.0,0.14
+wrong_true_all_10,doc_speaker's-trustworthiness_value,-2.0,0.08
+wrong_true_all_10,doc_speaker's-trustworthiness_value,-1.0,0.17
+wrong_true_all_10,doc_speaker's-trustworthiness_value,0.0,0.36
+wrong_true_all_10,doc_speaker's-trustworthiness_value,1.0,0.27
+wrong_true_all_10,doc_speaker's-trustworthiness_value,2.0,0.12
+wrong_true_politifact_5,doc_speaker's-trustworthiness_value,-2.0,0.06
+wrong_true_politifact_5,doc_speaker's-trustworthiness_value,-1.0,0.26
+wrong_true_politifact_5,doc_speaker's-trustworthiness_value,0.0,0.28
+wrong_true_politifact_5,doc_speaker's-trustworthiness_value,1.0,0.28
+wrong_true_politifact_5,doc_speaker's-trustworthiness_value,2.0,0.12
+correct_false_abc_5,doc_informativeness_value,-2.0,0.18
+correct_false_abc_5,doc_informativeness_value,-1.0,0.22
+correct_false_abc_5,doc_informativeness_value,0.0,0.28
+correct_false_abc_5,doc_informativeness_value,1.0,0.28
+correct_false_abc_5,doc_informativeness_value,2.0,0.06
+correct_false_all_10,doc_informativeness_value,-2.0,0.13
+correct_false_all_10,doc_informativeness_value,-1.0,0.2
+correct_false_all_10,doc_informativeness_value,0.0,0.23
+correct_false_all_10,doc_informativeness_value,1.0,0.36
+correct_false_all_10,doc_informativeness_value,2.0,0.09
+correct_false_politifact_5,doc_informativeness_value,-2.0,0.08
+correct_false_politifact_5,doc_informativeness_value,-1.0,0.18
+correct_false_politifact_5,doc_informativeness_value,0.0,0.18
+correct_false_politifact_5,doc_informativeness_value,1.0,0.44
+correct_false_politifact_5,doc_informativeness_value,2.0,0.12
+correct_true_abc_5,doc_informativeness_value,-1.0,0.08
+correct_true_abc_5,doc_informativeness_value,0.0,0.2
+correct_true_abc_5,doc_informativeness_value,1.0,0.48
+correct_true_abc_5,doc_informativeness_value,2.0,0.24
+correct_true_all_10,doc_informativeness_value,-2.0,0.02
+correct_true_all_10,doc_informativeness_value,-1.0,0.04
+correct_true_all_10,doc_informativeness_value,0.0,0.18
+correct_true_all_10,doc_informativeness_value,1.0,0.45
+correct_true_all_10,doc_informativeness_value,2.0,0.31
+correct_true_politifact_5,doc_informativeness_value,-2.0,0.04
+correct_true_politifact_5,doc_informativeness_value,0.0,0.16
+correct_true_politifact_5,doc_informativeness_value,1.0,0.42
+correct_true_politifact_5,doc_informativeness_value,2.0,0.38
+wrong_false_abc_5,doc_informativeness_value,-2.0,0.02
+wrong_false_abc_5,doc_informativeness_value,-1.0,0.12
+wrong_false_abc_5,doc_informativeness_value,0.0,0.24
+wrong_false_abc_5,doc_informativeness_value,1.0,0.44
+wrong_false_abc_5,doc_informativeness_value,2.0,0.18
+wrong_false_all_10,doc_informativeness_value,-2.0,0.03
+wrong_false_all_10,doc_informativeness_value,-1.0,0.11
+wrong_false_all_10,doc_informativeness_value,0.0,0.23
+wrong_false_all_10,doc_informativeness_value,1.0,0.41
+wrong_false_all_10,doc_informativeness_value,2.0,0.21
+wrong_false_politifact_5,doc_informativeness_value,-2.0,0.04
+wrong_false_politifact_5,doc_informativeness_value,-1.0,0.1
+wrong_false_politifact_5,doc_informativeness_value,0.0,0.22
+wrong_false_politifact_5,doc_informativeness_value,1.0,0.42
+wrong_false_politifact_5,doc_informativeness_value,2.0,0.22
+wrong_true_abc_5,doc_informativeness_value,-2.0,0.02
+wrong_true_abc_5,doc_informativeness_value,-1.0,0.22
+wrong_true_abc_5,doc_informativeness_value,0.0,0.22
+wrong_true_abc_5,doc_informativeness_value,1.0,0.46
+wrong_true_abc_5,doc_informativeness_value,2.0,0.08
+wrong_true_all_10,doc_informativeness_value,-2.0,0.05
+wrong_true_all_10,doc_informativeness_value,-1.0,0.14
+wrong_true_all_10,doc_informativeness_value,0.0,0.26
+wrong_true_all_10,doc_informativeness_value,1.0,0.43
+wrong_true_all_10,doc_informativeness_value,2.0,0.12
+wrong_true_politifact_5,doc_informativeness_value,-2.0,0.04
+wrong_true_politifact_5,doc_informativeness_value,-1.0,0.16
+wrong_true_politifact_5,doc_informativeness_value,0.0,0.32
+wrong_true_politifact_5,doc_informativeness_value,1.0,0.38
+wrong_true_politifact_5,doc_informativeness_value,2.0,0.1
+correct_false_abc_5,doc_accesses,1.0,1.0
+correct_false_abc_5,doc_accesses,2.0,0.02
+correct_false_all_10,doc_accesses,1.0,0.99
+correct_false_all_10,doc_accesses,2.0,0.01
+correct_false_all_10,doc_accesses,3.0,0.01
+correct_false_politifact_5,doc_accesses,1.0,0.98
+correct_false_politifact_5,doc_accesses,3.0,0.02
+correct_true_abc_5,doc_accesses,1.0,0.96
+correct_true_abc_5,doc_accesses,2.0,0.04
+correct_true_all_10,doc_accesses,1.0,0.97
+correct_true_all_10,doc_accesses,2.0,0.03
+correct_true_politifact_5,doc_accesses,1.0,0.98
+correct_true_politifact_5,doc_accesses,2.0,0.02
+wrong_false_abc_5,doc_accesses,1.0,0.96
+wrong_false_abc_5,doc_accesses,2.0,0.04
+wrong_false_all_10,doc_accesses,1.0,0.97
+wrong_false_all_10,doc_accesses,2.0,0.02
+wrong_false_politifact_5,doc_accesses,1.0,1.0
+wrong_true_abc_5,doc_accesses,1.0,0.98
+wrong_true_abc_5,doc_accesses,2.0,0.02
+wrong_true_all_10,doc_accesses,1.0,0.96
+wrong_true_all_10,doc_accesses,2.0,0.04
+wrong_true_politifact_5,doc_accesses,1.0,0.96
+wrong_true_politifact_5,doc_accesses,2.0,0.04
+correct_false_abc_5,doc_overall-truthfulness_url,auspolstats.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,delimiter.com.au,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,en.wikipedia.org,0.12
+correct_false_abc_5,doc_overall-truthfulness_url,thewest.com.au,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.anao.gov.au,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.asrc.org.au,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.bbc.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.brennancenter.org,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.britannica.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.channel4.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.coursehero.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.heraldsun.com.au,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.imdb.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.itsagodthingproductions777.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.itwire.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.khou.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.news.com.au,0.04
+correct_false_abc_5,doc_overall-truthfulness_url,www.ratemyprofessors.com,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.smh.com.au,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.theaustralian.com.au,0.02
+correct_false_abc_5,doc_overall-truthfulness_url,www.theguardian.com,0.06
+correct_false_abc_5,doc_overall-truthfulness_url,www.youtube.com,0.44
+correct_false_all_10,doc_overall-truthfulness_url,archive.jsonline.com,0.03
+correct_false_all_10,doc_overall-truthfulness_url,auspolstats.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,dailycaller.com,0.04
+correct_false_all_10,doc_overall-truthfulness_url,delimiter.com.au,0.01
+correct_false_all_10,doc_overall-truthfulness_url,en.m.wikipedia.org,0.01
+correct_false_all_10,doc_overall-truthfulness_url,en.wikipedia.org,0.08
+correct_false_all_10,doc_overall-truthfulness_url,fox6now.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,issuu.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,lovebrainyquote.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,madison.com,0.05
+correct_false_all_10,doc_overall-truthfulness_url,menrec.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,pilotonline.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,rigel.com.sg,0.01
+correct_false_all_10,doc_overall-truthfulness_url,thewest.com.au,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.anao.gov.au,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.asrc.org.au,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.atr.org,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.bbc.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.brennancenter.org,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.britannica.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.channel4.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.coursehero.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.csmonitor.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.dmme.virginia.gov,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.engadget.com,0.02
+correct_false_all_10,doc_overall-truthfulness_url,www.factcheck.org,0.02
+correct_false_all_10,doc_overall-truthfulness_url,www.forbes.com,0.02
+correct_false_all_10,doc_overall-truthfulness_url,www.heraldsun.com.au,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.huffpost.com,0.02
+correct_false_all_10,doc_overall-truthfulness_url,www.imdb.com,0.02
+correct_false_all_10,doc_overall-truthfulness_url,www.itsagodthingproductions777.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.itwire.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.jsonline.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.khou.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.marilynburnsmathblog.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.news.com.au,0.02
+correct_false_all_10,doc_overall-truthfulness_url,www.newsmax.com,0.03
+correct_false_all_10,doc_overall-truthfulness_url,www.nytimes.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.pilotonline.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.ratemyprofessors.com,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.republicanviews.org,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.smh.com.au,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.tampabay.com,0.02
+correct_false_all_10,doc_overall-truthfulness_url,www.theaustralian.com.au,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.theguardian.com,0.03
+correct_false_all_10,doc_overall-truthfulness_url,www.washingtonpost.com,0.04
+correct_false_all_10,doc_overall-truthfulness_url,www.wifrw.org,0.01
+correct_false_all_10,doc_overall-truthfulness_url,www.youtube.com,0.24
+correct_false_politifact_5,doc_overall-truthfulness_url,archive.jsonline.com,0.06
+correct_false_politifact_5,doc_overall-truthfulness_url,dailycaller.com,0.08
+correct_false_politifact_5,doc_overall-truthfulness_url,en.m.wikipedia.org,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,en.wikipedia.org,0.04
+correct_false_politifact_5,doc_overall-truthfulness_url,fox6now.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,issuu.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,lovebrainyquote.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,madison.com,0.1
+correct_false_politifact_5,doc_overall-truthfulness_url,menrec.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,pilotonline.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,rigel.com.sg,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.atr.org,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.csmonitor.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.dmme.virginia.gov,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.engadget.com,0.04
+correct_false_politifact_5,doc_overall-truthfulness_url,www.factcheck.org,0.04
+correct_false_politifact_5,doc_overall-truthfulness_url,www.forbes.com,0.04
+correct_false_politifact_5,doc_overall-truthfulness_url,www.huffpost.com,0.04
+correct_false_politifact_5,doc_overall-truthfulness_url,www.imdb.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.jsonline.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.marilynburnsmathblog.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.newsmax.com,0.06
+correct_false_politifact_5,doc_overall-truthfulness_url,www.nytimes.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.pilotonline.com,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.republicanviews.org,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.tampabay.com,0.04
+correct_false_politifact_5,doc_overall-truthfulness_url,www.washingtonpost.com,0.08
+correct_false_politifact_5,doc_overall-truthfulness_url,www.wifrw.org,0.02
+correct_false_politifact_5,doc_overall-truthfulness_url,www.youtube.com,0.04
+correct_true_abc_5,doc_overall-truthfulness_url,blog.epaysystems.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,d3n8a8pro7vhmx.cloudfront.net,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,en.m.wikipedia.org,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,en.wikipedia.org,0.1
+correct_true_abc_5,doc_overall-truthfulness_url,groups.google.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,kevinrudd.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,news.yahoo.com,0.08
+correct_true_abc_5,doc_overall-truthfulness_url,theworker1891.blogspot.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.afr.com,0.06
+correct_true_abc_5,doc_overall-truthfulness_url,www.amazon.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.aph.gov.au,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.crikey.com.au,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.dailymail.co.uk,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.gov.uk,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.huffingtonpost.com.au,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.ipinst.org,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.motherjones.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.newcastleherald.com.au,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.petermartin.com.au,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.pozogoldsteinny.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.reuters.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.rossgittins.com,0.04
+correct_true_abc_5,doc_overall-truthfulness_url,www.sbs.com.au,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.smh.com.au,0.04
+correct_true_abc_5,doc_overall-truthfulness_url,www.tai.org.au,0.04
+correct_true_abc_5,doc_overall-truthfulness_url,www.theaustralian.com.au,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.theguardian.com,0.12
+correct_true_abc_5,doc_overall-truthfulness_url,www.walmart.com,0.02
+correct_true_abc_5,doc_overall-truthfulness_url,www.youtube.com,0.1
+correct_true_all_10,doc_overall-truthfulness_url,blog.epaysystems.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,boe.cuyahogacounty.us,0.04
+correct_true_all_10,doc_overall-truthfulness_url,d3n8a8pro7vhmx.cloudfront.net,0.01
+correct_true_all_10,doc_overall-truthfulness_url,en.m.wikipedia.org,0.01
+correct_true_all_10,doc_overall-truthfulness_url,en.wikipedia.org,0.13
+correct_true_all_10,doc_overall-truthfulness_url,groups.google.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,kevinrudd.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,news.yahoo.com,0.04
+correct_true_all_10,doc_overall-truthfulness_url,occupywallst.org,0.01
+correct_true_all_10,doc_overall-truthfulness_url,simple.wikipedia.org,0.01
+correct_true_all_10,doc_overall-truthfulness_url,supreme.justia.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,theworker1891.blogspot.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.10tv.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.afr.com,0.03
+correct_true_all_10,doc_overall-truthfulness_url,www.ajc.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.amazon.com,0.02
+correct_true_all_10,doc_overall-truthfulness_url,www.answers.com,0.03
+correct_true_all_10,doc_overall-truthfulness_url,www.aph.gov.au,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.at40.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.bestsyndication.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.cato.org,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.cleveland.com,0.09
+correct_true_all_10,doc_overall-truthfulness_url,www.commondreams.org,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.crikey.com.au,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.dailymail.co.uk,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.democraticunderground.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.esquire.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.gov.uk,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.hhs.gov,0.02
+correct_true_all_10,doc_overall-truthfulness_url,www.huffingtonpost.com.au,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.huffpost.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.huliq.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.ipinst.org,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.motherjones.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.newcastleherald.com.au,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.npr.org,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.orlandoweekly.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.petermartin.com.au,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.pozogoldsteinny.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.researchgate.net,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.reuters.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.rossgittins.com,0.02
+correct_true_all_10,doc_overall-truthfulness_url,www.sbs.com.au,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.smh.com.au,0.02
+correct_true_all_10,doc_overall-truthfulness_url,www.supremecourt.ohio.gov,0.03
+correct_true_all_10,doc_overall-truthfulness_url,www.tai.org.au,0.02
+correct_true_all_10,doc_overall-truthfulness_url,www.theaustralian.com.au,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.thebalance.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.theguardian.com,0.06
+correct_true_all_10,doc_overall-truthfulness_url,www.todayifoundout.com,0.02
+correct_true_all_10,doc_overall-truthfulness_url,www.upi.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.walmart.com,0.01
+correct_true_all_10,doc_overall-truthfulness_url,www.youtube.com,0.05
+correct_true_politifact_5,doc_overall-truthfulness_url,boe.cuyahogacounty.us,0.08
+correct_true_politifact_5,doc_overall-truthfulness_url,en.wikipedia.org,0.16
+correct_true_politifact_5,doc_overall-truthfulness_url,occupywallst.org,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,simple.wikipedia.org,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,supreme.justia.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.10tv.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.ajc.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.amazon.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.answers.com,0.06
+correct_true_politifact_5,doc_overall-truthfulness_url,www.at40.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.bestsyndication.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.cato.org,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.cleveland.com,0.18
+correct_true_politifact_5,doc_overall-truthfulness_url,www.commondreams.org,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.democraticunderground.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.esquire.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.hhs.gov,0.04
+correct_true_politifact_5,doc_overall-truthfulness_url,www.huffpost.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.huliq.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.npr.org,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.orlandoweekly.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.researchgate.net,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.supremecourt.ohio.gov,0.06
+correct_true_politifact_5,doc_overall-truthfulness_url,www.thebalance.com,0.02
+correct_true_politifact_5,doc_overall-truthfulness_url,www.todayifoundout.com,0.04
+correct_true_politifact_5,doc_overall-truthfulness_url,www.upi.com,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,apo.org.au,0.04
+wrong_false_abc_5,doc_overall-truthfulness_url,associations.net.au,0.04
+wrong_false_abc_5,doc_overall-truthfulness_url,blog.petrieflom.law.harvard.edu,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,empire.goodgamestudios.com,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,en.wikipedia.org,0.14
+wrong_false_abc_5,doc_overall-truthfulness_url,forums.whirlpool.net.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,government.ru,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,kevinrudd.com,0.08
+wrong_false_abc_5,doc_overall-truthfulness_url,m.youtube.com,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,ministers.dese.gov.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,newmatilda.com,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,obamawhitehouse.archives.gov,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,quizlet.com,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,theconversation.com,0.04
+wrong_false_abc_5,doc_overall-truthfulness_url,thenewdaily.com.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.bbc.com,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.careforkids.com.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.chrisbowen.net,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.det.wa.edu.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.education.wa.edu.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.gaadi.com,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.news.com.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.smh.com.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.theguardian.com,0.12
+wrong_false_abc_5,doc_overall-truthfulness_url,www.universitiesaustralia.edu.au,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.usa.gov,0.02
+wrong_false_abc_5,doc_overall-truthfulness_url,www.youtube.com,0.14
+wrong_false_all_10,doc_overall-truthfulness_url,apo.org.au,0.02
+wrong_false_all_10,doc_overall-truthfulness_url,archive.jsonline.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,associations.net.au,0.02
+wrong_false_all_10,doc_overall-truthfulness_url,blog.petrieflom.law.harvard.edu,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,dictionary.cambridge.org,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,empire.goodgamestudios.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,en.wikipedia.org,0.13
+wrong_false_all_10,doc_overall-truthfulness_url,forums.whirlpool.net.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,government.ru,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,kevinrudd.com,0.04
+wrong_false_all_10,doc_overall-truthfulness_url,law.justia.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,legis.wisconsin.gov,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,m.youtube.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,ministers.dese.gov.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,newmatilda.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,nymag.com,0.02
+wrong_false_all_10,doc_overall-truthfulness_url,obamawhitehouse.archives.gov,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,quizlet.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,ruqayah.org,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,swampland.time.com,0.02
+wrong_false_all_10,doc_overall-truthfulness_url,theconversation.com,0.04
+wrong_false_all_10,doc_overall-truthfulness_url,thenewdaily.com.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,votesmart.org,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,wisc.jobs,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.bbc.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.benefits.va.gov,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.careforkids.com.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.cbpp.org,0.03
+wrong_false_all_10,doc_overall-truthfulness_url,www.celebitchy.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.chrisbowen.net,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.crimecommission.nsw.gov.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.det.wa.edu.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.education.wa.edu.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.fns.usda.gov,0.05
+wrong_false_all_10,doc_overall-truthfulness_url,www.forbes.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.gaadi.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.golocalprov.com,0.02
+wrong_false_all_10,doc_overall-truthfulness_url,www.imdb.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.linguee.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.merriam-webster.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.news.com.au,0.03
+wrong_false_all_10,doc_overall-truthfulness_url,www.newser.com,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.nsw.gov.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.providencejournal.com,0.05
+wrong_false_all_10,doc_overall-truthfulness_url,www.rga.org,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.smh.com.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.theaustralian.com.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.theguardian.com,0.06
+wrong_false_all_10,doc_overall-truthfulness_url,www.universitiesaustralia.edu.au,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.usa.gov,0.01
+wrong_false_all_10,doc_overall-truthfulness_url,www.washingtonpost.com,0.02
+wrong_false_all_10,doc_overall-truthfulness_url,www.youtube.com,0.07
+wrong_false_politifact_5,doc_overall-truthfulness_url,archive.jsonline.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,dictionary.cambridge.org,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,en.wikipedia.org,0.1
+wrong_false_politifact_5,doc_overall-truthfulness_url,law.justia.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,legis.wisconsin.gov,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,nymag.com,0.04
+wrong_false_politifact_5,doc_overall-truthfulness_url,ruqayah.org,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,senate.la.gov,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,swampland.time.com,0.04
+wrong_false_politifact_5,doc_overall-truthfulness_url,thehill.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,votesmart.org,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,wisc.jobs,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.benefits.va.gov,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.billtrack50.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.businessinsider.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.cbpp.org,0.06
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.celebitchy.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.fns.usda.gov,0.1
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.forbes.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.golocalprov.com,0.04
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.govtrack.us,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.imdb.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.linguee.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.newser.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.nj.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.northjersey.com,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.nysenate.gov,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.providencejournal.com,0.1
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.rga.org,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.rpc.senate.gov,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.senate.gov,0.02
+wrong_false_politifact_5,doc_overall-truthfulness_url,www.washingtonpost.com,0.04
+wrong_true_abc_5,doc_overall-truthfulness_url,7news.com.au,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,au.news.yahoo.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,content.wisestep.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,d3n8a8pro7vhmx.cloudfront.net,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,en.wikipedia.org,0.06
+wrong_true_abc_5,doc_overall-truthfulness_url,kevinrudd.com,0.04
+wrong_true_abc_5,doc_overall-truthfulness_url,study.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,tradingeconomics.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.answers.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.bloomberg.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.brainyquote.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.businessinsider.com.au,0.06
+wrong_true_abc_5,doc_overall-truthfulness_url,www.channel4.com,0.04
+wrong_true_abc_5,doc_overall-truthfulness_url,www.imf.org,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.medibank.com.au,0.04
+wrong_true_abc_5,doc_overall-truthfulness_url,www.nbcnews.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.news.com.au,0.04
+wrong_true_abc_5,doc_overall-truthfulness_url,www.nytimes.com,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.qgso.qld.gov.au,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.reddit.com,0.04
+wrong_true_abc_5,doc_overall-truthfulness_url,www.theaustralian.com.au,0.02
+wrong_true_abc_5,doc_overall-truthfulness_url,www.theguardian.com,0.12
+wrong_true_abc_5,doc_overall-truthfulness_url,www.yourlifechoices.com.au,0.1
+wrong_true_abc_5,doc_overall-truthfulness_url,www.youtube.com,0.18
+wrong_true_all_10,doc_overall-truthfulness_url,ar-ar.facebook.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,ballotpedia.org,0.03
+wrong_true_all_10,doc_overall-truthfulness_url,clarendonlearning.org,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,d3n8a8pro7vhmx.cloudfront.net,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,en.wikipedia.org,0.08
+wrong_true_all_10,doc_overall-truthfulness_url,haysfreepress.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,history.house.gov,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,kevinrudd.com,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,lrl.texas.gov,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,money.cnn.com,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,money.usnews.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,muninetguide.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,mustreadalaska.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,obamawhitehouse.archives.gov,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,ontheissues.org,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,patterico.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,skeptics.stackexchange.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,slate.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,thehill.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,united-states.reaproject.org,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,veteransforisaac.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.bloomberg.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.blueoregon.com,0.04
+wrong_true_all_10,doc_overall-truthfulness_url,www.britannica.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.businessinsider.com.au,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,www.census.gov,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.channel4.com,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,www.cleveland.com,0.03
+wrong_true_all_10,doc_overall-truthfulness_url,www.consumerreports.org,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.dailykos.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.detroitnews.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.dispatch.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.etax.com.au,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.facebook.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.forbes.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.fortworthbusiness.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.gray-robinson.com,0.03
+wrong_true_all_10,doc_overall-truthfulness_url,www.healthcare.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.imdb.com,0.03
+wrong_true_all_10,doc_overall-truthfulness_url,www.imf.org,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.irs.gov,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.macpac.gov,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.marketwatch.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.merriam-webster.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.myfloridahouse.gov,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,www.nbcnews.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.nytimes.com,0.03
+wrong_true_all_10,doc_overall-truthfulness_url,www.ofbyandfor.us,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,www.oregonlive.com,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,www.palmbeachpost.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.politico.com,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,www.tampabay.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.theaustralian.com.au,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.theguardian.com,0.03
+wrong_true_all_10,doc_overall-truthfulness_url,www.usatoday.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.usnews.com,0.04
+wrong_true_all_10,doc_overall-truthfulness_url,www.washingtonpost.com,0.02
+wrong_true_all_10,doc_overall-truthfulness_url,www.webmd.com,0.01
+wrong_true_all_10,doc_overall-truthfulness_url,www.yourlifechoices.com.au,0.04
+wrong_true_all_10,doc_overall-truthfulness_url,www.youtube.com,0.03
+wrong_true_politifact_5,doc_overall-truthfulness_url,ar-ar.facebook.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,clarendonlearning.org,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,en.wikipedia.org,0.08
+wrong_true_politifact_5,doc_overall-truthfulness_url,money.cnn.com,0.04
+wrong_true_politifact_5,doc_overall-truthfulness_url,money.usnews.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,muninetguide.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,obamawhitehouse.archives.gov,0.04
+wrong_true_politifact_5,doc_overall-truthfulness_url,ontheissues.org,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,patterico.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,slate.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,united-states.reaproject.org,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.blueoregon.com,0.08
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.britannica.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.cleveland.com,0.06
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.consumerreports.org,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.dailykos.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.dispatch.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.etax.com.au,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.facebook.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.forbes.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.healthcare.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.imdb.com,0.06
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.irs.gov,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.marketwatch.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.merriam-webster.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.nytimes.com,0.04
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.ofbyandfor.us,0.04
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.oregonlive.com,0.04
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.palmbeachpost.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.politico.com,0.04
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.tampabay.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.usatoday.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.webmd.com,0.02
+wrong_true_politifact_5,doc_overall-truthfulness_url,www.youtube.com,0.02
+correct_false_abc_5,unit_id,unit_100,0.02
+correct_false_abc_5,unit_id,unit_102,0.02
+correct_false_abc_5,unit_id,unit_104,0.02
+correct_false_abc_5,unit_id,unit_106,0.02
+correct_false_abc_5,unit_id,unit_108,0.02
+correct_false_abc_5,unit_id,unit_110,0.02
+correct_false_abc_5,unit_id,unit_112,0.02
+correct_false_abc_5,unit_id,unit_114,0.02
+correct_false_abc_5,unit_id,unit_116,0.02
+correct_false_abc_5,unit_id,unit_118,0.02
+correct_false_abc_5,unit_id,unit_141,0.02
+correct_false_abc_5,unit_id,unit_143,0.02
+correct_false_abc_5,unit_id,unit_145,0.02
+correct_false_abc_5,unit_id,unit_147,0.02
+correct_false_abc_5,unit_id,unit_149,0.02
+correct_false_abc_5,unit_id,unit_151,0.02
+correct_false_abc_5,unit_id,unit_153,0.02
+correct_false_abc_5,unit_id,unit_155,0.02
+correct_false_abc_5,unit_id,unit_156,0.02
+correct_false_abc_5,unit_id,unit_157,0.02
+correct_false_abc_5,unit_id,unit_159,0.02
+correct_false_abc_5,unit_id,unit_20,0.02
+correct_false_abc_5,unit_id,unit_22,0.02
+correct_false_abc_5,unit_id,unit_24,0.02
+correct_false_abc_5,unit_id,unit_26,0.02
+correct_false_abc_5,unit_id,unit_28,0.02
+correct_false_abc_5,unit_id,unit_30,0.02
+correct_false_abc_5,unit_id,unit_32,0.02
+correct_false_abc_5,unit_id,unit_34,0.02
+correct_false_abc_5,unit_id,unit_36,0.02
+correct_false_abc_5,unit_id,unit_38,0.02
+correct_false_abc_5,unit_id,unit_41,0.02
+correct_false_abc_5,unit_id,unit_43,0.02
+correct_false_abc_5,unit_id,unit_45,0.02
+correct_false_abc_5,unit_id,unit_47,0.02
+correct_false_abc_5,unit_id,unit_49,0.02
+correct_false_abc_5,unit_id,unit_51,0.02
+correct_false_abc_5,unit_id,unit_53,0.02
+correct_false_abc_5,unit_id,unit_55,0.02
+correct_false_abc_5,unit_id,unit_57,0.02
+correct_false_abc_5,unit_id,unit_59,0.02
+correct_false_abc_5,unit_id,unit_61,0.02
+correct_false_abc_5,unit_id,unit_63,0.02
+correct_false_abc_5,unit_id,unit_65,0.02
+correct_false_abc_5,unit_id,unit_67,0.02
+correct_false_abc_5,unit_id,unit_69,0.02
+correct_false_abc_5,unit_id,unit_71,0.02
+correct_false_abc_5,unit_id,unit_73,0.02
+correct_false_abc_5,unit_id,unit_75,0.02
+correct_false_abc_5,unit_id,unit_77,0.02
+correct_false_abc_5,unit_id,unit_79,0.02
+correct_false_all_10,unit_id,unit_1,0.01
+correct_false_all_10,unit_id,unit_100,0.02
+correct_false_all_10,unit_id,unit_102,0.02
+correct_false_all_10,unit_id,unit_104,0.02
+correct_false_all_10,unit_id,unit_106,0.02
+correct_false_all_10,unit_id,unit_108,0.02
+correct_false_all_10,unit_id,unit_11,0.01
+correct_false_all_10,unit_id,unit_110,0.02
+correct_false_all_10,unit_id,unit_112,0.02
+correct_false_all_10,unit_id,unit_114,0.02
+correct_false_all_10,unit_id,unit_116,0.02
+correct_false_all_10,unit_id,unit_118,0.02
+correct_false_all_10,unit_id,unit_120,0.01
+correct_false_all_10,unit_id,unit_122,0.01
+correct_false_all_10,unit_id,unit_124,0.01
+correct_false_all_10,unit_id,unit_126,0.01
+correct_false_all_10,unit_id,unit_128,0.01
+correct_false_all_10,unit_id,unit_13,0.01
+correct_false_all_10,unit_id,unit_130,0.01
+correct_false_all_10,unit_id,unit_132,0.01
+correct_false_all_10,unit_id,unit_134,0.01
+correct_false_all_10,unit_id,unit_136,0.01
+correct_false_all_10,unit_id,unit_138,0.01
+correct_false_all_10,unit_id,unit_141,0.01
+correct_false_all_10,unit_id,unit_143,0.01
+correct_false_all_10,unit_id,unit_145,0.01
+correct_false_all_10,unit_id,unit_147,0.01
+correct_false_all_10,unit_id,unit_149,0.01
+correct_false_all_10,unit_id,unit_15,0.01
+correct_false_all_10,unit_id,unit_151,0.01
+correct_false_all_10,unit_id,unit_153,0.01
+correct_false_all_10,unit_id,unit_155,0.01
+correct_false_all_10,unit_id,unit_156,0.01
+correct_false_all_10,unit_id,unit_157,0.01
+correct_false_all_10,unit_id,unit_159,0.01
+correct_false_all_10,unit_id,unit_17,0.01
+correct_false_all_10,unit_id,unit_19,0.01
+correct_false_all_10,unit_id,unit_20,0.01
+correct_false_all_10,unit_id,unit_22,0.01
+correct_false_all_10,unit_id,unit_24,0.01
+correct_false_all_10,unit_id,unit_26,0.01
+correct_false_all_10,unit_id,unit_28,0.01
+correct_false_all_10,unit_id,unit_3,0.01
+correct_false_all_10,unit_id,unit_30,0.01
+correct_false_all_10,unit_id,unit_32,0.01
+correct_false_all_10,unit_id,unit_34,0.01
+correct_false_all_10,unit_id,unit_36,0.01
+correct_false_all_10,unit_id,unit_38,0.01
+correct_false_all_10,unit_id,unit_40,0.01
+correct_false_all_10,unit_id,unit_41,0.02
+correct_false_all_10,unit_id,unit_42,0.01
+correct_false_all_10,unit_id,unit_43,0.02
+correct_false_all_10,unit_id,unit_44,0.01
+correct_false_all_10,unit_id,unit_45,0.02
+correct_false_all_10,unit_id,unit_46,0.01
+correct_false_all_10,unit_id,unit_47,0.02
+correct_false_all_10,unit_id,unit_48,0.01
+correct_false_all_10,unit_id,unit_49,0.02
+correct_false_all_10,unit_id,unit_5,0.01
+correct_false_all_10,unit_id,unit_50,0.01
+correct_false_all_10,unit_id,unit_51,0.02
+correct_false_all_10,unit_id,unit_52,0.01
+correct_false_all_10,unit_id,unit_53,0.02
+correct_false_all_10,unit_id,unit_54,0.01
+correct_false_all_10,unit_id,unit_55,0.02
+correct_false_all_10,unit_id,unit_56,0.01
+correct_false_all_10,unit_id,unit_57,0.02
+correct_false_all_10,unit_id,unit_58,0.01
+correct_false_all_10,unit_id,unit_59,0.02
+correct_false_all_10,unit_id,unit_61,0.01
+correct_false_all_10,unit_id,unit_63,0.01
+correct_false_all_10,unit_id,unit_65,0.01
+correct_false_all_10,unit_id,unit_67,0.01
+correct_false_all_10,unit_id,unit_69,0.01
+correct_false_all_10,unit_id,unit_7,0.01
+correct_false_all_10,unit_id,unit_71,0.01
+correct_false_all_10,unit_id,unit_73,0.01
+correct_false_all_10,unit_id,unit_75,0.01
+correct_false_all_10,unit_id,unit_77,0.01
+correct_false_all_10,unit_id,unit_79,0.01
+correct_false_all_10,unit_id,unit_9,0.01
+correct_false_politifact_5,unit_id,unit_1,0.02
+correct_false_politifact_5,unit_id,unit_100,0.02
+correct_false_politifact_5,unit_id,unit_102,0.02
+correct_false_politifact_5,unit_id,unit_104,0.02
+correct_false_politifact_5,unit_id,unit_106,0.02
+correct_false_politifact_5,unit_id,unit_108,0.02
+correct_false_politifact_5,unit_id,unit_11,0.02
+correct_false_politifact_5,unit_id,unit_110,0.02
+correct_false_politifact_5,unit_id,unit_112,0.02
+correct_false_politifact_5,unit_id,unit_114,0.02
+correct_false_politifact_5,unit_id,unit_116,0.02
+correct_false_politifact_5,unit_id,unit_118,0.02
+correct_false_politifact_5,unit_id,unit_120,0.02
+correct_false_politifact_5,unit_id,unit_122,0.02
+correct_false_politifact_5,unit_id,unit_124,0.02
+correct_false_politifact_5,unit_id,unit_126,0.02
+correct_false_politifact_5,unit_id,unit_128,0.02
+correct_false_politifact_5,unit_id,unit_13,0.02
+correct_false_politifact_5,unit_id,unit_130,0.02
+correct_false_politifact_5,unit_id,unit_132,0.02
+correct_false_politifact_5,unit_id,unit_134,0.02
+correct_false_politifact_5,unit_id,unit_136,0.02
+correct_false_politifact_5,unit_id,unit_138,0.02
+correct_false_politifact_5,unit_id,unit_15,0.02
+correct_false_politifact_5,unit_id,unit_17,0.02
+correct_false_politifact_5,unit_id,unit_19,0.02
+correct_false_politifact_5,unit_id,unit_3,0.02
+correct_false_politifact_5,unit_id,unit_40,0.02
+correct_false_politifact_5,unit_id,unit_41,0.02
+correct_false_politifact_5,unit_id,unit_42,0.02
+correct_false_politifact_5,unit_id,unit_43,0.02
+correct_false_politifact_5,unit_id,unit_44,0.02
+correct_false_politifact_5,unit_id,unit_45,0.02
+correct_false_politifact_5,unit_id,unit_46,0.02
+correct_false_politifact_5,unit_id,unit_47,0.02
+correct_false_politifact_5,unit_id,unit_48,0.02
+correct_false_politifact_5,unit_id,unit_49,0.02
+correct_false_politifact_5,unit_id,unit_5,0.02
+correct_false_politifact_5,unit_id,unit_50,0.02
+correct_false_politifact_5,unit_id,unit_51,0.02
+correct_false_politifact_5,unit_id,unit_52,0.02
+correct_false_politifact_5,unit_id,unit_53,0.02
+correct_false_politifact_5,unit_id,unit_54,0.02
+correct_false_politifact_5,unit_id,unit_55,0.02
+correct_false_politifact_5,unit_id,unit_56,0.02
+correct_false_politifact_5,unit_id,unit_57,0.02
+correct_false_politifact_5,unit_id,unit_58,0.02
+correct_false_politifact_5,unit_id,unit_59,0.02
+correct_false_politifact_5,unit_id,unit_7,0.02
+correct_false_politifact_5,unit_id,unit_9,0.02
+correct_true_abc_5,unit_id,unit_1,0.02
+correct_true_abc_5,unit_id,unit_11,0.02
+correct_true_abc_5,unit_id,unit_13,0.02
+correct_true_abc_5,unit_id,unit_15,0.02
+correct_true_abc_5,unit_id,unit_161,0.02
+correct_true_abc_5,unit_id,unit_163,0.02
+correct_true_abc_5,unit_id,unit_165,0.02
+correct_true_abc_5,unit_id,unit_167,0.02
+correct_true_abc_5,unit_id,unit_169,0.02
+correct_true_abc_5,unit_id,unit_17,0.02
+correct_true_abc_5,unit_id,unit_171,0.02
+correct_true_abc_5,unit_id,unit_173,0.02
+correct_true_abc_5,unit_id,unit_175,0.02
+correct_true_abc_5,unit_id,unit_177,0.02
+correct_true_abc_5,unit_id,unit_179,0.02
+correct_true_abc_5,unit_id,unit_19,0.02
+correct_true_abc_5,unit_id,unit_21,0.02
+correct_true_abc_5,unit_id,unit_23,0.02
+correct_true_abc_5,unit_id,unit_25,0.02
+correct_true_abc_5,unit_id,unit_27,0.02
+correct_true_abc_5,unit_id,unit_29,0.02
+correct_true_abc_5,unit_id,unit_3,0.02
+correct_true_abc_5,unit_id,unit_31,0.02
+correct_true_abc_5,unit_id,unit_33,0.02
+correct_true_abc_5,unit_id,unit_35,0.02
+correct_true_abc_5,unit_id,unit_37,0.02
+correct_true_abc_5,unit_id,unit_39,0.02
+correct_true_abc_5,unit_id,unit_5,0.02
+correct_true_abc_5,unit_id,unit_61,0.02
+correct_true_abc_5,unit_id,unit_63,0.02
+correct_true_abc_5,unit_id,unit_65,0.02
+correct_true_abc_5,unit_id,unit_67,0.02
+correct_true_abc_5,unit_id,unit_69,0.02
+correct_true_abc_5,unit_id,unit_7,0.02
+correct_true_abc_5,unit_id,unit_71,0.02
+correct_true_abc_5,unit_id,unit_73,0.02
+correct_true_abc_5,unit_id,unit_75,0.02
+correct_true_abc_5,unit_id,unit_77,0.02
+correct_true_abc_5,unit_id,unit_79,0.02
+correct_true_abc_5,unit_id,unit_80,0.02
+correct_true_abc_5,unit_id,unit_82,0.02
+correct_true_abc_5,unit_id,unit_84,0.02
+correct_true_abc_5,unit_id,unit_86,0.02
+correct_true_abc_5,unit_id,unit_88,0.02
+correct_true_abc_5,unit_id,unit_9,0.02
+correct_true_abc_5,unit_id,unit_90,0.02
+correct_true_abc_5,unit_id,unit_92,0.02
+correct_true_abc_5,unit_id,unit_94,0.02
+correct_true_abc_5,unit_id,unit_96,0.02
+correct_true_abc_5,unit_id,unit_98,0.02
+correct_true_all_10,unit_id,unit_1,0.01
+correct_true_all_10,unit_id,unit_101,0.01
+correct_true_all_10,unit_id,unit_103,0.01
+correct_true_all_10,unit_id,unit_105,0.01
+correct_true_all_10,unit_id,unit_107,0.01
+correct_true_all_10,unit_id,unit_109,0.01
+correct_true_all_10,unit_id,unit_11,0.01
+correct_true_all_10,unit_id,unit_111,0.01
+correct_true_all_10,unit_id,unit_113,0.01
+correct_true_all_10,unit_id,unit_115,0.01
+correct_true_all_10,unit_id,unit_117,0.01
+correct_true_all_10,unit_id,unit_119,0.01
+correct_true_all_10,unit_id,unit_13,0.01
+correct_true_all_10,unit_id,unit_15,0.01
+correct_true_all_10,unit_id,unit_161,0.02
+correct_true_all_10,unit_id,unit_163,0.02
+correct_true_all_10,unit_id,unit_165,0.02
+correct_true_all_10,unit_id,unit_167,0.02
+correct_true_all_10,unit_id,unit_169,0.02
+correct_true_all_10,unit_id,unit_17,0.01
+correct_true_all_10,unit_id,unit_171,0.02
+correct_true_all_10,unit_id,unit_173,0.02
+correct_true_all_10,unit_id,unit_175,0.02
+correct_true_all_10,unit_id,unit_177,0.02
+correct_true_all_10,unit_id,unit_179,0.02
+correct_true_all_10,unit_id,unit_180,0.01
+correct_true_all_10,unit_id,unit_182,0.01
+correct_true_all_10,unit_id,unit_184,0.01
+correct_true_all_10,unit_id,unit_186,0.01
+correct_true_all_10,unit_id,unit_188,0.01
+correct_true_all_10,unit_id,unit_19,0.01
+correct_true_all_10,unit_id,unit_190,0.01
+correct_true_all_10,unit_id,unit_192,0.01
+correct_true_all_10,unit_id,unit_194,0.01
+correct_true_all_10,unit_id,unit_196,0.01
+correct_true_all_10,unit_id,unit_198,0.01
+correct_true_all_10,unit_id,unit_20,0.01
+correct_true_all_10,unit_id,unit_21,0.01
+correct_true_all_10,unit_id,unit_22,0.01
+correct_true_all_10,unit_id,unit_23,0.01
+correct_true_all_10,unit_id,unit_24,0.01
+correct_true_all_10,unit_id,unit_25,0.01
+correct_true_all_10,unit_id,unit_26,0.01
+correct_true_all_10,unit_id,unit_27,0.01
+correct_true_all_10,unit_id,unit_28,0.01
+correct_true_all_10,unit_id,unit_29,0.01
+correct_true_all_10,unit_id,unit_3,0.01
+correct_true_all_10,unit_id,unit_30,0.01
+correct_true_all_10,unit_id,unit_31,0.01
+correct_true_all_10,unit_id,unit_32,0.01
+correct_true_all_10,unit_id,unit_33,0.01
+correct_true_all_10,unit_id,unit_34,0.01
+correct_true_all_10,unit_id,unit_35,0.01
+correct_true_all_10,unit_id,unit_36,0.01
+correct_true_all_10,unit_id,unit_37,0.01
+correct_true_all_10,unit_id,unit_38,0.01
+correct_true_all_10,unit_id,unit_39,0.01
+correct_true_all_10,unit_id,unit_5,0.01
+correct_true_all_10,unit_id,unit_61,0.01
+correct_true_all_10,unit_id,unit_63,0.01
+correct_true_all_10,unit_id,unit_65,0.01
+correct_true_all_10,unit_id,unit_67,0.01
+correct_true_all_10,unit_id,unit_69,0.01
+correct_true_all_10,unit_id,unit_7,0.01
+correct_true_all_10,unit_id,unit_71,0.01
+correct_true_all_10,unit_id,unit_73,0.01
+correct_true_all_10,unit_id,unit_75,0.01
+correct_true_all_10,unit_id,unit_77,0.01
+correct_true_all_10,unit_id,unit_79,0.01
+correct_true_all_10,unit_id,unit_80,0.01
+correct_true_all_10,unit_id,unit_81,0.01
+correct_true_all_10,unit_id,unit_82,0.01
+correct_true_all_10,unit_id,unit_83,0.01
+correct_true_all_10,unit_id,unit_84,0.01
+correct_true_all_10,unit_id,unit_85,0.01
+correct_true_all_10,unit_id,unit_86,0.01
+correct_true_all_10,unit_id,unit_87,0.01
+correct_true_all_10,unit_id,unit_88,0.01
+correct_true_all_10,unit_id,unit_89,0.01
+correct_true_all_10,unit_id,unit_9,0.01
+correct_true_all_10,unit_id,unit_90,0.01
+correct_true_all_10,unit_id,unit_91,0.01
+correct_true_all_10,unit_id,unit_92,0.01
+correct_true_all_10,unit_id,unit_93,0.01
+correct_true_all_10,unit_id,unit_94,0.01
+correct_true_all_10,unit_id,unit_95,0.01
+correct_true_all_10,unit_id,unit_96,0.01
+correct_true_all_10,unit_id,unit_97,0.01
+correct_true_all_10,unit_id,unit_98,0.01
+correct_true_all_10,unit_id,unit_99,0.01
+correct_true_politifact_5,unit_id,unit_101,0.02
+correct_true_politifact_5,unit_id,unit_103,0.02
+correct_true_politifact_5,unit_id,unit_105,0.02
+correct_true_politifact_5,unit_id,unit_107,0.02
+correct_true_politifact_5,unit_id,unit_109,0.02
+correct_true_politifact_5,unit_id,unit_111,0.02
+correct_true_politifact_5,unit_id,unit_113,0.02
+correct_true_politifact_5,unit_id,unit_115,0.02
+correct_true_politifact_5,unit_id,unit_117,0.02
+correct_true_politifact_5,unit_id,unit_119,0.02
+correct_true_politifact_5,unit_id,unit_161,0.02
+correct_true_politifact_5,unit_id,unit_163,0.02
+correct_true_politifact_5,unit_id,unit_165,0.02
+correct_true_politifact_5,unit_id,unit_167,0.02
+correct_true_politifact_5,unit_id,unit_169,0.02
+correct_true_politifact_5,unit_id,unit_171,0.02
+correct_true_politifact_5,unit_id,unit_173,0.02
+correct_true_politifact_5,unit_id,unit_175,0.02
+correct_true_politifact_5,unit_id,unit_177,0.02
+correct_true_politifact_5,unit_id,unit_179,0.02
+correct_true_politifact_5,unit_id,unit_180,0.02
+correct_true_politifact_5,unit_id,unit_182,0.02
+correct_true_politifact_5,unit_id,unit_184,0.02
+correct_true_politifact_5,unit_id,unit_186,0.02
+correct_true_politifact_5,unit_id,unit_188,0.02
+correct_true_politifact_5,unit_id,unit_190,0.02
+correct_true_politifact_5,unit_id,unit_192,0.02
+correct_true_politifact_5,unit_id,unit_194,0.02
+correct_true_politifact_5,unit_id,unit_196,0.02
+correct_true_politifact_5,unit_id,unit_198,0.02
+correct_true_politifact_5,unit_id,unit_20,0.02
+correct_true_politifact_5,unit_id,unit_22,0.02
+correct_true_politifact_5,unit_id,unit_24,0.02
+correct_true_politifact_5,unit_id,unit_26,0.02
+correct_true_politifact_5,unit_id,unit_28,0.02
+correct_true_politifact_5,unit_id,unit_30,0.02
+correct_true_politifact_5,unit_id,unit_32,0.02
+correct_true_politifact_5,unit_id,unit_34,0.02
+correct_true_politifact_5,unit_id,unit_36,0.02
+correct_true_politifact_5,unit_id,unit_38,0.02
+correct_true_politifact_5,unit_id,unit_81,0.02
+correct_true_politifact_5,unit_id,unit_83,0.02
+correct_true_politifact_5,unit_id,unit_85,0.02
+correct_true_politifact_5,unit_id,unit_87,0.02
+correct_true_politifact_5,unit_id,unit_89,0.02
+correct_true_politifact_5,unit_id,unit_91,0.02
+correct_true_politifact_5,unit_id,unit_93,0.02
+correct_true_politifact_5,unit_id,unit_95,0.02
+correct_true_politifact_5,unit_id,unit_97,0.02
+correct_true_politifact_5,unit_id,unit_99,0.02
+wrong_false_abc_5,unit_id,unit_1,0.02
+wrong_false_abc_5,unit_id,unit_101,0.02
+wrong_false_abc_5,unit_id,unit_103,0.02
+wrong_false_abc_5,unit_id,unit_105,0.02
+wrong_false_abc_5,unit_id,unit_107,0.02
+wrong_false_abc_5,unit_id,unit_109,0.02
+wrong_false_abc_5,unit_id,unit_11,0.02
+wrong_false_abc_5,unit_id,unit_111,0.02
+wrong_false_abc_5,unit_id,unit_113,0.02
+wrong_false_abc_5,unit_id,unit_115,0.02
+wrong_false_abc_5,unit_id,unit_117,0.02
+wrong_false_abc_5,unit_id,unit_119,0.02
+wrong_false_abc_5,unit_id,unit_13,0.02
+wrong_false_abc_5,unit_id,unit_15,0.02
+wrong_false_abc_5,unit_id,unit_17,0.02
+wrong_false_abc_5,unit_id,unit_180,0.02
+wrong_false_abc_5,unit_id,unit_182,0.02
+wrong_false_abc_5,unit_id,unit_184,0.02
+wrong_false_abc_5,unit_id,unit_186,0.02
+wrong_false_abc_5,unit_id,unit_188,0.02
+wrong_false_abc_5,unit_id,unit_19,0.02
+wrong_false_abc_5,unit_id,unit_190,0.02
+wrong_false_abc_5,unit_id,unit_192,0.02
+wrong_false_abc_5,unit_id,unit_194,0.02
+wrong_false_abc_5,unit_id,unit_196,0.02
+wrong_false_abc_5,unit_id,unit_198,0.02
+wrong_false_abc_5,unit_id,unit_21,0.02
+wrong_false_abc_5,unit_id,unit_23,0.02
+wrong_false_abc_5,unit_id,unit_25,0.02
+wrong_false_abc_5,unit_id,unit_27,0.02
+wrong_false_abc_5,unit_id,unit_29,0.02
+wrong_false_abc_5,unit_id,unit_3,0.02
+wrong_false_abc_5,unit_id,unit_31,0.02
+wrong_false_abc_5,unit_id,unit_33,0.02
+wrong_false_abc_5,unit_id,unit_35,0.02
+wrong_false_abc_5,unit_id,unit_37,0.02
+wrong_false_abc_5,unit_id,unit_39,0.02
+wrong_false_abc_5,unit_id,unit_5,0.02
+wrong_false_abc_5,unit_id,unit_7,0.02
+wrong_false_abc_5,unit_id,unit_81,0.02
+wrong_false_abc_5,unit_id,unit_83,0.02
+wrong_false_abc_5,unit_id,unit_85,0.02
+wrong_false_abc_5,unit_id,unit_87,0.02
+wrong_false_abc_5,unit_id,unit_89,0.02
+wrong_false_abc_5,unit_id,unit_9,0.02
+wrong_false_abc_5,unit_id,unit_91,0.02
+wrong_false_abc_5,unit_id,unit_93,0.02
+wrong_false_abc_5,unit_id,unit_95,0.02
+wrong_false_abc_5,unit_id,unit_97,0.02
+wrong_false_abc_5,unit_id,unit_99,0.02
+wrong_false_all_10,unit_id,unit_1,0.01
+wrong_false_all_10,unit_id,unit_101,0.01
+wrong_false_all_10,unit_id,unit_103,0.01
+wrong_false_all_10,unit_id,unit_105,0.01
+wrong_false_all_10,unit_id,unit_107,0.01
+wrong_false_all_10,unit_id,unit_109,0.01
+wrong_false_all_10,unit_id,unit_11,0.01
+wrong_false_all_10,unit_id,unit_111,0.01
+wrong_false_all_10,unit_id,unit_113,0.01
+wrong_false_all_10,unit_id,unit_115,0.01
+wrong_false_all_10,unit_id,unit_117,0.01
+wrong_false_all_10,unit_id,unit_119,0.01
+wrong_false_all_10,unit_id,unit_13,0.01
+wrong_false_all_10,unit_id,unit_140,0.02
+wrong_false_all_10,unit_id,unit_141,0.01
+wrong_false_all_10,unit_id,unit_142,0.02
+wrong_false_all_10,unit_id,unit_143,0.01
+wrong_false_all_10,unit_id,unit_144,0.02
+wrong_false_all_10,unit_id,unit_145,0.01
+wrong_false_all_10,unit_id,unit_146,0.02
+wrong_false_all_10,unit_id,unit_147,0.01
+wrong_false_all_10,unit_id,unit_148,0.02
+wrong_false_all_10,unit_id,unit_149,0.01
+wrong_false_all_10,unit_id,unit_15,0.01
+wrong_false_all_10,unit_id,unit_150,0.02
+wrong_false_all_10,unit_id,unit_151,0.01
+wrong_false_all_10,unit_id,unit_152,0.02
+wrong_false_all_10,unit_id,unit_153,0.01
+wrong_false_all_10,unit_id,unit_154,0.02
+wrong_false_all_10,unit_id,unit_155,0.01
+wrong_false_all_10,unit_id,unit_156,0.01
+wrong_false_all_10,unit_id,unit_157,0.01
+wrong_false_all_10,unit_id,unit_158,0.02
+wrong_false_all_10,unit_id,unit_159,0.01
+wrong_false_all_10,unit_id,unit_160,0.01
+wrong_false_all_10,unit_id,unit_162,0.01
+wrong_false_all_10,unit_id,unit_164,0.01
+wrong_false_all_10,unit_id,unit_166,0.01
+wrong_false_all_10,unit_id,unit_168,0.01
+wrong_false_all_10,unit_id,unit_17,0.01
+wrong_false_all_10,unit_id,unit_170,0.01
+wrong_false_all_10,unit_id,unit_172,0.01
+wrong_false_all_10,unit_id,unit_174,0.01
+wrong_false_all_10,unit_id,unit_176,0.01
+wrong_false_all_10,unit_id,unit_178,0.01
+wrong_false_all_10,unit_id,unit_180,0.02
+wrong_false_all_10,unit_id,unit_182,0.02
+wrong_false_all_10,unit_id,unit_184,0.02
+wrong_false_all_10,unit_id,unit_186,0.02
+wrong_false_all_10,unit_id,unit_188,0.02
+wrong_false_all_10,unit_id,unit_19,0.01
+wrong_false_all_10,unit_id,unit_190,0.02
+wrong_false_all_10,unit_id,unit_192,0.02
+wrong_false_all_10,unit_id,unit_194,0.02
+wrong_false_all_10,unit_id,unit_196,0.02
+wrong_false_all_10,unit_id,unit_198,0.02
+wrong_false_all_10,unit_id,unit_21,0.01
+wrong_false_all_10,unit_id,unit_23,0.01
+wrong_false_all_10,unit_id,unit_25,0.01
+wrong_false_all_10,unit_id,unit_27,0.01
+wrong_false_all_10,unit_id,unit_29,0.01
+wrong_false_all_10,unit_id,unit_3,0.01
+wrong_false_all_10,unit_id,unit_31,0.01
+wrong_false_all_10,unit_id,unit_33,0.01
+wrong_false_all_10,unit_id,unit_35,0.01
+wrong_false_all_10,unit_id,unit_37,0.01
+wrong_false_all_10,unit_id,unit_39,0.01
+wrong_false_all_10,unit_id,unit_5,0.01
+wrong_false_all_10,unit_id,unit_7,0.01
+wrong_false_all_10,unit_id,unit_81,0.01
+wrong_false_all_10,unit_id,unit_83,0.01
+wrong_false_all_10,unit_id,unit_85,0.01
+wrong_false_all_10,unit_id,unit_87,0.01
+wrong_false_all_10,unit_id,unit_89,0.01
+wrong_false_all_10,unit_id,unit_9,0.01
+wrong_false_all_10,unit_id,unit_91,0.01
+wrong_false_all_10,unit_id,unit_93,0.01
+wrong_false_all_10,unit_id,unit_95,0.01
+wrong_false_all_10,unit_id,unit_97,0.01
+wrong_false_all_10,unit_id,unit_99,0.01
+wrong_false_politifact_5,unit_id,unit_140,0.02
+wrong_false_politifact_5,unit_id,unit_141,0.02
+wrong_false_politifact_5,unit_id,unit_142,0.02
+wrong_false_politifact_5,unit_id,unit_143,0.02
+wrong_false_politifact_5,unit_id,unit_144,0.02
+wrong_false_politifact_5,unit_id,unit_145,0.02
+wrong_false_politifact_5,unit_id,unit_146,0.02
+wrong_false_politifact_5,unit_id,unit_147,0.02
+wrong_false_politifact_5,unit_id,unit_148,0.02
+wrong_false_politifact_5,unit_id,unit_149,0.02
+wrong_false_politifact_5,unit_id,unit_150,0.02
+wrong_false_politifact_5,unit_id,unit_151,0.02
+wrong_false_politifact_5,unit_id,unit_152,0.02
+wrong_false_politifact_5,unit_id,unit_153,0.02
+wrong_false_politifact_5,unit_id,unit_154,0.02
+wrong_false_politifact_5,unit_id,unit_155,0.02
+wrong_false_politifact_5,unit_id,unit_156,0.02
+wrong_false_politifact_5,unit_id,unit_157,0.02
+wrong_false_politifact_5,unit_id,unit_158,0.02
+wrong_false_politifact_5,unit_id,unit_159,0.02
+wrong_false_politifact_5,unit_id,unit_160,0.02
+wrong_false_politifact_5,unit_id,unit_162,0.02
+wrong_false_politifact_5,unit_id,unit_164,0.02
+wrong_false_politifact_5,unit_id,unit_166,0.02
+wrong_false_politifact_5,unit_id,unit_168,0.02
+wrong_false_politifact_5,unit_id,unit_170,0.02
+wrong_false_politifact_5,unit_id,unit_172,0.02
+wrong_false_politifact_5,unit_id,unit_174,0.02
+wrong_false_politifact_5,unit_id,unit_176,0.02
+wrong_false_politifact_5,unit_id,unit_178,0.02
+wrong_false_politifact_5,unit_id,unit_180,0.02
+wrong_false_politifact_5,unit_id,unit_182,0.02
+wrong_false_politifact_5,unit_id,unit_184,0.02
+wrong_false_politifact_5,unit_id,unit_186,0.02
+wrong_false_politifact_5,unit_id,unit_188,0.02
+wrong_false_politifact_5,unit_id,unit_190,0.02
+wrong_false_politifact_5,unit_id,unit_192,0.02
+wrong_false_politifact_5,unit_id,unit_194,0.02
+wrong_false_politifact_5,unit_id,unit_196,0.02
+wrong_false_politifact_5,unit_id,unit_198,0.02
+wrong_false_politifact_5,unit_id,unit_81,0.02
+wrong_false_politifact_5,unit_id,unit_83,0.02
+wrong_false_politifact_5,unit_id,unit_85,0.02
+wrong_false_politifact_5,unit_id,unit_87,0.02
+wrong_false_politifact_5,unit_id,unit_89,0.02
+wrong_false_politifact_5,unit_id,unit_91,0.02
+wrong_false_politifact_5,unit_id,unit_93,0.02
+wrong_false_politifact_5,unit_id,unit_95,0.02
+wrong_false_politifact_5,unit_id,unit_97,0.02
+wrong_false_politifact_5,unit_id,unit_99,0.02
+wrong_true_abc_5,unit_id,unit_0,0.02
+wrong_true_abc_5,unit_id,unit_10,0.02
+wrong_true_abc_5,unit_id,unit_12,0.02
+wrong_true_abc_5,unit_id,unit_14,0.02
+wrong_true_abc_5,unit_id,unit_16,0.02
+wrong_true_abc_5,unit_id,unit_18,0.02
+wrong_true_abc_5,unit_id,unit_181,0.02
+wrong_true_abc_5,unit_id,unit_183,0.02
+wrong_true_abc_5,unit_id,unit_185,0.02
+wrong_true_abc_5,unit_id,unit_187,0.02
+wrong_true_abc_5,unit_id,unit_189,0.02
+wrong_true_abc_5,unit_id,unit_191,0.02
+wrong_true_abc_5,unit_id,unit_193,0.02
+wrong_true_abc_5,unit_id,unit_195,0.02
+wrong_true_abc_5,unit_id,unit_197,0.02
+wrong_true_abc_5,unit_id,unit_199,0.02
+wrong_true_abc_5,unit_id,unit_2,0.02
+wrong_true_abc_5,unit_id,unit_4,0.02
+wrong_true_abc_5,unit_id,unit_40,0.02
+wrong_true_abc_5,unit_id,unit_41,0.02
+wrong_true_abc_5,unit_id,unit_42,0.02
+wrong_true_abc_5,unit_id,unit_43,0.02
+wrong_true_abc_5,unit_id,unit_44,0.02
+wrong_true_abc_5,unit_id,unit_45,0.02
+wrong_true_abc_5,unit_id,unit_46,0.02
+wrong_true_abc_5,unit_id,unit_47,0.02
+wrong_true_abc_5,unit_id,unit_48,0.02
+wrong_true_abc_5,unit_id,unit_49,0.02
+wrong_true_abc_5,unit_id,unit_50,0.02
+wrong_true_abc_5,unit_id,unit_51,0.02
+wrong_true_abc_5,unit_id,unit_52,0.02
+wrong_true_abc_5,unit_id,unit_53,0.02
+wrong_true_abc_5,unit_id,unit_54,0.02
+wrong_true_abc_5,unit_id,unit_55,0.02
+wrong_true_abc_5,unit_id,unit_56,0.02
+wrong_true_abc_5,unit_id,unit_57,0.02
+wrong_true_abc_5,unit_id,unit_58,0.02
+wrong_true_abc_5,unit_id,unit_59,0.02
+wrong_true_abc_5,unit_id,unit_6,0.02
+wrong_true_abc_5,unit_id,unit_8,0.02
+wrong_true_abc_5,unit_id,unit_81,0.02
+wrong_true_abc_5,unit_id,unit_83,0.02
+wrong_true_abc_5,unit_id,unit_85,0.02
+wrong_true_abc_5,unit_id,unit_87,0.02
+wrong_true_abc_5,unit_id,unit_89,0.02
+wrong_true_abc_5,unit_id,unit_91,0.02
+wrong_true_abc_5,unit_id,unit_93,0.02
+wrong_true_abc_5,unit_id,unit_95,0.02
+wrong_true_abc_5,unit_id,unit_97,0.02
+wrong_true_abc_5,unit_id,unit_99,0.02
+wrong_true_all_10,unit_id,unit_0,0.01
+wrong_true_all_10,unit_id,unit_1,0.01
+wrong_true_all_10,unit_id,unit_10,0.01
+wrong_true_all_10,unit_id,unit_11,0.01
+wrong_true_all_10,unit_id,unit_12,0.01
+wrong_true_all_10,unit_id,unit_121,0.01
+wrong_true_all_10,unit_id,unit_123,0.01
+wrong_true_all_10,unit_id,unit_125,0.01
+wrong_true_all_10,unit_id,unit_127,0.01
+wrong_true_all_10,unit_id,unit_129,0.01
+wrong_true_all_10,unit_id,unit_13,0.01
+wrong_true_all_10,unit_id,unit_131,0.01
+wrong_true_all_10,unit_id,unit_133,0.01
+wrong_true_all_10,unit_id,unit_135,0.01
+wrong_true_all_10,unit_id,unit_137,0.01
+wrong_true_all_10,unit_id,unit_139,0.01
+wrong_true_all_10,unit_id,unit_14,0.01
+wrong_true_all_10,unit_id,unit_140,0.01
+wrong_true_all_10,unit_id,unit_142,0.01
+wrong_true_all_10,unit_id,unit_144,0.01
+wrong_true_all_10,unit_id,unit_146,0.01
+wrong_true_all_10,unit_id,unit_148,0.01
+wrong_true_all_10,unit_id,unit_15,0.01
+wrong_true_all_10,unit_id,unit_150,0.01
+wrong_true_all_10,unit_id,unit_152,0.01
+wrong_true_all_10,unit_id,unit_154,0.01
+wrong_true_all_10,unit_id,unit_156,0.01
+wrong_true_all_10,unit_id,unit_158,0.01
+wrong_true_all_10,unit_id,unit_16,0.01
+wrong_true_all_10,unit_id,unit_160,0.01
+wrong_true_all_10,unit_id,unit_162,0.01
+wrong_true_all_10,unit_id,unit_164,0.01
+wrong_true_all_10,unit_id,unit_166,0.01
+wrong_true_all_10,unit_id,unit_168,0.01
+wrong_true_all_10,unit_id,unit_17,0.01
+wrong_true_all_10,unit_id,unit_170,0.01
+wrong_true_all_10,unit_id,unit_172,0.01
+wrong_true_all_10,unit_id,unit_174,0.01
+wrong_true_all_10,unit_id,unit_176,0.01
+wrong_true_all_10,unit_id,unit_178,0.01
+wrong_true_all_10,unit_id,unit_18,0.01
+wrong_true_all_10,unit_id,unit_181,0.01
+wrong_true_all_10,unit_id,unit_183,0.01
+wrong_true_all_10,unit_id,unit_185,0.01
+wrong_true_all_10,unit_id,unit_187,0.01
+wrong_true_all_10,unit_id,unit_189,0.01
+wrong_true_all_10,unit_id,unit_19,0.01
+wrong_true_all_10,unit_id,unit_191,0.01
+wrong_true_all_10,unit_id,unit_193,0.01
+wrong_true_all_10,unit_id,unit_195,0.01
+wrong_true_all_10,unit_id,unit_197,0.01
+wrong_true_all_10,unit_id,unit_199,0.01
+wrong_true_all_10,unit_id,unit_2,0.01
+wrong_true_all_10,unit_id,unit_21,0.01
+wrong_true_all_10,unit_id,unit_23,0.01
+wrong_true_all_10,unit_id,unit_25,0.01
+wrong_true_all_10,unit_id,unit_27,0.01
+wrong_true_all_10,unit_id,unit_29,0.01
+wrong_true_all_10,unit_id,unit_3,0.01
+wrong_true_all_10,unit_id,unit_31,0.01
+wrong_true_all_10,unit_id,unit_33,0.01
+wrong_true_all_10,unit_id,unit_35,0.01
+wrong_true_all_10,unit_id,unit_37,0.01
+wrong_true_all_10,unit_id,unit_39,0.01
+wrong_true_all_10,unit_id,unit_4,0.01
+wrong_true_all_10,unit_id,unit_40,0.01
+wrong_true_all_10,unit_id,unit_41,0.01
+wrong_true_all_10,unit_id,unit_42,0.01
+wrong_true_all_10,unit_id,unit_43,0.01
+wrong_true_all_10,unit_id,unit_44,0.01
+wrong_true_all_10,unit_id,unit_45,0.01
+wrong_true_all_10,unit_id,unit_46,0.01
+wrong_true_all_10,unit_id,unit_47,0.01
+wrong_true_all_10,unit_id,unit_48,0.01
+wrong_true_all_10,unit_id,unit_49,0.01
+wrong_true_all_10,unit_id,unit_5,0.01
+wrong_true_all_10,unit_id,unit_50,0.01
+wrong_true_all_10,unit_id,unit_51,0.01
+wrong_true_all_10,unit_id,unit_52,0.01
+wrong_true_all_10,unit_id,unit_53,0.01
+wrong_true_all_10,unit_id,unit_54,0.01
+wrong_true_all_10,unit_id,unit_55,0.01
+wrong_true_all_10,unit_id,unit_56,0.01
+wrong_true_all_10,unit_id,unit_57,0.01
+wrong_true_all_10,unit_id,unit_58,0.01
+wrong_true_all_10,unit_id,unit_59,0.01
+wrong_true_all_10,unit_id,unit_6,0.01
+wrong_true_all_10,unit_id,unit_7,0.01
+wrong_true_all_10,unit_id,unit_8,0.01
+wrong_true_all_10,unit_id,unit_81,0.01
+wrong_true_all_10,unit_id,unit_83,0.01
+wrong_true_all_10,unit_id,unit_85,0.01
+wrong_true_all_10,unit_id,unit_87,0.01
+wrong_true_all_10,unit_id,unit_89,0.01
+wrong_true_all_10,unit_id,unit_9,0.01
+wrong_true_all_10,unit_id,unit_91,0.01
+wrong_true_all_10,unit_id,unit_93,0.01
+wrong_true_all_10,unit_id,unit_95,0.01
+wrong_true_all_10,unit_id,unit_97,0.01
+wrong_true_all_10,unit_id,unit_99,0.01
+wrong_true_politifact_5,unit_id,unit_0,0.02
+wrong_true_politifact_5,unit_id,unit_10,0.02
+wrong_true_politifact_5,unit_id,unit_12,0.02
+wrong_true_politifact_5,unit_id,unit_121,0.02
+wrong_true_politifact_5,unit_id,unit_123,0.02
+wrong_true_politifact_5,unit_id,unit_125,0.02
+wrong_true_politifact_5,unit_id,unit_127,0.02
+wrong_true_politifact_5,unit_id,unit_129,0.02
+wrong_true_politifact_5,unit_id,unit_131,0.02
+wrong_true_politifact_5,unit_id,unit_133,0.02
+wrong_true_politifact_5,unit_id,unit_135,0.02
+wrong_true_politifact_5,unit_id,unit_137,0.02
+wrong_true_politifact_5,unit_id,unit_139,0.02
+wrong_true_politifact_5,unit_id,unit_14,0.02
+wrong_true_politifact_5,unit_id,unit_140,0.02
+wrong_true_politifact_5,unit_id,unit_142,0.02
+wrong_true_politifact_5,unit_id,unit_144,0.02
+wrong_true_politifact_5,unit_id,unit_146,0.02
+wrong_true_politifact_5,unit_id,unit_148,0.02
+wrong_true_politifact_5,unit_id,unit_150,0.02
+wrong_true_politifact_5,unit_id,unit_152,0.02
+wrong_true_politifact_5,unit_id,unit_154,0.02
+wrong_true_politifact_5,unit_id,unit_156,0.02
+wrong_true_politifact_5,unit_id,unit_158,0.02
+wrong_true_politifact_5,unit_id,unit_16,0.02
+wrong_true_politifact_5,unit_id,unit_18,0.02
+wrong_true_politifact_5,unit_id,unit_2,0.02
+wrong_true_politifact_5,unit_id,unit_21,0.02
+wrong_true_politifact_5,unit_id,unit_23,0.02
+wrong_true_politifact_5,unit_id,unit_25,0.02
+wrong_true_politifact_5,unit_id,unit_27,0.02
+wrong_true_politifact_5,unit_id,unit_29,0.02
+wrong_true_politifact_5,unit_id,unit_31,0.02
+wrong_true_politifact_5,unit_id,unit_33,0.02
+wrong_true_politifact_5,unit_id,unit_35,0.02
+wrong_true_politifact_5,unit_id,unit_37,0.02
+wrong_true_politifact_5,unit_id,unit_39,0.02
+wrong_true_politifact_5,unit_id,unit_4,0.02
+wrong_true_politifact_5,unit_id,unit_40,0.02
+wrong_true_politifact_5,unit_id,unit_42,0.02
+wrong_true_politifact_5,unit_id,unit_44,0.02
+wrong_true_politifact_5,unit_id,unit_46,0.02
+wrong_true_politifact_5,unit_id,unit_48,0.02
+wrong_true_politifact_5,unit_id,unit_50,0.02
+wrong_true_politifact_5,unit_id,unit_52,0.02
+wrong_true_politifact_5,unit_id,unit_54,0.02
+wrong_true_politifact_5,unit_id,unit_56,0.02
+wrong_true_politifact_5,unit_id,unit_58,0.02
+wrong_true_politifact_5,unit_id,unit_6,0.02
+wrong_true_politifact_5,unit_id,unit_8,0.02
+correct_false_abc_5,query_amount,1.0,0.7
+correct_false_abc_5,query_amount,2.0,0.12
+correct_false_abc_5,query_amount,3.0,0.06
+correct_false_abc_5,query_amount,4.0,0.02
+correct_false_abc_5,query_amount,5.0,0.06
+correct_false_abc_5,query_amount,7.0,0.02
+correct_false_abc_5,query_amount,11.0,0.02
+correct_false_all_10,query_amount,1.0,0.76
+correct_false_all_10,query_amount,2.0,0.1
+correct_false_all_10,query_amount,3.0,0.04
+correct_false_all_10,query_amount,4.0,0.03
+correct_false_all_10,query_amount,5.0,0.03
+correct_false_all_10,query_amount,6.0,0.01
+correct_false_all_10,query_amount,7.0,0.01
+correct_false_all_10,query_amount,8.0,0.01
+correct_false_all_10,query_amount,11.0,0.01
+correct_false_politifact_5,query_amount,1.0,0.82
+correct_false_politifact_5,query_amount,2.0,0.08
+correct_false_politifact_5,query_amount,3.0,0.02
+correct_false_politifact_5,query_amount,4.0,0.04
+correct_false_politifact_5,query_amount,6.0,0.02
+correct_false_politifact_5,query_amount,8.0,0.02
+correct_true_abc_5,query_amount,1.0,0.88
+correct_true_abc_5,query_amount,2.0,0.1
+correct_true_abc_5,query_amount,3.0,0.02
+correct_true_all_10,query_amount,1.0,0.84
+correct_true_all_10,query_amount,2.0,0.14
+correct_true_all_10,query_amount,3.0,0.01
+correct_true_politifact_5,query_amount,1.0,0.8
+correct_true_politifact_5,query_amount,2.0,0.18
+wrong_false_abc_5,query_amount,1.0,0.86
+wrong_false_abc_5,query_amount,2.0,0.08
+wrong_false_abc_5,query_amount,3.0,0.04
+wrong_false_abc_5,query_amount,8.0,0.02
+wrong_false_all_10,query_amount,1.0,0.78
+wrong_false_all_10,query_amount,2.0,0.12
+wrong_false_all_10,query_amount,3.0,0.05
+wrong_false_all_10,query_amount,4.0,0.01
+wrong_false_all_10,query_amount,5.0,0.02
+wrong_false_all_10,query_amount,8.0,0.01
+wrong_false_politifact_5,query_amount,1.0,0.74
+wrong_false_politifact_5,query_amount,2.0,0.14
+wrong_false_politifact_5,query_amount,3.0,0.04
+wrong_false_politifact_5,query_amount,4.0,0.04
+wrong_false_politifact_5,query_amount,5.0,0.04
+wrong_true_abc_5,query_amount,1.0,0.78
+wrong_true_abc_5,query_amount,2.0,0.16
+wrong_true_abc_5,query_amount,3.0,0.06
+wrong_true_all_10,query_amount,1.0,0.7
+wrong_true_all_10,query_amount,2.0,0.18
+wrong_true_all_10,query_amount,3.0,0.08
+wrong_true_all_10,query_amount,4.0,0.02
+wrong_true_all_10,query_amount,6.0,0.02
+wrong_true_politifact_5,query_amount,1.0,0.76
+wrong_true_politifact_5,query_amount,2.0,0.18
+wrong_true_politifact_5,query_amount,3.0,0.04
+wrong_true_politifact_5,query_amount,6.0,0.02
+correct_false_abc_5,response_position,1.0,0.64
+correct_false_abc_5,response_position,2.0,0.14
+correct_false_abc_5,response_position,3.0,0.06
+correct_false_abc_5,response_position,4.0,0.02
+correct_false_abc_5,response_position,5.0,0.04
+correct_false_abc_5,response_position,6.0,0.02
+correct_false_abc_5,response_position,8.0,0.04
+correct_false_abc_5,response_position,9.0,0.04
+correct_false_all_10,response_position,1.0,0.44
+correct_false_all_10,response_position,2.0,0.17
+correct_false_all_10,response_position,3.0,0.14
+correct_false_all_10,response_position,4.0,0.06
+correct_false_all_10,response_position,5.0,0.03
+correct_false_all_10,response_position,6.0,0.02
+correct_false_all_10,response_position,7.0,0.03
+correct_false_all_10,response_position,8.0,0.03
+correct_false_all_10,response_position,9.0,0.05
+correct_false_all_10,response_position,10.0,0.01
+correct_false_all_10,response_position,11.0,0.01
+correct_false_all_10,response_position,13.0,0.01
+correct_false_politifact_5,response_position,1.0,0.24
+correct_false_politifact_5,response_position,2.0,0.2
+correct_false_politifact_5,response_position,3.0,0.22
+correct_false_politifact_5,response_position,4.0,0.1
+correct_false_politifact_5,response_position,5.0,0.02
+correct_false_politifact_5,response_position,6.0,0.02
+correct_false_politifact_5,response_position,7.0,0.06
+correct_false_politifact_5,response_position,8.0,0.02
+correct_false_politifact_5,response_position,9.0,0.06
+correct_false_politifact_5,response_position,10.0,0.02
+correct_false_politifact_5,response_position,11.0,0.02
+correct_false_politifact_5,response_position,13.0,0.02
+correct_true_abc_5,response_position,1.0,0.52
+correct_true_abc_5,response_position,2.0,0.04
+correct_true_abc_5,response_position,3.0,0.16
+correct_true_abc_5,response_position,4.0,0.12
+correct_true_abc_5,response_position,5.0,0.04
+correct_true_abc_5,response_position,6.0,0.04
+correct_true_abc_5,response_position,7.0,0.02
+correct_true_abc_5,response_position,8.0,0.02
+correct_true_abc_5,response_position,10.0,0.04
+correct_true_all_10,response_position,1.0,0.46
+correct_true_all_10,response_position,2.0,0.11
+correct_true_all_10,response_position,3.0,0.14
+correct_true_all_10,response_position,4.0,0.1
+correct_true_all_10,response_position,5.0,0.04
+correct_true_all_10,response_position,6.0,0.03
+correct_true_all_10,response_position,7.0,0.04
+correct_true_all_10,response_position,8.0,0.02
+correct_true_all_10,response_position,9.0,0.01
+correct_true_all_10,response_position,10.0,0.04
+correct_true_politifact_5,response_position,1.0,0.4
+correct_true_politifact_5,response_position,2.0,0.18
+correct_true_politifact_5,response_position,3.0,0.12
+correct_true_politifact_5,response_position,4.0,0.08
+correct_true_politifact_5,response_position,5.0,0.04
+correct_true_politifact_5,response_position,6.0,0.02
+correct_true_politifact_5,response_position,7.0,0.06
+correct_true_politifact_5,response_position,8.0,0.02
+correct_true_politifact_5,response_position,9.0,0.02
+correct_true_politifact_5,response_position,10.0,0.04
+wrong_false_abc_5,response_position,1.0,0.42
+wrong_false_abc_5,response_position,2.0,0.12
+wrong_false_abc_5,response_position,3.0,0.2
+wrong_false_abc_5,response_position,4.0,0.12
+wrong_false_abc_5,response_position,5.0,0.04
+wrong_false_abc_5,response_position,6.0,0.04
+wrong_false_abc_5,response_position,7.0,0.04
+wrong_false_abc_5,response_position,25.0,0.02
+wrong_false_all_10,response_position,1.0,0.45
+wrong_false_all_10,response_position,2.0,0.16
+wrong_false_all_10,response_position,3.0,0.15
+wrong_false_all_10,response_position,4.0,0.07
+wrong_false_all_10,response_position,5.0,0.07
+wrong_false_all_10,response_position,6.0,0.02
+wrong_false_all_10,response_position,7.0,0.02
+wrong_false_all_10,response_position,9.0,0.01
+wrong_false_all_10,response_position,10.0,0.01
+wrong_false_all_10,response_position,13.0,0.01
+wrong_false_all_10,response_position,25.0,0.02
+wrong_false_politifact_5,response_position,1.0,0.42
+wrong_false_politifact_5,response_position,2.0,0.26
+wrong_false_politifact_5,response_position,3.0,0.1
+wrong_false_politifact_5,response_position,4.0,0.06
+wrong_false_politifact_5,response_position,5.0,0.06
+wrong_false_politifact_5,response_position,7.0,0.02
+wrong_false_politifact_5,response_position,9.0,0.02
+wrong_false_politifact_5,response_position,10.0,0.02
+wrong_false_politifact_5,response_position,25.0,0.02
+wrong_false_politifact_5,response_position,31.0,0.02
+wrong_true_abc_5,response_position,1.0,0.4
+wrong_true_abc_5,response_position,2.0,0.08
+wrong_true_abc_5,response_position,3.0,0.08
+wrong_true_abc_5,response_position,4.0,0.12
+wrong_true_abc_5,response_position,5.0,0.1
+wrong_true_abc_5,response_position,6.0,0.06
+wrong_true_abc_5,response_position,7.0,0.12
+wrong_true_abc_5,response_position,8.0,0.02
+wrong_true_abc_5,response_position,9.0,0.02
+wrong_true_all_10,response_position,1.0,0.36
+wrong_true_all_10,response_position,2.0,0.16
+wrong_true_all_10,response_position,3.0,0.17
+wrong_true_all_10,response_position,4.0,0.06
+wrong_true_all_10,response_position,5.0,0.06
+wrong_true_all_10,response_position,6.0,0.1
+wrong_true_all_10,response_position,7.0,0.06
+wrong_true_all_10,response_position,8.0,0.01
+wrong_true_all_10,response_position,9.0,0.01
+wrong_true_all_10,response_position,10.0,0.01
+wrong_true_politifact_5,response_position,1.0,0.26
+wrong_true_politifact_5,response_position,2.0,0.18
+wrong_true_politifact_5,response_position,3.0,0.2
+wrong_true_politifact_5,response_position,4.0,0.08
+wrong_true_politifact_5,response_position,5.0,0.06
+wrong_true_politifact_5,response_position,6.0,0.12
+wrong_true_politifact_5,response_position,7.0,0.06
+wrong_true_politifact_5,response_position,9.0,0.02
+wrong_true_politifact_5,response_position,10.0,0.02
+correct_false_abc_5,selected_amount,1.0,0.94
+correct_false_abc_5,selected_amount,2.0,0.04
+correct_false_abc_5,selected_amount,3.0,0.02
+correct_false_all_10,selected_amount,1.0,0.89
+correct_false_all_10,selected_amount,2.0,0.06
+correct_false_all_10,selected_amount,3.0,0.04
+correct_false_all_10,selected_amount,4.0,0.01
+correct_false_politifact_5,selected_amount,1.0,0.84
+correct_false_politifact_5,selected_amount,2.0,0.08
+correct_false_politifact_5,selected_amount,3.0,0.06
+correct_false_politifact_5,selected_amount,4.0,0.02
+correct_true_abc_5,selected_amount,1.0,0.9
+correct_true_abc_5,selected_amount,2.0,0.08
+correct_true_abc_5,selected_amount,3.0,0.02
+correct_true_all_10,selected_amount,1.0,0.84
+correct_true_all_10,selected_amount,2.0,0.12
+correct_true_all_10,selected_amount,3.0,0.03
+correct_true_politifact_5,selected_amount,1.0,0.78
+correct_true_politifact_5,selected_amount,2.0,0.16
+correct_true_politifact_5,selected_amount,3.0,0.04
+wrong_false_abc_5,selected_amount,1.0,0.9
+wrong_false_abc_5,selected_amount,2.0,0.06
+wrong_false_abc_5,selected_amount,3.0,0.04
+wrong_false_all_10,selected_amount,1.0,0.89
+wrong_false_all_10,selected_amount,2.0,0.07
+wrong_false_all_10,selected_amount,3.0,0.02
+wrong_false_all_10,selected_amount,4.0,0.01
+wrong_false_politifact_5,selected_amount,1.0,0.86
+wrong_false_politifact_5,selected_amount,2.0,0.1
+wrong_false_politifact_5,selected_amount,3.0,0.02
+wrong_false_politifact_5,selected_amount,4.0,0.02
+wrong_true_abc_5,selected_amount,1.0,0.86
+wrong_true_abc_5,selected_amount,2.0,0.14
+wrong_true_all_10,selected_amount,1.0,0.83
+wrong_true_all_10,selected_amount,2.0,0.12
+wrong_true_all_10,selected_amount,3.0,0.04
+wrong_true_all_10,selected_amount,5.0,0.01
+wrong_true_politifact_5,selected_amount,1.0,0.76
+wrong_true_politifact_5,selected_amount,2.0,0.16
+wrong_true_politifact_5,selected_amount,3.0,0.06
+wrong_true_politifact_5,selected_amount,5.0,0.02
